@@ -1,6 +1,9 @@
 name: Update WCA Data
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Tous les lundis à 04:00 UTC ! 
     - cron: '0 4 * * 1'
