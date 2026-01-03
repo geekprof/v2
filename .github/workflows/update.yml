@@ -13,6 +13,8 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Requis pour pousser sur la branche gh-pages
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
