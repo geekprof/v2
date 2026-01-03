@@ -14,7 +14,9 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Requis pour pousser sur la branche gh-pages
+      contents: write 
+      pages: write      # Requis pour le déploiement Pages
+      id-token: write   # Requis pour l'authentification
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,23 +31,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Fetch Data
-        run: python src/01_fetch_data.py
+      - name: Run Data Pipeline
+        run: |
+          python src/01_fetch_data.py
+          python src/02_extract_wca_v2.py
+          python src/03_build_stats.py
+          python src/04_build_map.py
+          python src/05_sync_web_data.py
 
-      - name: Run Extraction
-        run: python src/02_extract_wca_v2.py
-
-      - name: Run Build Stats
-        run: python src/03_build_stats.py
-
-      - name: Run Build Map
-        run: python src/04_build_map.py
-
-      - name: Run Sync to Web
-        run: python src/05_sync_web_data.py
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './web'
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: web # Dossier à publier
-          branch: gh-pages # Branche de destination pour le site
+        id: deployment
+        uses: actions/deploy-pages@v4
