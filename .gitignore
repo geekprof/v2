@@ -1,4 +1,4 @@
-# Ignorer les dossiers et fichiers lourds ouf
+# Ignorer les dossiers et fichiers lourds
 data/
 *.tsv
 __pycache__/
