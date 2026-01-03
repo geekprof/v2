@@ -2,7 +2,7 @@ name: Update WCA Data
 
 on:
   schedule:
-    # Tous les lundis à 04:00 UTC
+    # Tous les lundis à 04:00 UTC ! 
     - cron: '0 4 * * 1'
   workflow_dispatch:
     # Permet de lancer manuellement depuis l'interface GitHub
