@@ -7,7 +7,9 @@
       "compName": "Longjum'Open 2024",
       "date": "2024-01-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 37,
       "attemptsCs": [
         14039,
         12529
@@ -26,7 +28,9 @@
       "compName": "Palais'Open 2024",
       "date": "2024-09-22",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 38,
       "attemptsCs": [
         15794,
         14008
@@ -45,7 +49,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 12,
       "attemptsCs": [
         15012,
         11276,
@@ -70,7 +76,9 @@
       "compName": "Tigery Open 2025",
       "date": "2025-03-23",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 25,
       "attemptsCs": [
         17989,
         12186
@@ -89,7 +97,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 104,
       "attemptsCs": [
         11211,
         12436
@@ -108,7 +118,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 14,
       "attemptsCs": [
         9811,
         10694,

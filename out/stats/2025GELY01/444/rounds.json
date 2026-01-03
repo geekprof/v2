@@ -7,7 +7,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 54,
       "attemptsCs": [
         11459,
         12804
@@ -26,7 +28,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 88,
       "attemptsCs": [
         13196,
         11894

@@ -7,7 +7,9 @@
       "compName": "Longjum'Open 2024",
       "date": "2024-01-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "m",
+      "pos": 39,
       "attemptsCs": [
         25740
       ],
@@ -24,7 +26,9 @@
       "compName": "Palais'Open 2024",
       "date": "2024-09-22",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "m",
+      "pos": 30,
       "attemptsCs": [
         25614
       ],
@@ -41,7 +45,9 @@
       "compName": "Tigery Open 2025",
       "date": "2025-03-23",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "m",
+      "pos": 24,
       "attemptsCs": [
         -1
       ],
@@ -58,7 +64,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "m",
+      "pos": 28,
       "attemptsCs": [
         21033
       ],
@@ -75,7 +83,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "m",
+      "pos": 32,
       "attemptsCs": [
         20909,
         19512,
@@ -96,7 +106,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "m",
+      "pos": 16,
       "attemptsCs": [
         16974,
         19092,

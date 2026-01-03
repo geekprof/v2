@@ -12,6 +12,21 @@
       "bestAvgText": "-",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 20,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "6:45.62",
+          "avg": "-",
+          "pos": 25
+        },
+        {
+          "name": "Second round",
+          "single": "DNF",
+          "avg": "-",
+          "pos": 20
+        }
+      ],
       "roundsCount": 2
     }
   ]

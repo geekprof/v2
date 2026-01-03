@@ -12,6 +12,15 @@
       "bestAvgText": "7.51",
       "isPRSingle": true,
       "isPRAvg": true,
+      "finalPos": 67,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "4.41",
+          "avg": "7.51",
+          "pos": 67
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -24,6 +33,15 @@
       "bestAvgText": "6.59",
       "isPRSingle": true,
       "isPRAvg": true,
+      "finalPos": 29,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "2.96",
+          "avg": "6.59",
+          "pos": 29
+        }
+      ],
       "roundsCount": 1
     }
   ]

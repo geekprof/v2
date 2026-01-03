@@ -7,7 +7,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 48,
       "attemptsCs": [
         4487,
         5530,

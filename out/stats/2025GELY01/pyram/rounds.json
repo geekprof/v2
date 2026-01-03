@@ -7,7 +7,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 33,
       "attemptsCs": [
         868,
         890,
@@ -32,7 +34,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         1085,
         931,
@@ -57,7 +61,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         1018,
         -1,
@@ -82,7 +88,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 32,
       "attemptsCs": [
         740,
         675,

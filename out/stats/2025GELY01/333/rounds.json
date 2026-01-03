@@ -7,7 +7,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 83,
       "attemptsCs": [
         2834,
         2306,
@@ -32,7 +34,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 80,
       "attemptsCs": [
         2164,
         2402,
@@ -57,7 +61,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 33,
       "attemptsCs": [
         1821,
         2205,
@@ -82,7 +88,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 34,
       "attemptsCs": [
         1941,
         2494,
@@ -107,7 +115,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 57,
       "attemptsCs": [
         2018,
         2623,
@@ -132,7 +142,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 89,
       "attemptsCs": [
         1886,
         2735,

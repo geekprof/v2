@@ -7,7 +7,9 @@
       "compName": "Longjum'Open 2024",
       "date": "2024-01-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 52,
       "attemptsCs": [
         13833,
         12868
@@ -26,7 +28,9 @@
       "compName": "Longjum'Open 2024",
       "date": "2024-01-28",
       "roundTypeId": "e",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 50,
       "attemptsCs": [
         15030,
         12654
@@ -45,7 +49,9 @@
       "compName": "Palais'Open 2024",
       "date": "2024-09-22",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 50,
       "attemptsCs": [
         11413,
         10783,
@@ -70,7 +76,9 @@
       "compName": "Chevry Open 2024",
       "date": "2024-10-06",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 26,
       "attemptsCs": [
         13349,
         9905,
@@ -95,7 +103,9 @@
       "compName": "R\u00e9au Open 2024",
       "date": "2024-11-24",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 23,
       "attemptsCs": [
         13528,
         12475,
@@ -120,7 +130,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 15,
       "attemptsCs": [
         9659,
         8817,
@@ -145,7 +157,9 @@
       "compName": "Tigery Open 2025",
       "date": "2025-03-23",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 32,
       "attemptsCs": [
         9130,
         11914,
@@ -170,7 +184,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 82,
       "attemptsCs": [
         9271,
         11363
@@ -189,7 +205,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 29,
       "attemptsCs": [
         9806,
         9861,
@@ -214,7 +232,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "e",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 31,
       "attemptsCs": [
         8783,
         10172,
@@ -239,7 +259,9 @@
       "compName": "Nanterre Open 2025",
       "date": "2025-05-18",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 20,
       "attemptsCs": [
         9711,
         9363,
@@ -264,7 +286,9 @@
       "compName": "Nanterre Open 2025",
       "date": "2025-05-18",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         9084,
         9333,
@@ -289,7 +313,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 32,
       "attemptsCs": [
         8853,
         9169,
@@ -314,7 +340,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 8,
       "attemptsCs": [
         9130,
         9052,
@@ -339,7 +367,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         8220,
         8570,
@@ -364,7 +394,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 35,
       "attemptsCs": [
         8867,
         9924,

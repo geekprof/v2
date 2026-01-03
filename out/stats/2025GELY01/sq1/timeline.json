@@ -12,6 +12,15 @@
       "bestAvgText": "-",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 45,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:39.42",
+          "avg": "-",
+          "pos": 45
+        }
+      ],
       "roundsCount": 1
     }
   ]

@@ -7,7 +7,9 @@
       "compName": "Longjum'Open 2024",
       "date": "2024-01-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 59,
       "attemptsCs": [
         3516,
         2886,
@@ -32,7 +34,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 48,
       "attemptsCs": [
         3118,
         3123,
@@ -57,7 +61,9 @@
       "compName": "R\u00e9au Open 2024",
       "date": "2024-11-24",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 19,
       "attemptsCs": [
         2829,
         4856,
@@ -82,7 +88,9 @@
       "compName": "R\u00e9au Open 2024",
       "date": "2024-11-24",
       "roundTypeId": "e",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 13,
       "attemptsCs": [
         2476,
         2179,
@@ -107,7 +115,9 @@
       "compName": "R\u00e9au Open 2024",
       "date": "2024-11-24",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 13,
       "attemptsCs": [
         3782,
         2530,
@@ -132,7 +142,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 8,
       "attemptsCs": [
         1919,
         1890,
@@ -157,7 +169,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         2412,
         2274,
@@ -182,7 +196,9 @@
       "compName": "Bayonne Atoutcubes Open 2025",
       "date": "2025-03-02",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 13,
       "attemptsCs": [
         3088,
         2549,
@@ -207,7 +223,9 @@
       "compName": "Tigery Open 2025",
       "date": "2025-03-23",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 26,
       "attemptsCs": [
         2367,
         2145,
@@ -232,7 +250,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 101,
       "attemptsCs": [
         2186,
         2498,
@@ -257,7 +277,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 21,
       "attemptsCs": [
         2129,
         2847,
@@ -282,7 +304,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 21,
       "attemptsCs": [
         2650,
         2155,

@@ -7,7 +7,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "m",
+      "pos": 27,
       "attemptsCs": [
         35239
       ],
@@ -24,7 +26,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "m",
+      "pos": 20,
       "attemptsCs": [
         29564,
         32998,

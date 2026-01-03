@@ -7,7 +7,9 @@
       "compName": "Nanterre Open 2025",
       "date": "2025-05-18",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "3",
+      "pos": 25,
       "attemptsCs": [
         40562,
         -1,
@@ -28,7 +30,9 @@
       "compName": "Nanterre Open 2025",
       "date": "2025-05-18",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "3",
+      "pos": 20,
       "attemptsCs": [
         -1,
         -2,

@@ -12,6 +12,15 @@
       "bestAvgText": "-",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 27,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "5:52.39",
+          "avg": "-",
+          "pos": 27
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -24,6 +33,15 @@
       "bestAvgText": "5:10.27",
       "isPRSingle": true,
       "isPRAvg": true,
+      "finalPos": 20,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "4:55.64",
+          "avg": "5:10.27",
+          "pos": 20
+        }
+      ],
       "roundsCount": 1
     }
   ]

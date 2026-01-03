@@ -12,6 +12,15 @@
       "bestAvgText": "-",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 55,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "2:31.14",
+          "avg": "-",
+          "pos": 55
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -24,6 +33,15 @@
       "bestAvgText": "-",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 34,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "2:23.06",
+          "avg": "-",
+          "pos": 34
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -36,6 +54,15 @@
       "bestAvgText": "2:20.53",
       "isPRSingle": true,
       "isPRAvg": true,
+      "finalPos": 10,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "2:09.68",
+          "avg": "2:20.53",
+          "pos": 10
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -48,6 +75,15 @@
       "bestAvgText": "-",
       "isPRSingle": false,
       "isPRAvg": false,
+      "finalPos": 29,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "2:25.43",
+          "avg": "-",
+          "pos": 29
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -60,6 +96,15 @@
       "bestAvgText": "2:01.04",
       "isPRSingle": true,
       "isPRAvg": true,
+      "finalPos": 23,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:46.29",
+          "avg": "2:01.04",
+          "pos": 23
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -72,6 +117,15 @@
       "bestAvgText": "-",
       "isPRSingle": false,
       "isPRAvg": false,
+      "finalPos": 23,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:50.78",
+          "avg": "-",
+          "pos": 23
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -84,6 +138,15 @@
       "bestAvgText": "-",
       "isPRSingle": false,
       "isPRAvg": false,
+      "finalPos": 28,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:56.61",
+          "avg": "-",
+          "pos": 28
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -96,6 +159,15 @@
       "bestAvgText": "-",
       "isPRSingle": false,
       "isPRAvg": false,
+      "finalPos": 25,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "2:04.86",
+          "avg": "-",
+          "pos": 25
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -108,6 +180,15 @@
       "bestAvgText": "1:47.55",
       "isPRSingle": true,
       "isPRAvg": true,
+      "finalPos": 33,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:41.52",
+          "avg": "1:47.55",
+          "pos": 33
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -120,6 +201,15 @@
       "bestAvgText": "1:51.54",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 30,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:40.75",
+          "avg": "1:51.54",
+          "pos": 30
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -132,6 +222,15 @@
       "bestAvgText": "-",
       "isPRSingle": false,
       "isPRAvg": false,
+      "finalPos": 111,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:50.22",
+          "avg": "-",
+          "pos": 111
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -144,6 +243,21 @@
       "bestAvgText": "1:47.04",
       "isPRSingle": false,
       "isPRAvg": true,
+      "finalPos": 41,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:47.19",
+          "avg": "-",
+          "pos": 44
+        },
+        {
+          "name": "Second round",
+          "single": "1:43.27",
+          "avg": "1:47.04",
+          "pos": 41
+        }
+      ],
       "roundsCount": 2
     },
     {
@@ -156,6 +270,21 @@
       "bestAvgText": "-",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 25,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:39.43",
+          "avg": "-",
+          "pos": 23
+        },
+        {
+          "name": "Second round",
+          "single": "1:44.38",
+          "avg": "-",
+          "pos": 25
+        }
+      ],
       "roundsCount": 2
     },
     {
@@ -168,6 +297,15 @@
       "bestAvgText": "1:53.06",
       "isPRSingle": false,
       "isPRAvg": false,
+      "finalPos": 25,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:47.56",
+          "avg": "1:53.06",
+          "pos": 25
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -180,6 +318,15 @@
       "bestAvgText": "-",
       "isPRSingle": false,
       "isPRAvg": false,
+      "finalPos": 43,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:46.94",
+          "avg": "-",
+          "pos": 43
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -192,6 +339,15 @@
       "bestAvgText": "1:46.33",
       "isPRSingle": false,
       "isPRAvg": true,
+      "finalPos": 18,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:41.44",
+          "avg": "1:46.33",
+          "pos": 18
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -204,6 +360,15 @@
       "bestAvgText": "1:46.31",
       "isPRSingle": true,
       "isPRAvg": true,
+      "finalPos": 29,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:33.58",
+          "avg": "1:46.31",
+          "pos": 29
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -216,6 +381,15 @@
       "bestAvgText": "1:43.49",
       "isPRSingle": false,
       "isPRAvg": true,
+      "finalPos": 46,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:42.86",
+          "avg": "1:43.49",
+          "pos": 46
+        }
+      ],
       "roundsCount": 1
     },
     {
@@ -228,6 +402,15 @@
       "bestAvgText": "1:47.06",
       "isPRSingle": true,
       "isPRAvg": false,
+      "finalPos": 19,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:32.66",
+          "avg": "1:47.06",
+          "pos": 19
+        }
+      ],
       "roundsCount": 1
     }
   ]

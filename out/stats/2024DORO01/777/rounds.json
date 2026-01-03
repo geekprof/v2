@@ -7,7 +7,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "m",
+      "pos": 30,
       "attemptsCs": [
         -1
       ],

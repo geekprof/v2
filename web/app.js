@@ -123,9 +123,11 @@ function updateEventDropdown(events) {
         eventSelect.appendChild(opt);
     });
 
-    // Set first event as default
+    // Set selected event: preserve current if available, otherwise first of list
     if (events.length > 0) {
-        state.eventId = events[0];
+        if (!events.includes(state.eventId)) {
+            state.eventId = events[0];
+        }
         eventSelect.value = state.eventId;
     }
 }
@@ -201,15 +203,27 @@ function renderTimeline(data) {
         backgroundColor: '#1e1e1e',
         tooltip: {
             trigger: 'axis',
+            confine: true, // Keep inside chart on mobile
             backgroundColor: 'rgba(30,30,30,0.9)',
             borderColor: '#333',
             textStyle: { color: '#eee' },
             formatter: (params) => {
                 const idx = params[0].dataIndex;
                 const p = points[idx];
-                return `<b>${p.compName}</b><br/>
-                        Single: ${p.bestSingleText} ${p.isPRSingle ? '🔥' : ''}<br/>
-                        Avg: ${p.bestAvgText} ${p.isPRAvg ? '🔥' : ''}`;
+
+                let roundsHtml = p.rounds.map(r =>
+                    `<div style="display:flex; justify-content:space-between; gap:15px; font-size:12px; border-top:1px solid #333; padding-top:2px; margin-top:2px;">
+                        <span>${r.name}</span>
+                        <span>S: <b>${r.single}</b></span>
+                        <span>A: <b>${r.avg}</b></span>
+                        <span>#<b>${r.pos}</b></span>
+                    </div>`
+                ).join('');
+
+                return `<div style="min-width:200px">
+                            <b style="color:#64b5f6">${p.compName}</b><br/>
+                            ${roundsHtml}
+                        </div>`;
             }
         },
         grid: { left: 50, right: 20, top: 40, bottom: window.innerWidth <= 768 ? 30 : 60 },
@@ -294,6 +308,7 @@ function renderRounds(data) {
         backgroundColor: '#1e1e1e',
         tooltip: {
             trigger: 'item',
+            confine: true, // Keep inside chart on mobile
             backgroundColor: 'rgba(30,30,30,0.9)',
             borderColor: '#333',
             textStyle: { color: '#eee' },
@@ -303,15 +318,16 @@ function renderRounds(data) {
                     const r = rounds[data.roundIndex];
                     const time = params.value[1].toFixed(2);
                     return `<b>${r.compName}</b><br/>
-                            Round n°${r.roundTypeId === 'f' ? '1' : r.roundTypeId}<br/>
+                            ${r.roundName}<br/>
                             Solve n°${data.attemptIndex + 1}: <b>${time}</b>`
                 } else if (params.seriesName === 'Average') {
                     const rIdx = params.data[0];
                     const r = rounds[rIdx];
                     if (!r) return '';
                     return `<b>${r.compName}</b><br/>
-                            Round n°${r.roundTypeId === 'f' ? '1' : r.roundTypeId}<br/>
-                            AVG: <b>${params.value[1].toFixed(2)}</b>`;
+                            ${r.roundName}<br/>
+                            AVG: <b>${params.value[1].toFixed(2)}</b><br/>
+                            Rank: <b>${r.pos}</b>`;
                 }
             }
         },
@@ -327,7 +343,7 @@ function renderRounds(data) {
             minInterval: 1,
             maxInterval: 1,
             axisLabel: {
-                formatter: val => rounds[val] ? rounds[val].compName.substring(0, 10) + '...' : ''
+                formatter: val => `Round ${parseInt(val) + 1}`
             }
         },
         yAxis: {

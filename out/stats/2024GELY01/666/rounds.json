@@ -7,7 +7,9 @@
       "compName": "Tigery Open 2025",
       "date": "2025-03-23",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "m",
+      "pos": 24,
       "attemptsCs": [
         -1
       ],
@@ -24,7 +26,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "m",
+      "pos": 34,
       "attemptsCs": [
         -1
       ],
@@ -41,7 +45,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "m",
+      "pos": 25,
       "attemptsCs": [
         18810,
         20735,
@@ -62,7 +68,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "m",
+      "pos": 15,
       "attemptsCs": [
         18030,
         17215,

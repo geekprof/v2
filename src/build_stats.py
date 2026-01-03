@@ -32,8 +32,9 @@ def load_data():
         comps = pd.read_csv(DATA_DIR / "competitions.tsv", sep='\t')
         events = pd.read_csv(DATA_DIR / "events.tsv", sep='\t')
         persons = pd.read_csv(DATA_DIR / "persons.tsv", sep='\t')
+        round_types = pd.read_csv(DATA_DIR / "round_types.tsv", sep='\t')
         
-        return results, attempts, comps, events, persons
+        return results, attempts, comps, events, persons, round_types
     except FileNotFoundError:
         logging.error("Cache not found. Run extract_wca_v2.py first.")
         return None, None, None, None, None
@@ -66,7 +67,7 @@ def build_person_index(results, persons_df):
     with open(out_file, "w") as f:
         json.dump(index_list, f, indent=2)
 
-def build_stats(results, attempts, comps):
+def build_stats(results, attempts, comps, round_types):
     """Build timeline and rounds stats."""
     
     # Merge results with competition info for dates
@@ -82,6 +83,10 @@ def build_stats(results, attempts, comps):
     
     results = results.merge(comps[['id', 'name', 'start_date', 'end_date', 'city_name']], 
                            left_on='competition_id', right_on='id', suffixes=('', '_comp'))
+    
+    # Merge with round types to get rank and name for sorting and display
+    results = results.merge(round_types[['id', 'rank', 'name']], 
+                           left_on='round_type_id', right_on='id', suffixes=('', '_rt'))
     
     # Process per person
     for person_id, person_group in results.groupby('person_id'):
@@ -110,13 +115,29 @@ def build_stats(results, attempts, comps):
                 
                 if valid_singles.empty: continue
                 
+                # Sort rounds in this comp by rank
+                comp_group_sorted = comp_group.sort_values('rank')
+                rounds_detail = []
+                for _, r_row in comp_group_sorted.iterrows():
+                    rounds_detail.append({
+                        "name": r_row['name_rt'],
+                        "single": format_time(r_row['best']),
+                        "avg": format_time(r_row['average']) if r_row['average'] > 0 else "-",
+                        "pos": int(r_row['pos'])
+                    })
+
+                # Get final rank from the furthest round reached
+                final_pos = comp_group_sorted.iloc[-1]['pos']
+                
                 comp_stats.append({
                     "meta": comp_meta,
                     "bestSingle": valid_singles.min(),
                     "bestAvg": valid_avgs.min() if not valid_avgs.empty else None,
                     "dateEnd": comp_meta['end_date'],
                     "len": len(comp_group),
-                    "compId": comp_id
+                    "compId": comp_id,
+                    "finalPos": int(final_pos),
+                    "rounds": rounds_detail
                 })
                 
             # Sort by date
@@ -148,6 +169,8 @@ def build_stats(results, attempts, comps):
                     "bestAvgText": format_time(stat['bestAvg']) if stat['bestAvg'] else "-",
                     "isPRSingle": is_pr_single,
                     "isPRAvg": is_pr_avg,
+                    "finalPos": stat['finalPos'],
+                    "rounds": stat['rounds'],
                     "roundsCount": stat['len']
                 })
             
@@ -165,6 +188,10 @@ def build_stats(results, attempts, comps):
             # Merge attempts with results to know which round it belongs to
             # But actually we iterate rounds (rows in event_group)
             
+            # Sort rounds within event group by competition date then round type rank
+            # We use start_date for competitions and rank for rounds
+            event_group = event_group.sort_values(['start_date', 'rank'])
+
             for _, row in event_group.iterrows():
                 # Get attempts for this result
                 res_attempts = relevant_attempts[relevant_attempts['result_id'] == row['id']]
@@ -185,7 +212,9 @@ def build_stats(results, attempts, comps):
                     "compName": row['name'],
                     "date": str(row['end_date'].date()), # Approximate date of round
                     "roundTypeId": row['round_type_id'],
+                    "roundName": row['name_rt'],
                     "formatId": row['format_id'],
+                    "pos": int(row['pos']),
                     "attemptsCs": attempts_values,
                     "attemptsText": attempts_text,
                     "bestCs": int(row['best']),
@@ -200,11 +229,11 @@ def build_stats(results, attempts, comps):
 
 def main():
     OUT_DIR.mkdir(exist_ok=True)
-    results, attempts, comps, events, persons = load_data()
+    results, attempts, comps, events, persons, round_types = load_data()
     if results is None: return
     
     build_person_index(results, persons)
-    build_stats(results, attempts, comps)
+    build_stats(results, attempts, comps, round_types)
     logging.info("Stats build complete.")
 
 if __name__ == "__main__":

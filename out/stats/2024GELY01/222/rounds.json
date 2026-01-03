@@ -7,7 +7,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 63,
       "attemptsCs": [
         727,
         602,
@@ -32,7 +34,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 68,
       "attemptsCs": [
         521,
         713,
@@ -57,7 +61,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 15,
       "attemptsCs": [
         498,
         366,
@@ -82,7 +88,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 19,
       "attemptsCs": [
         890,
         259,
@@ -107,7 +115,9 @@
       "compName": "Eaubonne Open 2025",
       "date": "2025-03-02",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 29,
       "attemptsCs": [
         417,
         538,
@@ -132,7 +142,9 @@
       "compName": "Eaubonne Open 2025",
       "date": "2025-03-02",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 46,
       "attemptsCs": [
         743,
         542,
@@ -157,7 +169,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 131,
       "attemptsCs": [
         468,
         511,
@@ -182,7 +196,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 31,
       "attemptsCs": [
         438,
         545,
@@ -207,7 +223,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 10,
       "attemptsCs": [
         855,
         358,
@@ -232,7 +250,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 7,
       "attemptsCs": [
         498,
         384,

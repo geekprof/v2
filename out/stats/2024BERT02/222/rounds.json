@@ -7,7 +7,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 17,
       "attemptsCs": [
         384,
         391,
@@ -32,7 +34,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 31,
       "attemptsCs": [
         527,
         472,
@@ -57,7 +61,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 57,
       "attemptsCs": [
         312,
         -1,
@@ -82,7 +88,9 @@
       "compName": "Bayonne Atoutcubes Open 2025",
       "date": "2025-03-02",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 83,
       "attemptsCs": [
         -1,
         375,
@@ -107,7 +115,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 49,
       "attemptsCs": [
         726,
         356,
@@ -132,7 +142,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 77,
       "attemptsCs": [
         382,
         454,
@@ -157,7 +169,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         295,
         370,
@@ -182,7 +196,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 14,
       "attemptsCs": [
         584,
         377,
@@ -207,7 +223,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 14,
       "attemptsCs": [
         444,
         450,

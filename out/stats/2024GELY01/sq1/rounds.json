@@ -7,7 +7,9 @@
       "compName": "Longjum'Open 2024",
       "date": "2024-01-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 45,
       "attemptsCs": [
         10535,
         10269
@@ -26,7 +28,9 @@
       "compName": "Only Oullins Open 2024",
       "date": "2024-02-25",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 28,
       "attemptsCs": [
         5291,
         5029
@@ -45,7 +49,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "c",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 30,
       "attemptsCs": [
         8635,
         5422
@@ -64,7 +70,9 @@
       "compName": "Palais'Open 2024",
       "date": "2024-09-22",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 26,
       "attemptsCs": [
         2569,
         7565,
@@ -89,7 +97,9 @@
       "compName": "Palais'Open 2024",
       "date": "2024-09-22",
       "roundTypeId": "e",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 26,
       "attemptsCs": [
         4313,
         3247,
@@ -114,7 +124,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 82,
       "attemptsCs": [
         4136,
         4125
@@ -133,7 +145,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 21,
       "attemptsCs": [
         3886,
         3011,
@@ -158,7 +172,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "e",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 29,
       "attemptsCs": [
         6469,
         4191
@@ -177,7 +193,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 8,
       "attemptsCs": [
         2559,
         2305,
@@ -202,7 +220,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 7,
       "attemptsCs": [
         2547,
         1415,
@@ -227,7 +247,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 7,
       "attemptsCs": [
         2255,
         2522,
@@ -252,7 +274,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 14,
       "attemptsCs": [
         2518,
         2243,
@@ -277,7 +301,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "e",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         2096,
         2121,

@@ -7,7 +7,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 75,
       "attemptsCs": [
         2383,
         1693,
@@ -32,7 +34,9 @@
       "compName": "Polytechnique Open 2024",
       "date": "2024-03-03",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 85,
       "attemptsCs": [
         2098,
         1711,
@@ -57,7 +61,9 @@
       "compName": "Bayonne Atoutcubes Open 2024",
       "date": "2024-04-21",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 34,
       "attemptsCs": [
         1380,
         1643,
@@ -82,7 +88,9 @@
       "compName": "Bayonne Atoutcubes Open 2024",
       "date": "2024-04-21",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 35,
       "attemptsCs": [
         1289,
         1261,
@@ -107,7 +115,9 @@
       "compName": "Bayonne Atoutcubes Open 2024",
       "date": "2024-04-21",
       "roundTypeId": "3",
+      "roundName": "Semi Final",
       "formatId": "a",
+      "pos": 43,
       "attemptsCs": [
         1799,
         1889,
@@ -132,7 +142,9 @@
       "compName": "Buchy Open 2024",
       "date": "2024-06-09",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 28,
       "attemptsCs": [
         1472,
         1640,
@@ -157,7 +169,9 @@
       "compName": "Buchy Open 2024",
       "date": "2024-06-09",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 17,
       "attemptsCs": [
         1631,
         1299,
@@ -182,7 +196,9 @@
       "compName": "Buchy Open 2024",
       "date": "2024-06-09",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 21,
       "attemptsCs": [
         1544,
         1403,
@@ -207,7 +223,9 @@
       "compName": "Douvrin Open 2024",
       "date": "2024-06-23",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 69,
       "attemptsCs": [
         1958,
         1355,
@@ -232,7 +250,9 @@
       "compName": "Douvrin Open 2024",
       "date": "2024-06-23",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 64,
       "attemptsCs": [
         1390,
         1207,
@@ -257,7 +277,9 @@
       "compName": "Champagne Open 2024",
       "date": "2024-09-08",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 35,
       "attemptsCs": [
         1253,
         1350,
@@ -282,7 +304,9 @@
       "compName": "Champagne Open 2024",
       "date": "2024-09-08",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 34,
       "attemptsCs": [
         1435,
         1074,
@@ -307,7 +331,9 @@
       "compName": "Palais'Open 2024",
       "date": "2024-09-22",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 55,
       "attemptsCs": [
         1370,
         1347,
@@ -332,7 +358,9 @@
       "compName": "Palais'Open 2024",
       "date": "2024-09-22",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 42,
       "attemptsCs": [
         1349,
         1283,
@@ -357,7 +385,9 @@
       "compName": "Chevry Open 2024",
       "date": "2024-10-06",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 22,
       "attemptsCs": [
         1321,
         1124,
@@ -382,7 +412,9 @@
       "compName": "Chevry Open 2024",
       "date": "2024-10-06",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 23,
       "attemptsCs": [
         1588,
         1308,
@@ -407,7 +439,9 @@
       "compName": "Brest Open 2024",
       "date": "2024-10-20",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         1076,
         1273,
@@ -432,7 +466,9 @@
       "compName": "Brest Open 2024",
       "date": "2024-10-20",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         1081,
         1203,
@@ -457,7 +493,9 @@
       "compName": "Brest Open 2024",
       "date": "2024-10-20",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         1229,
         1186,
@@ -482,7 +520,9 @@
       "compName": "R\u00e9au Open 2024",
       "date": "2024-11-24",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 20,
       "attemptsCs": [
         1305,
         1111,
@@ -507,7 +547,9 @@
       "compName": "R\u00e9au Open 2024",
       "date": "2024-11-24",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 23,
       "attemptsCs": [
         2378,
         1227,
@@ -532,7 +574,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         1275,
         1130,
@@ -557,7 +601,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 10,
       "attemptsCs": [
         924,
         1056,
@@ -582,7 +628,9 @@
       "compName": "Chanteloup Open 2025",
       "date": "2025-01-12",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         866,
         1121,
@@ -607,7 +655,9 @@
       "compName": "Just Judge Jura 2025",
       "date": "2025-01-19",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 20,
       "attemptsCs": [
         1062,
         1203,
@@ -632,7 +682,9 @@
       "compName": "Just Judge Jura 2025",
       "date": "2025-01-19",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         1432,
         1061,
@@ -657,7 +709,9 @@
       "compName": "Chelles Open 2025",
       "date": "2025-02-16",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 26,
       "attemptsCs": [
         1114,
         1305,
@@ -682,7 +736,9 @@
       "compName": "Chelles Open 2025",
       "date": "2025-02-16",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 19,
       "attemptsCs": [
         1110,
         -1,
@@ -707,7 +763,9 @@
       "compName": "Eaubonne Open 2025",
       "date": "2025-03-02",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         1198,
         1038,
@@ -732,7 +790,9 @@
       "compName": "Eaubonne Open 2025",
       "date": "2025-03-02",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         1204,
         1176,
@@ -757,7 +817,9 @@
       "compName": "Tigery Open 2025",
       "date": "2025-03-23",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         838,
         1011,
@@ -782,7 +844,9 @@
       "compName": "Tigery Open 2025",
       "date": "2025-03-23",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 13,
       "attemptsCs": [
         1160,
         921,
@@ -807,7 +871,9 @@
       "compName": "Carquef'Open 2025",
       "date": "2025-04-06",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 5,
       "attemptsCs": [
         824,
         842,
@@ -832,7 +898,9 @@
       "compName": "Carquef'Open 2025",
       "date": "2025-04-06",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 13,
       "attemptsCs": [
         1048,
         1207,
@@ -857,7 +925,9 @@
       "compName": "Carquef'Open 2025",
       "date": "2025-04-06",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 11,
       "attemptsCs": [
         1061,
         1168,
@@ -882,7 +952,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 65,
       "attemptsCs": [
         1317,
         1050,
@@ -907,7 +979,9 @@
       "compName": "French Championship 2025",
       "date": "2025-04-21",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 74,
       "attemptsCs": [
         1375,
         925,
@@ -932,7 +1006,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 15,
       "attemptsCs": [
         1360,
         1032,
@@ -957,7 +1033,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 17,
       "attemptsCs": [
         1009,
         1268,
@@ -982,7 +1060,9 @@
       "compName": "Longjum'Open 2025",
       "date": "2025-05-04",
       "roundTypeId": "3",
+      "roundName": "Semi Final",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         902,
         1001,
@@ -1007,7 +1087,9 @@
       "compName": "Open the Pot Dijon 2025",
       "date": "2025-05-25",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 21,
       "attemptsCs": [
         949,
         1269,
@@ -1032,7 +1114,9 @@
       "compName": "Open the Pot Dijon 2025",
       "date": "2025-05-25",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 18,
       "attemptsCs": [
         1156,
         1381,
@@ -1057,7 +1141,9 @@
       "compName": "Open the Pot Dijon 2025",
       "date": "2025-05-25",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 19,
       "attemptsCs": [
         1156,
         1340,
@@ -1082,7 +1168,9 @@
       "compName": "FLIP Open 2025",
       "date": "2025-07-14",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 23,
       "attemptsCs": [
         1230,
         863,
@@ -1107,7 +1195,9 @@
       "compName": "FLIP Open 2025",
       "date": "2025-07-14",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 15,
       "attemptsCs": [
         1071,
         954,
@@ -1132,7 +1222,9 @@
       "compName": "Rubik's CLuBB de Boulogne-Billancourt 2025",
       "date": "2025-07-19",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         1033,
         1285,
@@ -1157,7 +1249,9 @@
       "compName": "Couffouleux Open 2025",
       "date": "2025-08-17",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 7,
       "attemptsCs": [
         981,
         996,
@@ -1182,7 +1276,9 @@
       "compName": "Couffouleux Open 2025",
       "date": "2025-08-17",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 8,
       "attemptsCs": [
         892,
         976,
@@ -1207,7 +1303,9 @@
       "compName": "Couffouleux Open 2025",
       "date": "2025-08-17",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         1089,
         1145,
@@ -1232,7 +1330,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 27,
       "attemptsCs": [
         1049,
         1105,
@@ -1257,7 +1357,9 @@
       "compName": "Champagne Open 2025",
       "date": "2025-09-07",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         866,
         978,
@@ -1282,7 +1384,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 5,
       "attemptsCs": [
         1056,
         866,
@@ -1307,7 +1411,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 4,
       "attemptsCs": [
         775,
         986,
@@ -1332,7 +1438,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 9,
       "attemptsCs": [
         937,
         1192,
@@ -1357,7 +1465,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 20,
       "attemptsCs": [
         1222,
         1090,
@@ -1382,7 +1492,9 @@
       "compName": "Chevry Miel 2025",
       "date": "2025-10-26",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         859,
         1160,
@@ -1407,7 +1519,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         1011,
         972,
@@ -1432,7 +1546,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 16,
       "attemptsCs": [
         807,
         1009,
@@ -1457,7 +1573,9 @@
       "compName": "Palais'10Open 2025",
       "date": "2025-11-09",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 14,
       "attemptsCs": [
         1117,
         888,
@@ -1482,7 +1600,9 @@
       "compName": "Back to Buchy 2025",
       "date": "2025-11-16",
       "roundTypeId": "1",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 14,
       "attemptsCs": [
         961,
         1204,
@@ -1507,7 +1627,9 @@
       "compName": "Back to Buchy 2025",
       "date": "2025-11-16",
       "roundTypeId": "2",
+      "roundName": "Second round",
       "formatId": "a",
+      "pos": 8,
       "attemptsCs": [
         1168,
         966,
@@ -1532,7 +1654,9 @@
       "compName": "Back to Buchy 2025",
       "date": "2025-11-16",
       "roundTypeId": "f",
+      "roundName": "Final",
       "formatId": "a",
+      "pos": 6,
       "attemptsCs": [
         955,
         1032,

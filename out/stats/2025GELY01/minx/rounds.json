@@ -7,7 +7,9 @@
       "compName": "LexOpen France 2025",
       "date": "2025-09-28",
       "roundTypeId": "d",
+      "roundName": "First round",
       "formatId": "a",
+      "pos": 17,
       "attemptsCs": [
         16325,
         13014
