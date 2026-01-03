@@ -36,7 +36,7 @@ def load_data():
         
         return results, attempts, comps, events, persons, round_types
     except FileNotFoundError:
-        logging.error("Cache not found. Run extract_wca_v2.py first.")
+        logging.error("Cache not found. Run 02_extract_wca_v2.py first.")
         return None, None, None, None, None
 
 def build_person_index(results, persons_df):

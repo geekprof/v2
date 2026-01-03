@@ -14,7 +14,7 @@ def load_data():
         comps = pd.read_csv(DATA_DIR / "competitions.tsv", sep='\t')
         return results, comps
     except FileNotFoundError:
-        logging.error("Cache not found. Run extract_wca_v2.py first.")
+        logging.error("Cache not found. Run 02_extract_wca_v2.py first.")
         return None, None
 
 def build_map_data(results, comps):

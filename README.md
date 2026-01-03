@@ -9,31 +9,31 @@ Pour mettre à jour le dashboard avec les derniers résultats officiels de la WC
 ### 1. Récupération de l'export WCA
 Vérifie si un nouvel export est disponible et le télécharge automatiquement.
 ```powershell
-python src/fetch_data.py
+python src/01_fetch_data.py
 ```
 
 ### 2. Filtrage des données
 Extrait uniquement les résultats des joueurs définis dans `src/config.py`.
 ```powershell
-python src/extract_wca_v2.py
+python src/02_extract_wca_v2.py
 ```
 
 ### 3. Calcul des statistiques
 Génère les records personnels, les classements par round et l'historique chronologique.
 ```powershell
-python src/build_stats.py
+python src/03_build_stats.py
 ```
 
 ### 4. Génération de la carte
 Prépare les données de géolocalisation pour les compétitions visitées.
 ```powershell
-python src/build_map.py
+python src/04_build_map.py
 ```
 
 ### 5. Déploiement local
 Synchronise les fichiers calculés vers le dossier du site web.
 ```powershell
-python src/sync_web_data.py
+python src/05_sync_web_data.py
 ```
 
 ---

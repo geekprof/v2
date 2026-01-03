@@ -66,7 +66,7 @@ def extract_attempts(result_ids):
 
 def main():
     if not (DATA_DIR / "results.tsv").exists():
-        logging.error("Data missing. Run fetch_data.py first.")
+        logging.error("Data missing. Run 01_fetch_data.py first.")
         return
 
     # Create cache directory
