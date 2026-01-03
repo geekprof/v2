@@ -1,0 +1,46 @@
+name: Update WCA Data
+
+on:
+  schedule:
+    # Tous les lundis à 04:00 UTC
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+    # Permet de lancer manuellement depuis l'interface GitHub
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Fetch Data
+        run: python src/01_fetch_data.py
+
+      - name: Run Extraction
+        run: python src/02_extract_wca_v2.py
+
+      - name: Run Build Stats
+        run: python src/03_build_stats.py
+
+      - name: Run Build Map
+        run: python src/04_build_map.py
+
+      - name: Run Sync to Web
+        run: python src/05_sync_web_data.py
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: web # Dossier à publier
+          branch: gh-pages # Branche de destination pour le site

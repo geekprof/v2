@@ -1,5 +1,9 @@
-# Ignorer les dossiers et fichiers lourds
+# Ingorer les dossiers et fichiers lourds
 data/
+out/
+web/data/
 *.tsv
+*.parquet
 __pycache__/
 *.pyc
+.env
