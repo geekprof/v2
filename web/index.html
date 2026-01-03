@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WCA Dashboard</title>
     <link rel="stylesheet" href="styles.css">
-    
+
     <!-- Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 </head>
+
 <body>
     <header>
         <div class="logo">
@@ -20,7 +22,7 @@
             <select id="user-select">
                 <option value="" disabled selected>Chargement...</option>
             </select>
-            
+
             <select id="event-select">
                 <option value="333">3x3x3 Cube</option>
                 <option value="222">2x2x2 Cube</option>
@@ -32,6 +34,7 @@
             <div class="mode-switch">
                 <button class="mode-btn active" data-view="timeline">Timeline</button>
                 <button class="mode-btn" data-view="rounds">Rounds</button>
+                <button class="mode-btn" data-view="full">All Data</button>
                 <button class="mode-btn" data-view="map">Carte</button>
             </div>
         </div>
@@ -41,25 +44,19 @@
         <div id="chart-container">
             <div id="main-chart"></div>
         </div>
-        
+
         <div id="map-container">
             <div id="map-view"></div>
         </div>
 
-        <aside class="sidebar closed" id="details-panel">
-            <div class="sidebar-header">
-                <h2 id="panel-title">Détails de la session</h2>
-                <button class="close-btn" onclick="toggleSidebar()">×</button>
-            </div>
-            <div class="sidebar-content" id="panel-content">
-                <!-- Content injected by JS -->
-                <div class="stat-group">
-                    <div class="stat-label">Sélectionnez un point pour voir les détails</div>
-                </div>
-            </div>
-        </aside>
+        <div id="full-history-view" style="display: none;">
+            <div id="history-content"></div>
+        </div>
+
+
     </main>
 
     <script src="app.js"></script>
 </body>
+
 </html>

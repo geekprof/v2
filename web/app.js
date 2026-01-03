@@ -24,7 +24,6 @@ async function init() {
 
     // Init Chart First
     state.chartInstance = echarts.init(document.getElementById('main-chart'));
-    state.chartInstance.on('click', onChartClick);
     window.addEventListener('resize', () => {
         state.chartInstance.resize();
         if (state.mapInstance) state.mapInstance.invalidateSize();
@@ -50,9 +49,10 @@ async function init() {
 
     document.querySelectorAll('.mode-btn').forEach(btn => {
         btn.addEventListener('click', (e) => {
+            const view = e.currentTarget.dataset.view;
             document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-            state.view = e.target.dataset.view;
+            e.currentTarget.classList.add('active');
+            state.view = view;
             refreshView();
         });
     });
@@ -145,20 +145,30 @@ function refreshView() {
     // Handling Visibility
     const mapContainer = document.getElementById('map-container');
     const chartContainer = document.getElementById('chart-container');
+    const historyView = document.getElementById('full-history-view');
+    const eventSelect = document.getElementById('event-select');
+
+    // Show/Hide event selector (only useful for charts)
+    eventSelect.style.display = (state.view === 'timeline' || state.view === 'rounds') ? 'block' : 'none';
 
     if (state.view === 'map') {
         mapContainer.style.display = 'block';
         chartContainer.style.display = 'none';
+        historyView.style.display = 'none';
         initMap(); // Ensure map is init
         loadMapData();
+    } else if (state.view === 'full') {
+        mapContainer.style.display = 'none';
+        chartContainer.style.display = 'none';
+        historyView.style.display = 'block';
+        loadFullHistory();
     } else {
         mapContainer.style.display = 'none';
         chartContainer.style.display = 'block';
+        historyView.style.display = 'none';
         loadStatsData();
     }
 
-    // Hide sidebar on view switch
-    toggleSidebar(false);
 }
 
 // --- STATS LOGIC ---
@@ -172,13 +182,13 @@ async function loadStatsData() {
 
     try {
         const res = await fetch(url);
-        if (!res.ok) throw new Error("File not found (maybe no results for this event?)");
+        if (!res.ok) throw new Error("File not found");
         const data = await res.json();
         state.currentData = data;
 
         if (state.view === 'timeline') {
             renderTimeline(data);
-        } else {
+        } else if (state.view === 'rounds') {
             renderRounds(data);
         }
     } catch (e) {
@@ -190,6 +200,101 @@ async function loadStatsData() {
         }, true);
     }
 }
+
+async function loadFullHistory() {
+    if (!state.personId) return;
+    const container = document.getElementById('history-content');
+    container.innerHTML = '<div style="text-align:center; padding: 2rem; color: #555;">Chargement de l\'historique...</div>';
+
+    try {
+        const res = await fetch(`${DATA_BASE_URL}/stats/${state.personId}/full.json`);
+        const data = await res.json();
+        renderFullHistory(data);
+    } catch (e) {
+        container.innerHTML = '<div style="text-align:center; padding: 2rem; color: #ef5350;">Erreur lors du chargement de l\'historique.</div>';
+    }
+}
+
+function renderFullHistory(data) {
+    const container = document.getElementById('history-content');
+    container.innerHTML = '';
+
+    const eventNames = {
+        '333': '3x3x3 Cube', '222': '2x2x2 Cube', '444': '4x4x4 Cube', '555': '5x5x5 Cube',
+        '666': '6x6x6 Cube', '777': '7x7x7 Cube', '333bf': '3x3 Blindfolded', '333fm': '3x3 Fewest Moves',
+        '333oh': '3x3 One-Handed', 'clock': 'Clock', 'minx': 'Megaminx', 'pyram': 'Pyraminx',
+        'skewb': 'Skewb', 'sq1': 'Square-1', '444bf': '4x4 Blindfolded', '555bf': '5x5 Blindfolded',
+        '333mbf': '3x3 Multiple Blindfolded'
+    };
+
+    data.history.forEach(comp => {
+        const compCard = document.createElement('div');
+        compCard.className = 'comp-card';
+
+        let eventsHtml = comp.events.map(ev => {
+            const roundsHtml = ev.rounds.map(r => `
+                <tr>
+                    <td class="td-name">
+                        <div class="round-label-text">${r.name}</div>
+                        <div class="mobile-solves">${r.attempts.join(', ')}</div>
+                    </td>
+                    <td class="td-solves">${r.attempts.join(', ')}</td>
+                    <td class="td-avg">${r.avg}</td>
+                    <td class="td-pos">#${r.pos}</td>
+                </tr>
+            `).join('');
+
+            return `
+                <div class="event-block">
+                    <div class="event-title-row">
+                        <div class="event-label">
+                            <span style="font-size:1.2rem">${getEventEmoji(ev.eventId)}</span> ${eventNames[ev.eventId] || ev.eventId}
+                        </div>
+                        <div class="event-bests">
+                            Best Single: <b>${ev.bestSingle}</b> | Best Avg: <b>${ev.bestAvg}</b>
+                        </div>
+                    </div>
+                    <table class="round-table">
+                        <thead>
+                            <tr>
+                                <th>Round</th>
+                                <th class="hide-mobile">Solves</th>
+                                <th style="text-align:right">Average</th>
+                                <th style="text-align:right">Rank</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${roundsHtml}
+                        </tbody>
+                    </table>
+                </div>
+            `;
+        }).join('');
+
+        compCard.innerHTML = `
+            <div class="comp-header">
+                <h3>${comp.name}</h3>
+                <div class="comp-meta">
+                    <span>📅 ${comp.date}</span>
+                    <span>📍 ${comp.city}</span>
+                </div>
+            </div>
+            <div class="comp-body">
+                ${eventsHtml}
+            </div>
+        `;
+        container.appendChild(compCard);
+    });
+}
+
+function getEventEmoji(id) {
+    const emojis = {
+        '333': '🧊', '222': '🧊', '444': '🧊', '555': '🧊', '666': '🧊', '777': '🧊',
+        'clock': '🕒', 'minx': '⚽', 'pyram': '🔺', 'skewb': '💎', 'sq1': '⬜', '333oh': '🖐️', '333bf': '🙈'
+    };
+    return emojis[id] || '🧩';
+}
+
 
 function renderTimeline(data) {
     state.chartInstance.hideLoading();
@@ -379,24 +484,7 @@ function renderRounds(data) {
     state.chartInstance.setOption(option, true);
 }
 
-function onChartClick(params) {
-    const idx = params.dataIndex; // If series is line, dataIndex maps to array
-    // Note: Scatter click might give different index logic (the point index)
-    // For timeline: array index.
-    // For rounds: X value usually.
 
-    let item = null;
-
-    if (state.view === 'timeline') {
-        item = state.currentData.points[idx];
-        showSidebar(item, 'timeline');
-    } else if (state.view === 'rounds') {
-        // For scatter/line in rounds view, the X value corresponds to the round index
-        const roundIdx = params.value[0];
-        item = state.currentData.rounds[roundIdx];
-        showSidebar(item, 'rounds');
-    }
-}
 
 
 // --- MAP LOGIC ---
@@ -448,77 +536,7 @@ async function loadMapData() {
 }
 
 
-// --- SIDEBAR ---
 
-function toggleSidebar(force) {
-    const el = document.getElementById('details-panel');
-    if (force !== undefined) {
-        force ? el.classList.remove('closed') : el.classList.add('closed');
-    } else {
-        el.classList.toggle('closed');
-    }
-}
-
-function showSidebar(item, mode) {
-    const content = document.getElementById('panel-content');
-    const title = document.getElementById('panel-title');
-    toggleSidebar(true);
-
-    if (mode === 'timeline') {
-        title.textContent = item.compName;
-        content.innerHTML = `
-            <div class="stat-group">
-                <div class="stat-label">Date</div>
-                <div>${item.dateEnd}</div>
-            </div>
-            <div class="stat-group">
-                <div class="stat-label">Best Single</div>
-                <div class="stat-value ${item.isPRSingle ? 'pr' : ''}">
-                    ${item.bestSingleText}
-                    ${item.isPRSingle ? '<span class="pr-badge">PR</span>' : ''}
-                </div>
-            </div>
-            <div class="stat-group">
-                <div class="stat-label">Best Average</div>
-                <div class="stat-value ${item.isPRAvg ? 'pr' : ''}">
-                    ${item.bestAvgText}
-                    ${item.isPRAvg ? '<span class="pr-badge">PR</span>' : ''}
-                </div>
-            </div>
-            <div class="stat-group">
-                <div class="stat-label">Rounds Joués</div>
-                <div>${item.roundsCount}</div>
-            </div>
-        `;
-    } else {
-        title.textContent = 'Détail du Round';
-        content.innerHTML = `
-            <div class="stat-group">
-                <div class="stat-label">Compétition</div>
-                <div><b>${item.compName}</b><br>${item.date}</div>
-            </div>
-            <div class="stat-group">
-                <div class="stat-label">Résultats</div>
-                <ul class="attempts-list">
-                    ${item.attemptsText.map((t, i) => `
-                        <li class="attempt-row">
-                            <span class="attempt-n">${i + 1}</span>
-                            <span>${t}</span>
-                        </li>
-                    `).join('')}
-                </ul>
-            </div>
-            <div class="stat-group">
-                <div class="stat-label">Moyenne</div>
-                <div class="stat-value">${item.avgText}</div>
-            </div>
-             <div class="stat-group">
-                <div class="stat-label">Meilleur</div>
-                <div class="stat-value">${item.bestText}</div>
-            </div>
-        `;
-    }
-}
 
 // Start
 init();

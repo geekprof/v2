@@ -226,6 +226,70 @@ def build_stats(results, attempts, comps, round_types):
             with open(event_dir / "rounds.json", "w") as f:
                 json.dump({"personId": person_id, "eventId": event_id, "rounds": rounds_list}, f, indent=2)
 
+        # --- FULL HISTORY DATA ---
+        # Generate full.json for the person (chronological competitions)
+        full_history = []
+        
+        # Sort person_group by competition start_date
+        # We need to ensure we have all rounds for each comp
+        # Get attempts for all person results
+        person_result_ids = person_group['id'].unique()
+        person_attempts = attempts[attempts['result_id'].isin(person_result_ids)]
+
+        # Group by competition, but we want it sorted by DATE
+        # We'll get unique comp IDs and their dates first
+        comp_info = person_group[['competition_id', 'start_date', 'end_date', 'name', 'city_name']].drop_duplicates('competition_id')
+        comp_info = comp_info.sort_values('start_date')
+
+        for _, c_row in comp_info.iterrows():
+            cid = c_row['competition_id']
+            c_results = person_group[person_group['competition_id'] == cid]
+            
+            comp_entry = {
+                "compId": cid,
+                "name": c_row['name'],
+                "date": str(c_row['start_date'].date()), # Simplified date for display
+                "endDate": str(c_row['end_date'].date()),
+                "city": c_row['city_name'],
+                "events": []
+            }
+            
+            # Group results by event within this competition
+            for eid, e_group in c_results.groupby('event_id'):
+                # Sort rounds in this comp by rank
+                e_group_sorted = e_group.sort_values('rank')
+                
+                # Best of comp for this event
+                v_singles = e_group[e_group['best'] > 0]['best']
+                v_avgs = e_group[e_group['average'] > 0]['average']
+                
+                event_entry = {
+                    "eventId": eid,
+                    "bestSingle": format_time(v_singles.min()) if not v_singles.empty else "DNF",
+                    "bestAvg": format_time(v_avgs.min()) if not v_avgs.empty else "-",
+                    "rounds": []
+                }
+                
+                for _, r_row in e_group_sorted.iterrows():
+                    # Get attempts
+                    r_atts = person_attempts[person_attempts['result_id'] == r_row['id']].sort_values('attempt_number')
+                    att_texts = [format_time(a['value']) for _, a in r_atts.iterrows()]
+                    
+                    event_entry['rounds'].append({
+                        "name": r_row['name_rt'],
+                        "attempts": att_texts,
+                        "single": format_time(r_row['best']),
+                        "avg": format_time(r_row['average']) if r_row['average'] > 0 else "-",
+                        "pos": int(r_row['pos'])
+                    })
+                
+                comp_entry['events'].append(event_entry)
+            
+            full_history.append(comp_entry)
+
+        with open(per_person_dir / "full.json", "w") as f:
+            json.dump({"personId": person_id, "history": full_history}, f, indent=2)
+
 
 def main():
     OUT_DIR.mkdir(exist_ok=True)
