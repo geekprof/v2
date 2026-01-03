@@ -1,0 +1,126 @@
+{
+  "personId": "2024GELY01",
+  "eventId": "333oh",
+  "points": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "dateEnd": "2024-01-28",
+      "bestSingleCs": 6153,
+      "bestAvgCs": null,
+      "bestSingleText": "1:01.53",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "OnlyOullinsOpen2024",
+      "compName": "Only Oullins Open 2024",
+      "dateEnd": "2024-02-25",
+      "bestSingleCs": 3904,
+      "bestAvgCs": 5015,
+      "bestSingleText": "39.04",
+      "bestAvgText": "50.15",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "dateEnd": "2024-03-03",
+      "bestSingleCs": 3841,
+      "bestAvgCs": 5199,
+      "bestSingleText": "38.41",
+      "bestAvgText": "51.99",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "TigeryOpen2024",
+      "compName": "Tigery Open 2024",
+      "dateEnd": "2024-05-26",
+      "bestSingleCs": 3371,
+      "bestAvgCs": 4045,
+      "bestSingleText": "33.71",
+      "bestAvgText": "40.45",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "dateEnd": "2024-11-24",
+      "bestSingleCs": 3145,
+      "bestAvgCs": 3612,
+      "bestSingleText": "31.45",
+      "bestAvgText": "36.12",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "dateEnd": "2025-01-12",
+      "bestSingleCs": 2135,
+      "bestAvgCs": 2935,
+      "bestSingleText": "21.35",
+      "bestAvgText": "29.35",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "EaubonneOpen2025",
+      "compName": "Eaubonne Open 2025",
+      "dateEnd": "2025-03-02",
+      "bestSingleCs": 2299,
+      "bestAvgCs": 3001,
+      "bestSingleText": "22.99",
+      "bestAvgText": "30.01",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 2
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "dateEnd": "2025-03-23",
+      "bestSingleCs": 2627,
+      "bestAvgCs": 3107,
+      "bestSingleText": "26.27",
+      "bestAvgText": "31.07",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "dateEnd": "2025-04-21",
+      "bestSingleCs": 2530,
+      "bestAvgCs": 2926,
+      "bestSingleText": "25.30",
+      "bestAvgText": "29.26",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 1959,
+      "bestAvgCs": 2407,
+      "bestSingleText": "19.59",
+      "bestAvgText": "24.07",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    }
+  ]
+}

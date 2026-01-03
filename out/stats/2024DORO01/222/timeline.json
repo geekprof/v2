@@ -1,0 +1,162 @@
+{
+  "personId": "2024DORO01",
+  "eventId": "222",
+  "points": [
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "dateEnd": "2024-03-03",
+      "bestSingleCs": 348,
+      "bestAvgCs": 673,
+      "bestSingleText": "3.48",
+      "bestAvgText": "6.73",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "BayonneAtoutcubesOpen2024",
+      "compName": "Bayonne Atoutcubes Open 2024",
+      "dateEnd": "2024-04-21",
+      "bestSingleCs": 519,
+      "bestAvgCs": 662,
+      "bestSingleText": "5.19",
+      "bestAvgText": "6.62",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChampagneOpen2024",
+      "compName": "Champagne Open 2024",
+      "dateEnd": "2024-09-08",
+      "bestSingleCs": 487,
+      "bestAvgCs": 505,
+      "bestSingleText": "4.87",
+      "bestAvgText": "5.05",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "BrestOpen2024",
+      "compName": "Brest Open 2024",
+      "dateEnd": "2024-10-20",
+      "bestSingleCs": 395,
+      "bestAvgCs": 491,
+      "bestSingleText": "3.95",
+      "bestAvgText": "4.91",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "dateEnd": "2025-01-12",
+      "bestSingleCs": 315,
+      "bestAvgCs": 381,
+      "bestSingleText": "3.15",
+      "bestAvgText": "3.81",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 3
+    },
+    {
+      "compId": "JustJudgeJura2025",
+      "compName": "Just Judge Jura 2025",
+      "dateEnd": "2025-01-19",
+      "bestSingleCs": 345,
+      "bestAvgCs": 378,
+      "bestSingleText": "3.45",
+      "bestAvgText": "3.78",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "EaubonneOpen2025",
+      "compName": "Eaubonne Open 2025",
+      "dateEnd": "2025-03-02",
+      "bestSingleCs": 314,
+      "bestAvgCs": 350,
+      "bestSingleText": "3.14",
+      "bestAvgText": "3.50",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 3
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "dateEnd": "2025-04-21",
+      "bestSingleCs": 214,
+      "bestAvgCs": 335,
+      "bestSingleText": "2.14",
+      "bestAvgText": "3.35",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "OpenthePotDijon2025",
+      "compName": "Open the Pot Dijon 2025",
+      "dateEnd": "2025-05-25",
+      "bestSingleCs": 265,
+      "bestAvgCs": 361,
+      "bestSingleText": "2.65",
+      "bestAvgText": "3.61",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 2
+    },
+    {
+      "compId": "RubiksCLuBBOpen2025",
+      "compName": "Rubik's CLuBB de Boulogne-Billancourt 2025",
+      "dateEnd": "2025-07-19",
+      "bestSingleCs": 260,
+      "bestAvgCs": 377,
+      "bestSingleText": "2.60",
+      "bestAvgText": "3.77",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "CouffouleuxOpen2025",
+      "compName": "Couffouleux Open 2025",
+      "dateEnd": "2025-08-17",
+      "bestSingleCs": 217,
+      "bestAvgCs": 354,
+      "bestSingleText": "2.17",
+      "bestAvgText": "3.54",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 189,
+      "bestAvgCs": 328,
+      "bestSingleText": "1.89",
+      "bestAvgText": "3.28",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 222,
+      "bestAvgCs": 363,
+      "bestSingleText": "2.22",
+      "bestAvgText": "3.63",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 2
+    }
+  ]
+}

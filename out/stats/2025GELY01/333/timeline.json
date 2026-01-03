@@ -1,0 +1,54 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "333",
+  "points": [
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 1756,
+      "bestAvgCs": 2189,
+      "bestSingleText": "17.56",
+      "bestAvgText": "21.89",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 1821,
+      "bestAvgCs": 2086,
+      "bestSingleText": "18.21",
+      "bestAvgText": "20.86",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 1782,
+      "bestAvgCs": 2179,
+      "bestSingleText": "17.82",
+      "bestAvgText": "21.79",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "dateEnd": "2025-11-09",
+      "bestSingleCs": 1886,
+      "bestAvgCs": 2480,
+      "bestSingleText": "18.86",
+      "bestAvgText": "24.80",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    }
+  ]
+}

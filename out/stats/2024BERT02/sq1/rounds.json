@@ -1,0 +1,88 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "sq1",
+  "rounds": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "date": "2024-01-28",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        -1,
+        -1
+      ],
+      "attemptsText": [
+        "DNF",
+        "DNF"
+      ],
+      "bestCs": -1,
+      "avgCs": 0,
+      "bestText": "DNF",
+      "avgText": ""
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        8794,
+        5646,
+        8280,
+        7199,
+        7105
+      ],
+      "attemptsText": [
+        "1:27.94",
+        "56.46",
+        "1:22.80",
+        "1:11.99",
+        "1:11.05"
+      ],
+      "bestCs": 5646,
+      "avgCs": 7528,
+      "bestText": "56.46",
+      "avgText": "1:15.28"
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        3578,
+        5350
+      ],
+      "attemptsText": [
+        "35.78",
+        "53.50"
+      ],
+      "bestCs": 3578,
+      "avgCs": 0,
+      "bestText": "35.78",
+      "avgText": ""
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "e",
+      "formatId": "a",
+      "attemptsCs": [
+        9070,
+        4784
+      ],
+      "attemptsText": [
+        "1:30.70",
+        "47.84"
+      ],
+      "bestCs": 4784,
+      "avgCs": 0,
+      "bestText": "47.84",
+      "avgText": ""
+    }
+  ]
+}

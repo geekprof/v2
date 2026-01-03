@@ -1,0 +1,102 @@
+{
+  "personId": "2024GELY01",
+  "eventId": "minx",
+  "points": [
+    {
+      "compId": "OnlyOullinsOpen2024",
+      "compName": "Only Oullins Open 2024",
+      "dateEnd": "2024-02-25",
+      "bestSingleCs": 16922,
+      "bestAvgCs": null,
+      "bestSingleText": "2:49.22",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "TigeryOpen2024",
+      "compName": "Tigery Open 2024",
+      "dateEnd": "2024-05-26",
+      "bestSingleCs": 17038,
+      "bestAvgCs": null,
+      "bestSingleText": "2:50.38",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "dateEnd": "2024-09-22",
+      "bestSingleCs": 16161,
+      "bestAvgCs": null,
+      "bestSingleText": "2:41.61",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "dateEnd": "2025-01-12",
+      "bestSingleCs": 7838,
+      "bestAvgCs": 8628,
+      "bestSingleText": "1:18.38",
+      "bestAvgText": "1:26.28",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "EaubonneOpen2025",
+      "compName": "Eaubonne Open 2025",
+      "dateEnd": "2025-03-02",
+      "bestSingleCs": 7831,
+      "bestAvgCs": 9363,
+      "bestSingleText": "1:18.31",
+      "bestAvgText": "1:33.63",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "dateEnd": "2025-03-23",
+      "bestSingleCs": 7724,
+      "bestAvgCs": 7865,
+      "bestSingleText": "1:17.24",
+      "bestAvgText": "1:18.65",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "dateEnd": "2025-04-21",
+      "bestSingleCs": 6798,
+      "bestAvgCs": 7093,
+      "bestSingleText": "1:07.98",
+      "bestAvgText": "1:10.93",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 6419,
+      "bestAvgCs": 6839,
+      "bestSingleText": "1:04.19",
+      "bestAvgText": "1:08.39",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    }
+  ]
+}

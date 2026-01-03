@@ -1,0 +1,76 @@
+[
+  {
+    "personId": "2024GELY01",
+    "name": "Luc G\u00e9ly",
+    "countryId": "France",
+    "events": [
+      "222",
+      "333",
+      "333bf",
+      "333oh",
+      "444",
+      "555",
+      "666",
+      "777",
+      "clock",
+      "minx",
+      "pyram",
+      "skewb",
+      "sq1"
+    ]
+  },
+  {
+    "personId": "2024BERT02",
+    "name": "Tom Bertin-Supatto",
+    "countryId": "France",
+    "events": [
+      "222",
+      "333",
+      "333oh",
+      "444",
+      "555",
+      "666",
+      "777",
+      "clock",
+      "minx",
+      "pyram",
+      "skewb",
+      "sq1"
+    ]
+  },
+  {
+    "personId": "2024DORO01",
+    "name": "Lev Azaria Doron",
+    "countryId": "France",
+    "events": [
+      "222",
+      "333",
+      "333oh",
+      "444",
+      "555",
+      "666",
+      "777",
+      "clock",
+      "minx",
+      "pyram",
+      "skewb",
+      "sq1"
+    ]
+  },
+  {
+    "personId": "2025GELY01",
+    "name": "Alexandre G\u00e9ly",
+    "countryId": "France",
+    "events": [
+      "222",
+      "333",
+      "333oh",
+      "444",
+      "clock",
+      "minx",
+      "pyram",
+      "skewb",
+      "sq1"
+    ]
+  }
+]

@@ -1,0 +1,481 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "444",
+  "rounds": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "date": "2024-01-28",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        5571,
+        5562,
+        5846,
+        5956,
+        5838
+      ],
+      "attemptsText": [
+        "55.71",
+        "55.62",
+        "58.46",
+        "59.56",
+        "58.38"
+      ],
+      "bestCs": 5562,
+      "avgCs": 5752,
+      "bestText": "55.62",
+      "avgText": "57.52"
+    },
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "date": "2024-03-03",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        5859,
+        4702,
+        6002,
+        5603,
+        5507
+      ],
+      "attemptsText": [
+        "58.59",
+        "47.02",
+        "1:00.02",
+        "56.03",
+        "55.07"
+      ],
+      "bestCs": 4702,
+      "avgCs": 5656,
+      "bestText": "47.02",
+      "avgText": "56.56"
+    },
+    {
+      "compId": "TigeryOpen2024",
+      "compName": "Tigery Open 2024",
+      "date": "2024-05-26",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        6091,
+        -1,
+        6283,
+        6018,
+        6188
+      ],
+      "attemptsText": [
+        "1:00.91",
+        "DNF",
+        "1:02.83",
+        "1:00.18",
+        "1:01.88"
+      ],
+      "bestCs": 6018,
+      "avgCs": 6187,
+      "bestText": "1:00.18",
+      "avgText": "1:01.87"
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "date": "2024-09-22",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        5252,
+        -1,
+        5610,
+        -1,
+        5814
+      ],
+      "attemptsText": [
+        "52.52",
+        "DNF",
+        "56.10",
+        "DNF",
+        "58.14"
+      ],
+      "bestCs": 5252,
+      "avgCs": -1,
+      "bestText": "52.52",
+      "avgText": "DNF"
+    },
+    {
+      "compId": "ChevryOpen2024",
+      "compName": "Chevry Open 2024",
+      "date": "2024-10-06",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        5919,
+        5884,
+        5375,
+        6010,
+        4652
+      ],
+      "attemptsText": [
+        "59.19",
+        "58.84",
+        "53.75",
+        "1:00.10",
+        "46.52"
+      ],
+      "bestCs": 4652,
+      "avgCs": 5726,
+      "bestText": "46.52",
+      "avgText": "57.26"
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "date": "2024-11-24",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4739,
+        4996,
+        6333,
+        5064,
+        5286
+      ],
+      "attemptsText": [
+        "47.39",
+        "49.96",
+        "1:03.33",
+        "50.64",
+        "52.86"
+      ],
+      "bestCs": 4739,
+      "avgCs": 5115,
+      "bestText": "47.39",
+      "avgText": "51.15"
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "date": "2025-01-12",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        -1,
+        4184,
+        4372,
+        5706,
+        4688
+      ],
+      "attemptsText": [
+        "DNF",
+        "41.84",
+        "43.72",
+        "57.06",
+        "46.88"
+      ],
+      "bestCs": 4184,
+      "avgCs": 4922,
+      "bestText": "41.84",
+      "avgText": "49.22"
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "date": "2025-03-23",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4613,
+        4392,
+        5174,
+        5031,
+        4859
+      ],
+      "attemptsText": [
+        "46.13",
+        "43.92",
+        "51.74",
+        "50.31",
+        "48.59"
+      ],
+      "bestCs": 4392,
+      "avgCs": 4834,
+      "bestText": "43.92",
+      "avgText": "48.34"
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "date": "2025-04-21",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4973,
+        5756,
+        4044,
+        4473,
+        5014
+      ],
+      "attemptsText": [
+        "49.73",
+        "57.56",
+        "40.44",
+        "44.73",
+        "50.14"
+      ],
+      "bestCs": 4044,
+      "avgCs": 4820,
+      "bestText": "40.44",
+      "avgText": "48.20"
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "date": "2025-05-04",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4913,
+        5084,
+        4243,
+        4268,
+        4692
+      ],
+      "attemptsText": [
+        "49.13",
+        "50.84",
+        "42.43",
+        "42.68",
+        "46.92"
+      ],
+      "bestCs": 4243,
+      "avgCs": 4624,
+      "bestText": "42.43",
+      "avgText": "46.24"
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "date": "2025-05-04",
+      "roundTypeId": "e",
+      "formatId": "a",
+      "attemptsCs": [
+        5045,
+        5159,
+        5460,
+        5069,
+        -1
+      ],
+      "attemptsText": [
+        "50.45",
+        "51.59",
+        "54.60",
+        "50.69",
+        "DNF"
+      ],
+      "bestCs": 5045,
+      "avgCs": 5229,
+      "bestText": "50.45",
+      "avgText": "52.29"
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "date": "2025-05-18",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4089,
+        4423,
+        4539,
+        6358,
+        5376
+      ],
+      "attemptsText": [
+        "40.89",
+        "44.23",
+        "45.39",
+        "1:03.58",
+        "53.76"
+      ],
+      "bestCs": 4089,
+      "avgCs": 4779,
+      "bestText": "40.89",
+      "avgText": "47.79"
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "date": "2025-05-18",
+      "roundTypeId": "f",
+      "formatId": "a",
+      "attemptsCs": [
+        4908,
+        4475,
+        4683,
+        -1,
+        4407
+      ],
+      "attemptsText": [
+        "49.08",
+        "44.75",
+        "46.83",
+        "DNF",
+        "44.07"
+      ],
+      "bestCs": 4407,
+      "avgCs": 4689,
+      "bestText": "44.07",
+      "avgText": "46.89"
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4474,
+        4794,
+        3911,
+        4434,
+        4563
+      ],
+      "attemptsText": [
+        "44.74",
+        "47.94",
+        "39.11",
+        "44.34",
+        "45.63"
+      ],
+      "bestCs": 3911,
+      "avgCs": 4490,
+      "bestText": "39.11",
+      "avgText": "44.90"
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4380,
+        5691,
+        4945,
+        4509,
+        5030
+      ],
+      "attemptsText": [
+        "43.80",
+        "56.91",
+        "49.45",
+        "45.09",
+        "50.30"
+      ],
+      "bestCs": 4380,
+      "avgCs": 4828,
+      "bestText": "43.80",
+      "avgText": "48.28"
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "f",
+      "formatId": "a",
+      "attemptsCs": [
+        4054,
+        4641,
+        5053,
+        6596,
+        4750
+      ],
+      "attemptsText": [
+        "40.54",
+        "46.41",
+        "50.53",
+        "1:05.96",
+        "47.50"
+      ],
+      "bestCs": 4054,
+      "avgCs": 4815,
+      "bestText": "40.54",
+      "avgText": "48.15"
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        5326,
+        4011,
+        4338,
+        4019,
+        4330
+      ],
+      "attemptsText": [
+        "53.26",
+        "40.11",
+        "43.38",
+        "40.19",
+        "43.30"
+      ],
+      "bestCs": 4011,
+      "avgCs": 4229,
+      "bestText": "40.11",
+      "avgText": "42.29"
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4330,
+        5211,
+        4777,
+        4473,
+        4196
+      ],
+      "attemptsText": [
+        "43.30",
+        "52.11",
+        "47.77",
+        "44.73",
+        "41.96"
+      ],
+      "bestCs": 4196,
+      "avgCs": 4527,
+      "bestText": "41.96",
+      "avgText": "45.27"
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "e",
+      "formatId": "a",
+      "attemptsCs": [
+        4511,
+        4358,
+        4805,
+        3997,
+        4686
+      ],
+      "attemptsText": [
+        "45.11",
+        "43.58",
+        "48.05",
+        "39.97",
+        "46.86"
+      ],
+      "bestCs": 3997,
+      "avgCs": 4518,
+      "bestText": "39.97",
+      "avgText": "45.18"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Ignorer les dossiers et fichiers lourds
+data/
+*.tsv
+__pycache__/
+*.pyc

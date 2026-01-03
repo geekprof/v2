@@ -1,0 +1,347 @@
+:root {
+    --bg-dark: #121212;
+    --bg-card: #1e1e1e;
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --accent: #64b5f6;
+    --accent-hover: #42a5f5;
+    --border: #333;
+    --success: #66bb6a;
+    --danger: #ef5350;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--bg-dark);
+    color: var(--text-primary);
+    overflow: hidden;
+    /* App-like feel */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: var(--bg-card);
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    flex-shrink: 0;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.controls {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+select {
+    background: var(--bg-dark);
+    color: var(--text-primary);
+    border: 1px solid var(--border);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    outline: none;
+    cursor: pointer;
+}
+
+select:focus {
+    border-color: var(--accent);
+}
+
+.mode-switch {
+    display: flex;
+    background: var(--bg-dark);
+    border-radius: 6px;
+    padding: 2px;
+    border: 1px solid var(--border);
+}
+
+.mode-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    padding: 0.4rem 1rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.mode-btn.active {
+    background-color: var(--bg-card);
+    color: var(--accent);
+    font-weight: 600;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+main {
+    flex: 1;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+
+#chart-container {
+    flex: 1;
+    position: relative;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#main-chart {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    background: var(--bg-card);
+    overflow: hidden;
+}
+
+#map-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    background: var(--bg-dark);
+    display: none;
+}
+
+#map-view {
+    width: 100%;
+    height: 100%;
+}
+
+.sidebar {
+    width: 350px;
+    background: var(--bg-card);
+    border-left: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    transform: translateX(0);
+    transition: transform 0.3s ease;
+    z-index: 200;
+}
+
+.sidebar.closed {
+    transform: translateX(100%);
+    width: 0;
+    border: none;
+}
+
+.sidebar-header {
+    padding: 1.5rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sidebar-header h2 {
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+.close-btn {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+.sidebar-content {
+    flex: 1;
+    padding: 1.5rem;
+    overflow-y: auto;
+}
+
+.stat-group {
+    margin-bottom: 2rem;
+}
+
+.stat-label {
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+}
+
+.stat-value {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.stat-value.pr {
+    color: var(--success);
+}
+
+.attempts-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.attempt-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border);
+    font-variant-numeric: tabular-nums;
+}
+
+.attempt-n {
+    color: var(--text-secondary);
+}
+
+.pr-badge {
+    background: rgba(102, 187, 106, 0.1);
+    color: var(--success);
+    font-size: 0.7rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Mobile Responsive Design */
+@media screen and (max-width: 768px) {
+    body {
+        height: calc(var(--vh, 1vh) * 100);
+        /* Use actual viewport height */
+        overflow: hidden;
+    }
+
+    header {
+        padding: 0.3rem 0.5rem;
+        height: auto;
+        flex-direction: column;
+        gap: 0.3rem;
+        align-items: stretch;
+    }
+
+    .logo {
+        display: none !important;
+        /* Hide logo on mobile to save space */
+    }
+
+    .controls {
+        flex-wrap: wrap;
+        gap: 0.3rem;
+    }
+
+    select {
+        flex: 1;
+        min-width: 0;
+        font-size: 0.75rem;
+        padding: 0.35rem 0.5rem;
+    }
+
+    .mode-switch {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .mode-btn {
+        flex: 1;
+        font-size: 0.7rem;
+        padding: 0.3rem 0.3rem;
+    }
+
+    #chart-container {
+        padding: 0.25rem;
+    }
+
+    /* Full screen sidebar on mobile */
+    .sidebar {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        max-width: 100%;
+        z-index: 300;
+        box-shadow: -2px 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .sidebar.closed {
+        transform: translateX(100%);
+        width: 100%;
+    }
+
+    .sidebar-header {
+        padding: 1rem;
+    }
+
+    .sidebar-content {
+        padding: 1rem;
+    }
+
+    .stat-value {
+        font-size: 1.3rem;
+    }
+
+    /* Improve touch targets */
+    .close-btn {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+}
+
+/* Landscape mobile */
+@media screen and (max-width: 768px) and (orientation: landscape) {
+    header {
+        flex-direction: row;
+        height: 50px;
+        padding: 0.5rem 1rem;
+    }
+
+    .logo {
+        font-size: 0.9rem;
+    }
+
+    .mode-switch {
+        width: auto;
+    }
+
+    .mode-btn {
+        padding: 0.3rem 0.75rem;
+        font-size: 0.8rem;
+    }
+}

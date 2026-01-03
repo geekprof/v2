@@ -1,0 +1,306 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "333oh",
+  "rounds": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "date": "2024-01-28",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        3516,
+        2886,
+        3925,
+        3052,
+        3916
+      ],
+      "attemptsText": [
+        "35.16",
+        "28.86",
+        "39.25",
+        "30.52",
+        "39.16"
+      ],
+      "bestCs": 2886,
+      "avgCs": 3495,
+      "bestText": "28.86",
+      "avgText": "34.95"
+    },
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "date": "2024-03-03",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        3118,
+        3123,
+        3262,
+        3010,
+        3887
+      ],
+      "attemptsText": [
+        "31.18",
+        "31.23",
+        "32.62",
+        "30.10",
+        "38.87"
+      ],
+      "bestCs": 3010,
+      "avgCs": 3168,
+      "bestText": "30.10",
+      "avgText": "31.68"
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "date": "2024-11-24",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        2829,
+        4856,
+        2169,
+        2944,
+        2241
+      ],
+      "attemptsText": [
+        "28.29",
+        "48.56",
+        "21.69",
+        "29.44",
+        "22.41"
+      ],
+      "bestCs": 2169,
+      "avgCs": 2671,
+      "bestText": "21.69",
+      "avgText": "26.71"
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "date": "2024-11-24",
+      "roundTypeId": "e",
+      "formatId": "a",
+      "attemptsCs": [
+        2476,
+        2179,
+        2020,
+        2166,
+        2767
+      ],
+      "attemptsText": [
+        "24.76",
+        "21.79",
+        "20.20",
+        "21.66",
+        "27.67"
+      ],
+      "bestCs": 2020,
+      "avgCs": 2274,
+      "bestText": "20.20",
+      "avgText": "22.74"
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "date": "2024-11-24",
+      "roundTypeId": "c",
+      "formatId": "a",
+      "attemptsCs": [
+        3782,
+        2530,
+        3035,
+        2482,
+        3914
+      ],
+      "attemptsText": [
+        "37.82",
+        "25.30",
+        "30.35",
+        "24.82",
+        "39.14"
+      ],
+      "bestCs": 2482,
+      "avgCs": 3116,
+      "bestText": "24.82",
+      "avgText": "31.16"
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "date": "2025-01-12",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        1919,
+        1890,
+        2463,
+        1894,
+        -1
+      ],
+      "attemptsText": [
+        "19.19",
+        "18.90",
+        "24.63",
+        "18.94",
+        "DNF"
+      ],
+      "bestCs": 1890,
+      "avgCs": 2092,
+      "bestText": "18.90",
+      "avgText": "20.92"
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "date": "2025-01-12",
+      "roundTypeId": "f",
+      "formatId": "a",
+      "attemptsCs": [
+        2412,
+        2274,
+        2132,
+        2425,
+        2463
+      ],
+      "attemptsText": [
+        "24.12",
+        "22.74",
+        "21.32",
+        "24.25",
+        "24.63"
+      ],
+      "bestCs": 2132,
+      "avgCs": 2370,
+      "bestText": "21.32",
+      "avgText": "23.70"
+    },
+    {
+      "compId": "BayonneAtoutcubesOpen2025",
+      "compName": "Bayonne Atoutcubes Open 2025",
+      "date": "2025-03-02",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        3088,
+        2549,
+        2139,
+        2033,
+        2218
+      ],
+      "attemptsText": [
+        "30.88",
+        "25.49",
+        "21.39",
+        "20.33",
+        "22.18"
+      ],
+      "bestCs": 2033,
+      "avgCs": 2302,
+      "bestText": "20.33",
+      "avgText": "23.02"
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "date": "2025-03-23",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        2367,
+        2145,
+        3126,
+        2693,
+        -1
+      ],
+      "attemptsText": [
+        "23.67",
+        "21.45",
+        "31.26",
+        "26.93",
+        "DNF"
+      ],
+      "bestCs": 2145,
+      "avgCs": 2729,
+      "bestText": "21.45",
+      "avgText": "27.29"
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "date": "2025-04-21",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        2186,
+        2498,
+        2717,
+        2561,
+        2347
+      ],
+      "attemptsText": [
+        "21.86",
+        "24.98",
+        "27.17",
+        "25.61",
+        "23.47"
+      ],
+      "bestCs": 2186,
+      "avgCs": 2469,
+      "bestText": "21.86",
+      "avgText": "24.69"
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        2129,
+        2847,
+        2452,
+        2146,
+        2196
+      ],
+      "attemptsText": [
+        "21.29",
+        "28.47",
+        "24.52",
+        "21.46",
+        "21.96"
+      ],
+      "bestCs": 2129,
+      "avgCs": 2265,
+      "bestText": "21.29",
+      "avgText": "22.65"
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "f",
+      "formatId": "a",
+      "attemptsCs": [
+        2650,
+        2155,
+        4368,
+        2106,
+        1886
+      ],
+      "attemptsText": [
+        "26.50",
+        "21.55",
+        "43.68",
+        "21.06",
+        "18.86"
+      ],
+      "bestCs": 1886,
+      "avgCs": 2304,
+      "bestText": "18.86",
+      "avgText": "23.04"
+    }
+  ]
+}

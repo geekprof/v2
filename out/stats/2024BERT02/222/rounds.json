@@ -1,0 +1,231 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "222",
+  "rounds": [
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "date": "2024-03-03",
+      "roundTypeId": "1",
+      "formatId": "a",
+      "attemptsCs": [
+        384,
+        391,
+        628,
+        380,
+        396
+      ],
+      "attemptsText": [
+        "3.84",
+        "3.91",
+        "6.28",
+        "3.80",
+        "3.96"
+      ],
+      "bestCs": 380,
+      "avgCs": 390,
+      "bestText": "3.80",
+      "avgText": "3.90"
+    },
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "date": "2024-03-03",
+      "roundTypeId": "2",
+      "formatId": "a",
+      "attemptsCs": [
+        527,
+        472,
+        497,
+        412,
+        313
+      ],
+      "attemptsText": [
+        "5.27",
+        "4.72",
+        "4.97",
+        "4.12",
+        "3.13"
+      ],
+      "bestCs": 313,
+      "avgCs": 460,
+      "bestText": "3.13",
+      "avgText": "4.60"
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "date": "2025-01-12",
+      "roundTypeId": "1",
+      "formatId": "a",
+      "attemptsCs": [
+        312,
+        -1,
+        602,
+        160,
+        -1
+      ],
+      "attemptsText": [
+        "3.12",
+        "DNF",
+        "6.02",
+        "1.60",
+        "DNF"
+      ],
+      "bestCs": 160,
+      "avgCs": -1,
+      "bestText": "1.60",
+      "avgText": "DNF"
+    },
+    {
+      "compId": "BayonneAtoutcubesOpen2025",
+      "compName": "Bayonne Atoutcubes Open 2025",
+      "date": "2025-03-02",
+      "roundTypeId": "1",
+      "formatId": "a",
+      "attemptsCs": [
+        -1,
+        375,
+        -1,
+        746,
+        346
+      ],
+      "attemptsText": [
+        "DNF",
+        "3.75",
+        "DNF",
+        "7.46",
+        "3.46"
+      ],
+      "bestCs": 346,
+      "avgCs": -1,
+      "bestText": "3.46",
+      "avgText": "DNF"
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "date": "2025-04-21",
+      "roundTypeId": "1",
+      "formatId": "a",
+      "attemptsCs": [
+        726,
+        356,
+        337,
+        330,
+        366
+      ],
+      "attemptsText": [
+        "7.26",
+        "3.56",
+        "3.37",
+        "3.30",
+        "3.66"
+      ],
+      "bestCs": 330,
+      "avgCs": 353,
+      "bestText": "3.30",
+      "avgText": "3.53"
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "date": "2025-04-21",
+      "roundTypeId": "2",
+      "formatId": "a",
+      "attemptsCs": [
+        382,
+        454,
+        708,
+        2839,
+        239
+      ],
+      "attemptsText": [
+        "3.82",
+        "4.54",
+        "7.08",
+        "28.39",
+        "2.39"
+      ],
+      "bestCs": 239,
+      "avgCs": 515,
+      "bestText": "2.39",
+      "avgText": "5.15"
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "1",
+      "formatId": "a",
+      "attemptsCs": [
+        295,
+        370,
+        1644,
+        384,
+        317
+      ],
+      "attemptsText": [
+        "2.95",
+        "3.70",
+        "16.44",
+        "3.84",
+        "3.17"
+      ],
+      "bestCs": 295,
+      "avgCs": 357,
+      "bestText": "2.95",
+      "avgText": "3.57"
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "f",
+      "formatId": "a",
+      "attemptsCs": [
+        584,
+        377,
+        188,
+        332,
+        317
+      ],
+      "attemptsText": [
+        "5.84",
+        "3.77",
+        "1.88",
+        "3.32",
+        "3.17"
+      ],
+      "bestCs": 188,
+      "avgCs": 342,
+      "bestText": "1.88",
+      "avgText": "3.42"
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "1",
+      "formatId": "a",
+      "attemptsCs": [
+        444,
+        450,
+        -1,
+        369,
+        561
+      ],
+      "attemptsText": [
+        "4.44",
+        "4.50",
+        "DNF",
+        "3.69",
+        "5.61"
+      ],
+      "bestCs": 369,
+      "avgCs": 485,
+      "bestText": "3.69",
+      "avgText": "4.85"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "minx",
+  "points": [
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 13014,
+      "bestAvgCs": null,
+      "bestSingleText": "2:10.14",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    }
+  ]
+}

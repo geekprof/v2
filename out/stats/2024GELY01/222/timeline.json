@@ -1,0 +1,78 @@
+{
+  "personId": "2024GELY01",
+  "eventId": "222",
+  "points": [
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "dateEnd": "2024-03-03",
+      "bestSingleCs": 458,
+      "bestAvgCs": 651,
+      "bestSingleText": "4.58",
+      "bestAvgText": "6.51",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "dateEnd": "2025-01-12",
+      "bestSingleCs": 259,
+      "bestAvgCs": 474,
+      "bestSingleText": "2.59",
+      "bestAvgText": "4.74",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "EaubonneOpen2025",
+      "compName": "Eaubonne Open 2025",
+      "dateEnd": "2025-03-02",
+      "bestSingleCs": 303,
+      "bestAvgCs": 571,
+      "bestSingleText": "3.03",
+      "bestAvgText": "5.71",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 2
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "dateEnd": "2025-04-21",
+      "bestSingleCs": 468,
+      "bestAvgCs": 531,
+      "bestSingleText": "4.68",
+      "bestAvgText": "5.31",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 421,
+      "bestAvgCs": 462,
+      "bestSingleText": "4.21",
+      "bestAvgText": "4.62",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 294,
+      "bestAvgCs": 435,
+      "bestSingleText": "2.94",
+      "bestAvgText": "4.35",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 2
+    }
+  ]
+}

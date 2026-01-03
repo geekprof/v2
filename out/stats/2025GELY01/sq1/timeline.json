@@ -1,0 +1,18 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "sq1",
+  "points": [
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "dateEnd": "2025-11-09",
+      "bestSingleCs": 9942,
+      "bestAvgCs": null,
+      "bestSingleText": "1:39.42",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    }
+  ]
+}

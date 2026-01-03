@@ -1,0 +1,66 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "666",
+  "points": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "dateEnd": "2024-01-28",
+      "bestSingleCs": 25740,
+      "bestAvgCs": null,
+      "bestSingleText": "4:17.40",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "dateEnd": "2024-09-22",
+      "bestSingleCs": 25614,
+      "bestAvgCs": null,
+      "bestSingleText": "4:16.14",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "dateEnd": "2025-05-04",
+      "bestSingleCs": 21033,
+      "bestAvgCs": null,
+      "bestSingleText": "3:30.33",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 19512,
+      "bestAvgCs": 22257,
+      "bestSingleText": "3:15.12",
+      "bestAvgText": "3:42.57",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 16697,
+      "bestAvgCs": 17588,
+      "bestSingleText": "2:46.97",
+      "bestAvgText": "2:55.88",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "444",
+  "rounds": [
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        11459,
+        12804
+      ],
+      "attemptsText": [
+        "1:54.59",
+        "2:08.04"
+      ],
+      "bestCs": 11459,
+      "avgCs": 0,
+      "bestText": "1:54.59",
+      "avgText": ""
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        13196,
+        11894
+      ],
+      "attemptsText": [
+        "2:11.96",
+        "1:58.94"
+      ],
+      "bestCs": 11894,
+      "avgCs": 0,
+      "bestText": "1:58.94",
+      "avgText": ""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "777",
+  "points": [
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "dateEnd": "2025-03-23",
+      "bestSingleCs": 37691,
+      "bestAvgCs": null,
+      "bestSingleText": "6:16.91",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 35416,
+      "bestAvgCs": null,
+      "bestSingleText": "5:54.16",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 28223,
+      "bestAvgCs": 35838,
+      "bestSingleText": "4:42.23",
+      "bestAvgText": "5:58.38",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    }
+  ]
+}

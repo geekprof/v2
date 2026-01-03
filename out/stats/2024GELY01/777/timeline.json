@@ -1,0 +1,30 @@
+{
+  "personId": "2024GELY01",
+  "eventId": "777",
+  "points": [
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 35239,
+      "bestAvgCs": null,
+      "bestSingleText": "5:52.39",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 29564,
+      "bestAvgCs": 31027,
+      "bestSingleText": "4:55.64",
+      "bestAvgText": "5:10.27",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    }
+  ]
+}

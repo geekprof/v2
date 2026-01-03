@@ -1,0 +1,30 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "444",
+  "points": [
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 11459,
+      "bestAvgCs": null,
+      "bestSingleText": "1:54.59",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "dateEnd": "2025-11-09",
+      "bestSingleCs": 11894,
+      "bestAvgCs": null,
+      "bestSingleText": "1:58.94",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    }
+  ]
+}

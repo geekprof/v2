@@ -1,0 +1,23 @@
+{
+  "personId": "2024DORO01",
+  "eventId": "777",
+  "rounds": [
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "c",
+      "formatId": "m",
+      "attemptsCs": [
+        -1
+      ],
+      "attemptsText": [
+        "DNF"
+      ],
+      "bestCs": -1,
+      "avgCs": 0,
+      "bestText": "DNF",
+      "avgText": ""
+    }
+  ]
+}

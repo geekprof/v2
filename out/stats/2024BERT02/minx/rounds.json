@@ -1,0 +1,132 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "minx",
+  "rounds": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "date": "2024-01-28",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        14039,
+        12529
+      ],
+      "attemptsText": [
+        "2:20.39",
+        "2:05.29"
+      ],
+      "bestCs": 12529,
+      "avgCs": 0,
+      "bestText": "2:05.29",
+      "avgText": ""
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "date": "2024-09-22",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        15794,
+        14008
+      ],
+      "attemptsText": [
+        "2:37.94",
+        "2:20.08"
+      ],
+      "bestCs": 14008,
+      "avgCs": 0,
+      "bestText": "2:20.08",
+      "avgText": ""
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "date": "2025-01-12",
+      "roundTypeId": "c",
+      "formatId": "a",
+      "attemptsCs": [
+        15012,
+        11276,
+        -1,
+        13027,
+        11670
+      ],
+      "attemptsText": [
+        "2:30.12",
+        "1:52.76",
+        "DNF",
+        "2:10.27",
+        "1:56.70"
+      ],
+      "bestCs": 11276,
+      "avgCs": 13236,
+      "bestText": "1:52.76",
+      "avgText": "2:12.36"
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "date": "2025-03-23",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        17989,
+        12186
+      ],
+      "attemptsText": [
+        "2:59.89",
+        "2:01.86"
+      ],
+      "bestCs": 12186,
+      "avgCs": 0,
+      "bestText": "2:01.86",
+      "avgText": ""
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "date": "2025-04-21",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        11211,
+        12436
+      ],
+      "attemptsText": [
+        "1:52.11",
+        "2:04.36"
+      ],
+      "bestCs": 11211,
+      "avgCs": 0,
+      "bestText": "1:52.11",
+      "avgText": ""
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        9811,
+        10694,
+        9136,
+        9067,
+        10091
+      ],
+      "attemptsText": [
+        "1:38.11",
+        "1:46.94",
+        "1:31.36",
+        "1:30.67",
+        "1:40.91"
+      ],
+      "bestCs": 9067,
+      "avgCs": 9679,
+      "bestText": "1:30.67",
+      "avgText": "1:36.79"
+    }
+  ]
+}

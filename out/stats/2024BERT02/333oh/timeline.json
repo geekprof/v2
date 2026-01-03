@@ -1,0 +1,102 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "333oh",
+  "points": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "dateEnd": "2024-01-28",
+      "bestSingleCs": 2886,
+      "bestAvgCs": 3495,
+      "bestSingleText": "28.86",
+      "bestAvgText": "34.95",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "dateEnd": "2024-03-03",
+      "bestSingleCs": 3010,
+      "bestAvgCs": 3168,
+      "bestSingleText": "30.10",
+      "bestAvgText": "31.68",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "dateEnd": "2024-11-24",
+      "bestSingleCs": 2020,
+      "bestAvgCs": 2274,
+      "bestSingleText": "20.20",
+      "bestAvgText": "22.74",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 3
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "dateEnd": "2025-01-12",
+      "bestSingleCs": 1890,
+      "bestAvgCs": 2092,
+      "bestSingleText": "18.90",
+      "bestAvgText": "20.92",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "BayonneAtoutcubesOpen2025",
+      "compName": "Bayonne Atoutcubes Open 2025",
+      "dateEnd": "2025-03-02",
+      "bestSingleCs": 2033,
+      "bestAvgCs": 2302,
+      "bestSingleText": "20.33",
+      "bestAvgText": "23.02",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "dateEnd": "2025-03-23",
+      "bestSingleCs": 2145,
+      "bestAvgCs": 2729,
+      "bestSingleText": "21.45",
+      "bestAvgText": "27.29",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "dateEnd": "2025-04-21",
+      "bestSingleCs": 2186,
+      "bestAvgCs": 2469,
+      "bestSingleText": "21.86",
+      "bestAvgText": "24.69",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 1886,
+      "bestAvgCs": 2265,
+      "bestSingleText": "18.86",
+      "bestAvgText": "22.65",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 2
+    }
+  ]
+}

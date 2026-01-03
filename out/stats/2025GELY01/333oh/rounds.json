@@ -1,0 +1,31 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "333oh",
+  "rounds": [
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "d",
+      "formatId": "a",
+      "attemptsCs": [
+        4487,
+        5530,
+        4885,
+        4856,
+        5399
+      ],
+      "attemptsText": [
+        "44.87",
+        "55.30",
+        "48.85",
+        "48.56",
+        "53.99"
+      ],
+      "bestCs": 4487,
+      "avgCs": 5047,
+      "bestText": "44.87",
+      "avgText": "50.47"
+    }
+  ]
+}

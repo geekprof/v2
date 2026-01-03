@@ -1,0 +1,162 @@
+{
+  "personId": "2024DORO01",
+  "eventId": "minx",
+  "points": [
+    {
+      "compId": "BuchyOpen2024",
+      "compName": "Buchy Open 2024",
+      "dateEnd": "2024-06-09",
+      "bestSingleCs": 17241,
+      "bestAvgCs": null,
+      "bestSingleText": "2:52.41",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "DouvrinOpen2024",
+      "compName": "Douvrin Open 2024",
+      "dateEnd": "2024-06-23",
+      "bestSingleCs": 17257,
+      "bestAvgCs": null,
+      "bestSingleText": "2:52.57",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "BrestOpen2024",
+      "compName": "Brest Open 2024",
+      "dateEnd": "2024-10-20",
+      "bestSingleCs": 14052,
+      "bestAvgCs": null,
+      "bestSingleText": "2:20.52",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "dateEnd": "2025-01-12",
+      "bestSingleCs": 13555,
+      "bestAvgCs": null,
+      "bestSingleText": "2:15.55",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "JustJudgeJura2025",
+      "compName": "Just Judge Jura 2025",
+      "dateEnd": "2025-01-19",
+      "bestSingleCs": 13310,
+      "bestAvgCs": null,
+      "bestSingleText": "2:13.10",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "EaubonneOpen2025",
+      "compName": "Eaubonne Open 2025",
+      "dateEnd": "2025-03-02",
+      "bestSingleCs": 15112,
+      "bestAvgCs": null,
+      "bestSingleText": "2:31.12",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "dateEnd": "2025-03-23",
+      "bestSingleCs": 12252,
+      "bestAvgCs": null,
+      "bestSingleText": "2:02.52",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "CarquefOpen2025",
+      "compName": "Carquef'Open 2025",
+      "dateEnd": "2025-04-06",
+      "bestSingleCs": 16417,
+      "bestAvgCs": null,
+      "bestSingleText": "2:44.17",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "dateEnd": "2025-04-21",
+      "bestSingleCs": 12032,
+      "bestAvgCs": null,
+      "bestSingleText": "2:00.32",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "FLIPOpen2025",
+      "compName": "FLIP Open 2025",
+      "dateEnd": "2025-07-14",
+      "bestSingleCs": 9829,
+      "bestAvgCs": 12419,
+      "bestSingleText": "1:38.29",
+      "bestAvgText": "2:04.19",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "CouffouleuxOpen2025",
+      "compName": "Couffouleux Open 2025",
+      "dateEnd": "2025-08-17",
+      "bestSingleCs": 7302,
+      "bestAvgCs": 8118,
+      "bestSingleText": "1:13.02",
+      "bestAvgText": "1:21.18",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 8001,
+      "bestAvgCs": 8799,
+      "bestSingleText": "1:20.01",
+      "bestAvgText": "1:27.99",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 2
+    },
+    {
+      "compId": "BacktoBuchy2025",
+      "compName": "Back to Buchy 2025",
+      "dateEnd": "2025-11-16",
+      "bestSingleCs": 7430,
+      "bestAvgCs": 7964,
+      "bestSingleText": "1:14.30",
+      "bestAvgText": "1:19.64",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    }
+  ]
+}

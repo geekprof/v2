@@ -1,0 +1,61 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "777",
+  "rounds": [
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "date": "2025-03-23",
+      "roundTypeId": "c",
+      "formatId": "m",
+      "attemptsCs": [
+        37691
+      ],
+      "attemptsText": [
+        "6:16.91"
+      ],
+      "bestCs": 37691,
+      "avgCs": 0,
+      "bestText": "6:16.91",
+      "avgText": ""
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "c",
+      "formatId": "m",
+      "attemptsCs": [
+        35416
+      ],
+      "attemptsText": [
+        "5:54.16"
+      ],
+      "bestCs": 35416,
+      "avgCs": 0,
+      "bestText": "5:54.16",
+      "avgText": ""
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "c",
+      "formatId": "m",
+      "attemptsCs": [
+        28223,
+        47212,
+        32080
+      ],
+      "attemptsText": [
+        "4:42.23",
+        "7:52.12",
+        "5:20.80"
+      ],
+      "bestCs": 28223,
+      "avgCs": 35838,
+      "bestText": "4:42.23",
+      "avgText": "5:58.38"
+    }
+  ]
+}

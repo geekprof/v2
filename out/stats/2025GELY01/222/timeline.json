@@ -1,0 +1,30 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "222",
+  "points": [
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 441,
+      "bestAvgCs": 751,
+      "bestSingleText": "4.41",
+      "bestAvgText": "7.51",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 296,
+      "bestAvgCs": 659,
+      "bestSingleText": "2.96",
+      "bestAvgText": "6.59",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 1
+    }
+  ]
+}

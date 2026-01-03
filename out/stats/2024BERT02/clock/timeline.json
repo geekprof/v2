@@ -1,0 +1,114 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "clock",
+  "points": [
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "dateEnd": "2024-09-22",
+      "bestSingleCs": 1462,
+      "bestAvgCs": 1750,
+      "bestSingleText": "14.62",
+      "bestAvgText": "17.50",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChevryOpen2024",
+      "compName": "Chevry Open 2024",
+      "dateEnd": "2024-10-06",
+      "bestSingleCs": 1268,
+      "bestAvgCs": 2075,
+      "bestSingleText": "12.68",
+      "bestAvgText": "20.75",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "BayonneAtoutcubesOpen2025",
+      "compName": "Bayonne Atoutcubes Open 2025",
+      "dateEnd": "2025-03-02",
+      "bestSingleCs": 1275,
+      "bestAvgCs": 1347,
+      "bestSingleText": "12.75",
+      "bestAvgText": "13.47",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "roundsCount": 1
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "dateEnd": "2025-05-04",
+      "bestSingleCs": 1069,
+      "bestAvgCs": 1207,
+      "bestSingleText": "10.69",
+      "bestAvgText": "12.07",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "roundsCount": 2
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "dateEnd": "2025-05-18",
+      "bestSingleCs": 1127,
+      "bestAvgCs": 1207,
+      "bestSingleText": "11.27",
+      "bestAvgText": "12.07",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 1083,
+      "bestAvgCs": 1318,
+      "bestSingleText": "10.83",
+      "bestAvgText": "13.18",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 947,
+      "bestAvgCs": 1281,
+      "bestSingleText": "9.47",
+      "bestAvgText": "12.81",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 968,
+      "bestAvgCs": 1390,
+      "bestSingleText": "9.68",
+      "bestAvgText": "13.90",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "dateEnd": "2025-11-09",
+      "bestSingleCs": 1206,
+      "bestAvgCs": null,
+      "bestSingleText": "12.06",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "roundsCount": 1
+    }
+  ]
+}
