@@ -1,0 +1,297 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "555",
+  "points": [
+    {
+      "compId": "LongjumOpen2024",
+      "compName": "Longjum'Open 2024",
+      "dateEnd": "2024-01-28",
+      "bestSingleCs": 12654,
+      "bestAvgCs": null,
+      "bestSingleText": "2:06.54",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "finalPos": 50,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "2:08.68",
+          "avg": "-",
+          "pos": 52
+        },
+        {
+          "name": "Second round",
+          "single": "2:06.54",
+          "avg": "-",
+          "pos": 50
+        }
+      ],
+      "roundsCount": 2
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "dateEnd": "2024-09-22",
+      "bestSingleCs": 10783,
+      "bestAvgCs": 13007,
+      "bestSingleText": "1:47.83",
+      "bestAvgText": "2:10.07",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 50,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:47.83",
+          "avg": "2:10.07",
+          "pos": 50
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChevryOpen2024",
+      "compName": "Chevry Open 2024",
+      "dateEnd": "2024-10-06",
+      "bestSingleCs": 9905,
+      "bestAvgCs": 11539,
+      "bestSingleText": "1:39.05",
+      "bestAvgText": "1:55.39",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 26,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:39.05",
+          "avg": "1:55.39",
+          "pos": 26
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "dateEnd": "2024-11-24",
+      "bestSingleCs": 10508,
+      "bestAvgCs": 12643,
+      "bestSingleText": "1:45.08",
+      "bestAvgText": "2:06.43",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 23,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:45.08",
+          "avg": "2:06.43",
+          "pos": 23
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "dateEnd": "2025-01-12",
+      "bestSingleCs": 8817,
+      "bestAvgCs": 9817,
+      "bestSingleText": "1:28.17",
+      "bestAvgText": "1:38.17",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 15,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:28.17",
+          "avg": "1:38.17",
+          "pos": 15
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "dateEnd": "2025-03-23",
+      "bestSingleCs": 9130,
+      "bestAvgCs": 10522,
+      "bestSingleText": "1:31.30",
+      "bestAvgText": "1:45.22",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 32,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:31.30",
+          "avg": "1:45.22",
+          "pos": 32
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "dateEnd": "2025-04-21",
+      "bestSingleCs": 9271,
+      "bestAvgCs": null,
+      "bestSingleText": "1:32.71",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 82,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:32.71",
+          "avg": "-",
+          "pos": 82
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "dateEnd": "2025-05-04",
+      "bestSingleCs": 8783,
+      "bestAvgCs": 9769,
+      "bestSingleText": "1:27.83",
+      "bestAvgText": "1:37.69",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 31,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:33.44",
+          "avg": "1:37.69",
+          "pos": 29
+        },
+        {
+          "name": "Second round",
+          "single": "1:27.83",
+          "avg": "1:39.34",
+          "pos": 31
+        }
+      ],
+      "roundsCount": 2
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "dateEnd": "2025-05-18",
+      "bestSingleCs": 8900,
+      "bestAvgCs": 9308,
+      "bestSingleText": "1:29.00",
+      "bestAvgText": "1:33.08",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "finalPos": 18,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:33.63",
+          "avg": "1:39.92",
+          "pos": 20
+        },
+        {
+          "name": "Final",
+          "single": "1:29.00",
+          "avg": "1:33.08",
+          "pos": 18
+        }
+      ],
+      "roundsCount": 2
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 8853,
+      "bestAvgCs": 9417,
+      "bestSingleText": "1:28.53",
+      "bestAvgText": "1:34.17",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 32,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:28.53",
+          "avg": "1:34.17",
+          "pos": 32
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 8625,
+      "bestAvgCs": 9098,
+      "bestSingleText": "1:26.25",
+      "bestAvgText": "1:30.98",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 8,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "1:26.25",
+          "avg": "1:30.98",
+          "pos": 8
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 8220,
+      "bestAvgCs": 8645,
+      "bestSingleText": "1:22.20",
+      "bestAvgText": "1:26.45",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 18,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:22.20",
+          "avg": "1:26.45",
+          "pos": 18
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "dateEnd": "2025-11-09",
+      "bestSingleCs": 8832,
+      "bestAvgCs": 9109,
+      "bestSingleText": "1:28.32",
+      "bestAvgText": "1:31.09",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 35,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "1:28.32",
+          "avg": "1:31.09",
+          "pos": 35
+        }
+      ],
+      "roundsCount": 1
+    }
+  ]
+}

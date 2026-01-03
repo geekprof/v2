@@ -1,0 +1,54 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "sq1",
+  "points": [
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 5646,
+      "bestAvgCs": 7528,
+      "bestSingleText": "56.46",
+      "bestAvgText": "1:15.28",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 20,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "56.46",
+          "avg": "1:15.28",
+          "pos": 20
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "dateEnd": "2025-11-09",
+      "bestSingleCs": 3578,
+      "bestAvgCs": null,
+      "bestSingleText": "35.78",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "finalPos": 31,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "35.78",
+          "avg": "-",
+          "pos": 33
+        },
+        {
+          "name": "Second round",
+          "single": "47.84",
+          "avg": "-",
+          "pos": 31
+        }
+      ],
+      "roundsCount": 2
+    }
+  ]
+}

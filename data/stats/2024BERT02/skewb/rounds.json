@@ -1,0 +1,411 @@
+{
+  "personId": "2024BERT02",
+  "eventId": "skewb",
+  "rounds": [
+    {
+      "compId": "PolytechniqueOpen2024",
+      "compName": "Polytechnique Open 2024",
+      "date": "2024-03-03",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 46,
+      "attemptsCs": [
+        1603,
+        881,
+        1494,
+        1309,
+        888
+      ],
+      "attemptsText": [
+        "16.03",
+        "8.81",
+        "14.94",
+        "13.09",
+        "8.88"
+      ],
+      "bestCs": 881,
+      "avgCs": 1230,
+      "bestText": "8.81",
+      "avgText": "12.30"
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "date": "2024-09-22",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 46,
+      "attemptsCs": [
+        1277,
+        -1,
+        929,
+        1375,
+        1280
+      ],
+      "attemptsText": [
+        "12.77",
+        "DNF",
+        "9.29",
+        "13.75",
+        "12.80"
+      ],
+      "bestCs": 929,
+      "avgCs": 1311,
+      "bestText": "9.29",
+      "avgText": "13.11"
+    },
+    {
+      "compId": "ChevryOpen2024",
+      "compName": "Chevry Open 2024",
+      "date": "2024-10-06",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 27,
+      "attemptsCs": [
+        1006,
+        714,
+        1265,
+        1048,
+        1259
+      ],
+      "attemptsText": [
+        "10.06",
+        "7.14",
+        "12.65",
+        "10.48",
+        "12.59"
+      ],
+      "bestCs": 714,
+      "avgCs": 1104,
+      "bestText": "7.14",
+      "avgText": "11.04"
+    },
+    {
+      "compId": "ChevryOpen2024",
+      "compName": "Chevry Open 2024",
+      "date": "2024-10-06",
+      "roundTypeId": "2",
+      "roundName": "Second round",
+      "formatId": "a",
+      "pos": 28,
+      "attemptsCs": [
+        1054,
+        2360,
+        1422,
+        1123,
+        1485
+      ],
+      "attemptsText": [
+        "10.54",
+        "23.60",
+        "14.22",
+        "11.23",
+        "14.85"
+      ],
+      "bestCs": 1054,
+      "avgCs": 1343,
+      "bestText": "10.54",
+      "avgText": "13.43"
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "date": "2025-01-12",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 24,
+      "attemptsCs": [
+        1264,
+        1514,
+        1779,
+        836,
+        1176
+      ],
+      "attemptsText": [
+        "12.64",
+        "15.14",
+        "17.79",
+        "8.36",
+        "11.76"
+      ],
+      "bestCs": 836,
+      "avgCs": 1318,
+      "bestText": "8.36",
+      "avgText": "13.18"
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "date": "2025-03-23",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 28,
+      "attemptsCs": [
+        781,
+        2276,
+        622,
+        1347,
+        893
+      ],
+      "attemptsText": [
+        "7.81",
+        "22.76",
+        "6.22",
+        "13.47",
+        "8.93"
+      ],
+      "bestCs": 622,
+      "avgCs": 1007,
+      "bestText": "6.22",
+      "avgText": "10.07"
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "date": "2025-04-21",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 122,
+      "attemptsCs": [
+        1009,
+        1314,
+        1351,
+        1182,
+        802
+      ],
+      "attemptsText": [
+        "10.09",
+        "13.14",
+        "13.51",
+        "11.82",
+        "8.02"
+      ],
+      "bestCs": 802,
+      "avgCs": 1168,
+      "bestText": "8.02",
+      "avgText": "11.68"
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "date": "2025-05-04",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 62,
+      "attemptsCs": [
+        1184,
+        1096,
+        -1,
+        -1,
+        1395
+      ],
+      "attemptsText": [
+        "11.84",
+        "10.96",
+        "DNF",
+        "DNF",
+        "13.95"
+      ],
+      "bestCs": 1096,
+      "avgCs": -1,
+      "bestText": "10.96",
+      "avgText": "DNF"
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "date": "2025-05-18",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 29,
+      "attemptsCs": [
+        1571,
+        1465,
+        769,
+        797,
+        1319
+      ],
+      "attemptsText": [
+        "15.71",
+        "14.65",
+        "7.69",
+        "7.97",
+        "13.19"
+      ],
+      "bestCs": 769,
+      "avgCs": 1194,
+      "bestText": "7.69",
+      "avgText": "11.94"
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "date": "2025-05-18",
+      "roundTypeId": "2",
+      "roundName": "Second round",
+      "formatId": "a",
+      "pos": 30,
+      "attemptsCs": [
+        677,
+        1981,
+        978,
+        1445,
+        1369
+      ],
+      "attemptsText": [
+        "6.77",
+        "19.81",
+        "9.78",
+        "14.45",
+        "13.69"
+      ],
+      "bestCs": 677,
+      "avgCs": 1264,
+      "bestText": "6.77",
+      "avgText": "12.64"
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "f",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 32,
+      "attemptsCs": [
+        1144,
+        808,
+        1224,
+        1178,
+        971
+      ],
+      "attemptsText": [
+        "11.44",
+        "8.08",
+        "12.24",
+        "11.78",
+        "9.71"
+      ],
+      "bestCs": 808,
+      "avgCs": 1098,
+      "bestText": "8.08",
+      "avgText": "10.98"
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "f",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 25,
+      "attemptsCs": [
+        1439,
+        1391,
+        987,
+        -1,
+        958
+      ],
+      "attemptsText": [
+        "14.39",
+        "13.91",
+        "9.87",
+        "DNF",
+        "9.58"
+      ],
+      "bestCs": 958,
+      "avgCs": 1272,
+      "bestText": "9.58",
+      "avgText": "12.72"
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 24,
+      "attemptsCs": [
+        1163,
+        1075,
+        1194,
+        1057,
+        1103
+      ],
+      "attemptsText": [
+        "11.63",
+        "10.75",
+        "11.94",
+        "10.57",
+        "11.03"
+      ],
+      "bestCs": 1057,
+      "avgCs": 1114,
+      "bestText": "10.57",
+      "avgText": "11.14"
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "2",
+      "roundName": "Second round",
+      "formatId": "a",
+      "pos": 21,
+      "attemptsCs": [
+        729,
+        1151,
+        1445,
+        1010,
+        952
+      ],
+      "attemptsText": [
+        "7.29",
+        "11.51",
+        "14.45",
+        "10.10",
+        "9.52"
+      ],
+      "bestCs": 729,
+      "avgCs": 1038,
+      "bestText": "7.29",
+      "avgText": "10.38"
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 43,
+      "attemptsCs": [
+        876,
+        891,
+        1755,
+        973,
+        1827
+      ],
+      "attemptsText": [
+        "8.76",
+        "8.91",
+        "17.55",
+        "9.73",
+        "18.27"
+      ],
+      "bestCs": 876,
+      "avgCs": 1206,
+      "bestText": "8.76",
+      "avgText": "12.06"
+    }
+  ]
+}

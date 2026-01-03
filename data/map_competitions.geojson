@@ -1,0 +1,919 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.365169,
+          49.58651
+        ]
+      },
+      "properties": {
+        "compId": "BacktoBuchy2025",
+        "name": "Back to Buchy 2025",
+        "city": "Buchy",
+        "dateEnd": "2025-11-16",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "333oh",
+          "444",
+          "555",
+          "clock",
+          "minx",
+          "pyram",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.487531,
+          43.490035
+        ]
+      },
+      "properties": {
+        "compId": "BayonneAtoutcubesOpen2024",
+        "name": "Bayonne Atoutcubes Open 2024",
+        "city": "Bayonne",
+        "dateEnd": "2024-04-21",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "333oh",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.487531,
+          43.490035
+        ]
+      },
+      "properties": {
+        "compId": "BayonneAtoutcubesOpen2025",
+        "name": "Bayonne Atoutcubes Open 2025",
+        "city": "Bayonne",
+        "dateEnd": "2025-03-02",
+        "participants": [
+          "Tom Bertin-Supatto"
+        ],
+        "events": [
+          "333",
+          "222",
+          "333oh",
+          "clock"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473762,
+          48.391192
+        ]
+      },
+      "properties": {
+        "compId": "BrestOpen2024",
+        "name": "Brest Open 2024",
+        "city": "Brest",
+        "dateEnd": "2024-10-20",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "333oh",
+          "minx",
+          "pyram",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.365074,
+          49.586371
+        ]
+      },
+      "properties": {
+        "compId": "BuchyOpen2024",
+        "name": "Buchy Open 2024",
+        "city": "Buchy",
+        "dateEnd": "2024-06-09",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "444",
+          "333oh",
+          "minx",
+          "pyram",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.481566,
+          47.282671
+        ]
+      },
+      "properties": {
+        "compId": "CarquefOpen2025",
+        "name": "Carquef'Open 2025",
+        "city": "Carquefou",
+        "dateEnd": "2025-04-06",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "333oh",
+          "minx",
+          "pyram",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.989903,
+          49.245347
+        ]
+      },
+      "properties": {
+        "compId": "ChampagneOpen2024",
+        "name": "Champagne Open 2024",
+        "city": "Reims",
+        "dateEnd": "2024-09-08",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "333oh",
+          "pyram",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.989903,
+          49.245347
+        ]
+      },
+      "properties": {
+        "compId": "ChampagneOpen2025",
+        "name": "Champagne Open 2025",
+        "city": "Reims",
+        "dateEnd": "2025-09-07",
+        "participants": [
+          "Alexandre G\u00e9ly",
+          "Tom Bertin-Supatto",
+          "Luc G\u00e9ly",
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "666",
+          "777",
+          "333oh",
+          "pyram",
+          "clock",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.738562,
+          48.856212
+        ]
+      },
+      "properties": {
+        "compId": "ChanteloupOpen2025",
+        "name": "Chanteloup Open 2025",
+        "city": "Chanteloup en Brie ",
+        "dateEnd": "2025-01-12",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "333oh",
+          "minx",
+          "pyram",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.595884,
+          48.877942
+        ]
+      },
+      "properties": {
+        "compId": "ChellesOpen2025",
+        "name": "Chelles Open 2025",
+        "city": "Chelles",
+        "dateEnd": "2025-02-16",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "333oh",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.658056,
+          48.725892
+        ]
+      },
+      "properties": {
+        "compId": "ChevryMiel2025",
+        "name": "Chevry Miel 2025",
+        "city": "Chevry-Cossigny",
+        "dateEnd": "2025-10-26",
+        "participants": [
+          "Alexandre G\u00e9ly",
+          "Luc G\u00e9ly",
+          "Lev Azaria Doron",
+          "Tom Bertin-Supatto"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "666",
+          "777",
+          "pyram",
+          "clock",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.658056,
+          48.725892
+        ]
+      },
+      "properties": {
+        "compId": "ChevryOpen2024",
+        "name": "Chevry Open 2024",
+        "city": "Chevry-Cossigny",
+        "dateEnd": "2024-10-06",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "pyram",
+          "clock",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.732178,
+          43.817382
+        ]
+      },
+      "properties": {
+        "compId": "CouffouleuxOpen2025",
+        "name": "Couffouleux Open 2025",
+        "city": "Couffouleux",
+        "dateEnd": "2025-08-17",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "333oh",
+          "minx",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.827146,
+          50.511773
+        ]
+      },
+      "properties": {
+        "compId": "DouvrinOpen2024",
+        "name": "Douvrin Open 2024",
+        "city": "Douvrin",
+        "dateEnd": "2024-06-23",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "444",
+          "333oh",
+          "minx",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.275779,
+          48.991337
+        ]
+      },
+      "properties": {
+        "compId": "EaubonneOpen2025",
+        "name": "Eaubonne Open 2025",
+        "city": "Eaubonne",
+        "dateEnd": "2025-03-02",
+        "participants": [
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "333oh",
+          "minx",
+          "pyram",
+          "clock"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.249207,
+          46.646767
+        ]
+      },
+      "properties": {
+        "compId": "FLIPOpen2025",
+        "name": "FLIP Open 2025",
+        "city": "Parthenay",
+        "dateEnd": "2025-07-14",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "444",
+          "333oh",
+          "minx",
+          "pyram",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.831924,
+          50.51026
+        ]
+      },
+      "properties": {
+        "compId": "FrenchChampionship2025",
+        "name": "French Championship 2025",
+        "city": "Douvrin",
+        "dateEnd": "2025-04-21",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "333oh",
+          "minx",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.707373,
+          46.835484
+        ]
+      },
+      "properties": {
+        "compId": "JustJudgeJura2025",
+        "name": "Just Judge Jura 2025",
+        "city": "Poligny",
+        "dateEnd": "2025-01-19",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "333oh",
+          "minx",
+          "pyram",
+          "clock",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.229338,
+          49.143996
+        ]
+      },
+      "properties": {
+        "compId": "LexOpenFrance2025",
+        "name": "LexOpen France 2025",
+        "city": "Lisieux",
+        "dateEnd": "2025-09-28",
+        "participants": [
+          "Luc G\u00e9ly",
+          "Lev Azaria Doron",
+          "Tom Bertin-Supatto",
+          "Alexandre G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "minx",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301682,
+          48.692204
+        ]
+      },
+      "properties": {
+        "compId": "LongjumOpen2024",
+        "name": "Longjum'Open 2024",
+        "city": "Longjumeau",
+        "dateEnd": "2024-01-28",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "666",
+          "333oh",
+          "minx",
+          "pyram",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.301697,
+          48.692056
+        ]
+      },
+      "properties": {
+        "compId": "LongjumOpen2025",
+        "name": "Longjum'Open 2025",
+        "city": "Longjumeau",
+        "dateEnd": "2025-05-04",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "666",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.208642,
+          48.901534
+        ]
+      },
+      "properties": {
+        "compId": "NanterreOpen2025",
+        "name": "Nanterre Open 2025",
+        "city": "Nanterre",
+        "dateEnd": "2025-05-18",
+        "participants": [
+          "Luc G\u00e9ly",
+          "Tom Bertin-Supatto"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "333bf",
+          "clock",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.809179,
+          45.719454
+        ]
+      },
+      "properties": {
+        "compId": "OnlyOullinsOpen2024",
+        "name": "Only Oullins Open 2024",
+        "city": "Oullins",
+        "dateEnd": "2024-02-25",
+        "participants": [
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "333oh",
+          "minx",
+          "clock",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.064039,
+          47.332217
+        ]
+      },
+      "properties": {
+        "compId": "OpenthePotDijon2025",
+        "name": "Open the Pot Dijon 2025",
+        "city": "Dijon",
+        "dateEnd": "2025-05-25",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "555",
+          "333oh",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.258945,
+          48.713668
+        ]
+      },
+      "properties": {
+        "compId": "Palais10Open2025",
+        "name": "Palais'10Open 2025",
+        "city": "Palaiseau",
+        "dateEnd": "2025-11-09",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly",
+          "Alexandre G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.258983,
+          48.713717
+        ]
+      },
+      "properties": {
+        "compId": "PalaisOpen2024",
+        "name": "Palais'Open 2024",
+        "city": "Palaiseau",
+        "dateEnd": "2024-09-22",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "666",
+          "minx",
+          "pyram",
+          "clock",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.210515,
+          48.713116
+        ]
+      },
+      "properties": {
+        "compId": "PolytechniqueOpen2024",
+        "name": "Polytechnique Open 2024",
+        "city": "Palaiseau",
+        "dateEnd": "2024-03-03",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "222",
+          "444",
+          "333oh",
+          "pyram",
+          "skewb",
+          "sq1"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.622469,
+          48.612228
+        ]
+      },
+      "properties": {
+        "compId": "ReauOpen2024",
+        "name": "R\u00e9au Open 2024",
+        "city": "R\u00e9au",
+        "dateEnd": "2024-11-24",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "333oh",
+          "pyram"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.237214,
+          48.827645
+        ]
+      },
+      "properties": {
+        "compId": "RubiksCLuBBOpen2025",
+        "name": "Rubik's CLuBB de Boulogne-Billancourt 2025",
+        "city": "Boulogne-Billancourt",
+        "dateEnd": "2025-07-19",
+        "participants": [
+          "Lev Azaria Doron"
+        ],
+        "events": [
+          "333",
+          "222",
+          "pyram",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.506503,
+          48.637373
+        ]
+      },
+      "properties": {
+        "compId": "TigeryOpen2024",
+        "name": "Tigery Open 2024",
+        "city": "Tigery",
+        "dateEnd": "2024-05-26",
+        "participants": [
+          "Tom Bertin-Supatto",
+          "Luc G\u00e9ly"
+        ],
+        "events": [
+          "333",
+          "444",
+          "333oh",
+          "minx",
+          "pyram",
+          "skewb"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.506503,
+          48.637373
+        ]
+      },
+      "properties": {
+        "compId": "TigeryOpen2025",
+        "name": "Tigery Open 2025",
+        "city": "Tigery",
+        "dateEnd": "2025-03-23",
+        "participants": [
+          "Lev Azaria Doron",
+          "Luc G\u00e9ly",
+          "Tom Bertin-Supatto"
+        ],
+        "events": [
+          "333",
+          "444",
+          "555",
+          "666",
+          "777",
+          "333oh",
+          "minx",
+          "pyram",
+          "skewb"
+        ]
+      }
+    }
+  ]
+}

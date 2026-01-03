@@ -1,0 +1,141 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "clock",
+  "rounds": [
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "c",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 20,
+      "attemptsCs": [
+        1128,
+        -1,
+        1160,
+        1176,
+        1221
+      ],
+      "attemptsText": [
+        "11.28",
+        "DNF",
+        "11.60",
+        "11.76",
+        "12.21"
+      ],
+      "bestCs": 1128,
+      "avgCs": 1186,
+      "bestText": "11.28",
+      "avgText": "11.86"
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 12,
+      "attemptsCs": [
+        1012,
+        1119,
+        1077,
+        1139,
+        1549
+      ],
+      "attemptsText": [
+        "10.12",
+        "11.19",
+        "10.77",
+        "11.39",
+        "15.49"
+      ],
+      "bestCs": 1012,
+      "avgCs": 1112,
+      "bestText": "10.12",
+      "avgText": "11.12"
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "2",
+      "roundName": "Second round",
+      "formatId": "a",
+      "pos": 16,
+      "attemptsCs": [
+        1301,
+        1279,
+        1011,
+        1199,
+        1212
+      ],
+      "attemptsText": [
+        "13.01",
+        "12.79",
+        "10.11",
+        "11.99",
+        "12.12"
+      ],
+      "bestCs": 1011,
+      "avgCs": 1230,
+      "bestText": "10.11",
+      "avgText": "12.30"
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 16,
+      "attemptsCs": [
+        1125,
+        917,
+        1010,
+        1140,
+        869
+      ],
+      "attemptsText": [
+        "11.25",
+        "9.17",
+        "10.10",
+        "11.40",
+        "8.69"
+      ],
+      "bestCs": 869,
+      "avgCs": 1017,
+      "bestText": "8.69",
+      "avgText": "10.17"
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 32,
+      "attemptsCs": [
+        1049,
+        1415,
+        -1,
+        1075,
+        1312
+      ],
+      "attemptsText": [
+        "10.49",
+        "14.15",
+        "DNF",
+        "10.75",
+        "13.12"
+      ],
+      "bestCs": 1049,
+      "avgCs": 1267,
+      "bestText": "10.49",
+      "avgText": "12.67"
+    }
+  ]
+}

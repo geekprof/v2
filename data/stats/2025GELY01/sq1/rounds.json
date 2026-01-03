@@ -1,0 +1,27 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "sq1",
+  "rounds": [
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 45,
+      "attemptsCs": [
+        16078,
+        9942
+      ],
+      "attemptsText": [
+        "2:40.78",
+        "1:39.42"
+      ],
+      "bestCs": 9942,
+      "avgCs": 0,
+      "bestText": "1:39.42",
+      "avgText": ""
+    }
+  ]
+}

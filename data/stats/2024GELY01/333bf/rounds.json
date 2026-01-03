@@ -1,0 +1,52 @@
+{
+  "personId": "2024GELY01",
+  "eventId": "333bf",
+  "rounds": [
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "date": "2025-05-18",
+      "roundTypeId": "1",
+      "roundName": "First round",
+      "formatId": "3",
+      "pos": 25,
+      "attemptsCs": [
+        40562,
+        -1,
+        -2
+      ],
+      "attemptsText": [
+        "6:45.62",
+        "DNF",
+        "DNS"
+      ],
+      "bestCs": 40562,
+      "avgCs": -1,
+      "bestText": "6:45.62",
+      "avgText": "DNF"
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "compName": "Nanterre Open 2025",
+      "date": "2025-05-18",
+      "roundTypeId": "2",
+      "roundName": "Second round",
+      "formatId": "3",
+      "pos": 20,
+      "attemptsCs": [
+        -1,
+        -2,
+        -2
+      ],
+      "attemptsText": [
+        "DNF",
+        "DNS",
+        "DNS"
+      ],
+      "bestCs": -1,
+      "avgCs": -1,
+      "bestText": "DNF",
+      "avgText": "DNF"
+    }
+  ]
+}

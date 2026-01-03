@@ -1,0 +1,250 @@
+{
+  "BacktoBuchy2025": {
+    "name": "Back to Buchy 2025",
+    "city": "Buchy",
+    "countryId": "France",
+    "dateEnd": "2025-11-16",
+    "lat": 49.58651,
+    "lon": 1.365169
+  },
+  "BayonneAtoutcubesOpen2024": {
+    "name": "Bayonne Atoutcubes Open 2024",
+    "city": "Bayonne",
+    "countryId": "France",
+    "dateEnd": "2024-04-21",
+    "lat": 43.490035,
+    "lon": -1.487531
+  },
+  "BayonneAtoutcubesOpen2025": {
+    "name": "Bayonne Atoutcubes Open 2025",
+    "city": "Bayonne",
+    "countryId": "France",
+    "dateEnd": "2025-03-02",
+    "lat": 43.490035,
+    "lon": -1.487531
+  },
+  "BrestOpen2024": {
+    "name": "Brest Open 2024",
+    "city": "Brest",
+    "countryId": "France",
+    "dateEnd": "2024-10-20",
+    "lat": 48.391192,
+    "lon": -4.473762
+  },
+  "BuchyOpen2024": {
+    "name": "Buchy Open 2024",
+    "city": "Buchy",
+    "countryId": "France",
+    "dateEnd": "2024-06-09",
+    "lat": 49.586371,
+    "lon": 1.365074
+  },
+  "CarquefOpen2025": {
+    "name": "Carquef'Open 2025",
+    "city": "Carquefou",
+    "countryId": "France",
+    "dateEnd": "2025-04-06",
+    "lat": 47.282671,
+    "lon": -1.481566
+  },
+  "ChampagneOpen2024": {
+    "name": "Champagne Open 2024",
+    "city": "Reims",
+    "countryId": "France",
+    "dateEnd": "2024-09-08",
+    "lat": 49.245347,
+    "lon": 3.989903
+  },
+  "ChampagneOpen2025": {
+    "name": "Champagne Open 2025",
+    "city": "Reims",
+    "countryId": "France",
+    "dateEnd": "2025-09-07",
+    "lat": 49.245347,
+    "lon": 3.989903
+  },
+  "ChanteloupOpen2025": {
+    "name": "Chanteloup Open 2025",
+    "city": "Chanteloup en Brie ",
+    "countryId": "France",
+    "dateEnd": "2025-01-12",
+    "lat": 48.856212,
+    "lon": 2.738562
+  },
+  "ChellesOpen2025": {
+    "name": "Chelles Open 2025",
+    "city": "Chelles",
+    "countryId": "France",
+    "dateEnd": "2025-02-16",
+    "lat": 48.877942,
+    "lon": 2.595884
+  },
+  "ChevryMiel2025": {
+    "name": "Chevry Miel 2025",
+    "city": "Chevry-Cossigny",
+    "countryId": "France",
+    "dateEnd": "2025-10-26",
+    "lat": 48.725892,
+    "lon": 2.658056
+  },
+  "ChevryOpen2024": {
+    "name": "Chevry Open 2024",
+    "city": "Chevry-Cossigny",
+    "countryId": "France",
+    "dateEnd": "2024-10-06",
+    "lat": 48.725892,
+    "lon": 2.658056
+  },
+  "CouffouleuxOpen2025": {
+    "name": "Couffouleux Open 2025",
+    "city": "Couffouleux",
+    "countryId": "France",
+    "dateEnd": "2025-08-17",
+    "lat": 43.817382,
+    "lon": 1.732178
+  },
+  "DouvrinOpen2024": {
+    "name": "Douvrin Open 2024",
+    "city": "Douvrin",
+    "countryId": "France",
+    "dateEnd": "2024-06-23",
+    "lat": 50.511773,
+    "lon": 2.827146
+  },
+  "EaubonneOpen2025": {
+    "name": "Eaubonne Open 2025",
+    "city": "Eaubonne",
+    "countryId": "France",
+    "dateEnd": "2025-03-02",
+    "lat": 48.991337,
+    "lon": 2.275779
+  },
+  "FLIPOpen2025": {
+    "name": "FLIP Open 2025",
+    "city": "Parthenay",
+    "countryId": "France",
+    "dateEnd": "2025-07-14",
+    "lat": 46.646767,
+    "lon": -0.249207
+  },
+  "FrenchChampionship2025": {
+    "name": "French Championship 2025",
+    "city": "Douvrin",
+    "countryId": "France",
+    "dateEnd": "2025-04-21",
+    "lat": 50.51026,
+    "lon": 2.831924
+  },
+  "JustJudgeJura2025": {
+    "name": "Just Judge Jura 2025",
+    "city": "Poligny",
+    "countryId": "France",
+    "dateEnd": "2025-01-19",
+    "lat": 46.835484,
+    "lon": 5.707373
+  },
+  "LexOpenFrance2025": {
+    "name": "LexOpen France 2025",
+    "city": "Lisieux",
+    "countryId": "France",
+    "dateEnd": "2025-09-28",
+    "lat": 49.143996,
+    "lon": 0.229338
+  },
+  "LongjumOpen2024": {
+    "name": "Longjum'Open 2024",
+    "city": "Longjumeau",
+    "countryId": "France",
+    "dateEnd": "2024-01-28",
+    "lat": 48.692204,
+    "lon": 2.301682
+  },
+  "LongjumOpen2025": {
+    "name": "Longjum'Open 2025",
+    "city": "Longjumeau",
+    "countryId": "France",
+    "dateEnd": "2025-05-04",
+    "lat": 48.692056,
+    "lon": 2.301697
+  },
+  "NanterreOpen2025": {
+    "name": "Nanterre Open 2025",
+    "city": "Nanterre",
+    "countryId": "France",
+    "dateEnd": "2025-05-18",
+    "lat": 48.901534,
+    "lon": 2.208642
+  },
+  "OnlyOullinsOpen2024": {
+    "name": "Only Oullins Open 2024",
+    "city": "Oullins",
+    "countryId": "France",
+    "dateEnd": "2024-02-25",
+    "lat": 45.719454,
+    "lon": 4.809179
+  },
+  "OpenthePotDijon2025": {
+    "name": "Open the Pot Dijon 2025",
+    "city": "Dijon",
+    "countryId": "France",
+    "dateEnd": "2025-05-25",
+    "lat": 47.332217,
+    "lon": 5.064039
+  },
+  "Palais10Open2025": {
+    "name": "Palais'10Open 2025",
+    "city": "Palaiseau",
+    "countryId": "France",
+    "dateEnd": "2025-11-09",
+    "lat": 48.713668,
+    "lon": 2.258945
+  },
+  "PalaisOpen2024": {
+    "name": "Palais'Open 2024",
+    "city": "Palaiseau",
+    "countryId": "France",
+    "dateEnd": "2024-09-22",
+    "lat": 48.713717,
+    "lon": 2.258983
+  },
+  "PolytechniqueOpen2024": {
+    "name": "Polytechnique Open 2024",
+    "city": "Palaiseau",
+    "countryId": "France",
+    "dateEnd": "2024-03-03",
+    "lat": 48.713116,
+    "lon": 2.210515
+  },
+  "ReauOpen2024": {
+    "name": "R\u00e9au Open 2024",
+    "city": "R\u00e9au",
+    "countryId": "France",
+    "dateEnd": "2024-11-24",
+    "lat": 48.612228,
+    "lon": 2.622469
+  },
+  "RubiksCLuBBOpen2025": {
+    "name": "Rubik's CLuBB de Boulogne-Billancourt 2025",
+    "city": "Boulogne-Billancourt",
+    "countryId": "France",
+    "dateEnd": "2025-07-19",
+    "lat": 48.827645,
+    "lon": 2.237214
+  },
+  "TigeryOpen2024": {
+    "name": "Tigery Open 2024",
+    "city": "Tigery",
+    "countryId": "France",
+    "dateEnd": "2024-05-26",
+    "lat": 48.637373,
+    "lon": 2.506503
+  },
+  "TigeryOpen2025": {
+    "name": "Tigery Open 2025",
+    "city": "Tigery",
+    "countryId": "France",
+    "dateEnd": "2025-03-23",
+    "lat": 48.637373,
+    "lon": 2.506503
+  }
+}

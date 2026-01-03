@@ -1,0 +1,297 @@
+{
+  "personId": "2024DORO01",
+  "eventId": "sq1",
+  "points": [
+    {
+      "compId": "BuchyOpen2024",
+      "compName": "Buchy Open 2024",
+      "dateEnd": "2024-06-09",
+      "bestSingleCs": 3036,
+      "bestAvgCs": 4844,
+      "bestSingleText": "30.36",
+      "bestAvgText": "48.44",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 11,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "30.36",
+          "avg": "48.44",
+          "pos": 11
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "DouvrinOpen2024",
+      "compName": "Douvrin Open 2024",
+      "dateEnd": "2024-06-23",
+      "bestSingleCs": 5259,
+      "bestAvgCs": null,
+      "bestSingleText": "52.59",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 33,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "52.59",
+          "avg": "-",
+          "pos": 33
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "dateEnd": "2024-09-22",
+      "bestSingleCs": 4066,
+      "bestAvgCs": 4725,
+      "bestSingleText": "40.66",
+      "bestAvgText": "47.25",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "finalPos": 31,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "40.66",
+          "avg": "47.25",
+          "pos": 31
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "BrestOpen2024",
+      "compName": "Brest Open 2024",
+      "dateEnd": "2024-10-20",
+      "bestSingleCs": 3617,
+      "bestAvgCs": 4253,
+      "bestSingleText": "36.17",
+      "bestAvgText": "42.53",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "finalPos": 6,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "36.17",
+          "avg": "42.53",
+          "pos": 6
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChellesOpen2025",
+      "compName": "Chelles Open 2025",
+      "dateEnd": "2025-02-16",
+      "bestSingleCs": 2510,
+      "bestAvgCs": 3105,
+      "bestSingleText": "25.10",
+      "bestAvgText": "31.05",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 14,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "25.10",
+          "avg": "31.05",
+          "pos": 14
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "CarquefOpen2025",
+      "compName": "Carquef'Open 2025",
+      "dateEnd": "2025-04-06",
+      "bestSingleCs": 2067,
+      "bestAvgCs": 3301,
+      "bestSingleText": "20.67",
+      "bestAvgText": "33.01",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "finalPos": 14,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "20.67",
+          "avg": "33.01",
+          "pos": 14
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "dateEnd": "2025-05-04",
+      "bestSingleCs": 2467,
+      "bestAvgCs": 3452,
+      "bestSingleText": "24.67",
+      "bestAvgText": "34.52",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 19,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "32.69",
+          "avg": "57.37",
+          "pos": 28
+        },
+        {
+          "name": "Second round",
+          "single": "24.67",
+          "avg": "34.52",
+          "pos": 19
+        }
+      ],
+      "roundsCount": 2
+    },
+    {
+      "compId": "OpenthePotDijon2025",
+      "compName": "Open the Pot Dijon 2025",
+      "dateEnd": "2025-05-25",
+      "bestSingleCs": 2438,
+      "bestAvgCs": 3526,
+      "bestSingleText": "24.38",
+      "bestAvgText": "35.26",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 16,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "24.38",
+          "avg": "35.26",
+          "pos": 16
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "FLIPOpen2025",
+      "compName": "FLIP Open 2025",
+      "dateEnd": "2025-07-14",
+      "bestSingleCs": 2691,
+      "bestAvgCs": 3492,
+      "bestSingleText": "26.91",
+      "bestAvgText": "34.92",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 14,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "26.91",
+          "avg": "34.92",
+          "pos": 14
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "CouffouleuxOpen2025",
+      "compName": "Couffouleux Open 2025",
+      "dateEnd": "2025-08-17",
+      "bestSingleCs": 3310,
+      "bestAvgCs": 4066,
+      "bestSingleText": "33.10",
+      "bestAvgText": "40.66",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 19,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "33.10",
+          "avg": "40.66",
+          "pos": 19
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "dateEnd": "2025-09-28",
+      "bestSingleCs": 2638,
+      "bestAvgCs": 3038,
+      "bestSingleText": "26.38",
+      "bestAvgText": "30.38",
+      "isPRSingle": false,
+      "isPRAvg": true,
+      "finalPos": 14,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "28.54",
+          "avg": "30.38",
+          "pos": 10
+        },
+        {
+          "name": "Second round",
+          "single": "26.38",
+          "avg": "31.69",
+          "pos": 14
+        }
+      ],
+      "roundsCount": 2
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "dateEnd": "2025-11-09",
+      "bestSingleCs": 1572,
+      "bestAvgCs": 2059,
+      "bestSingleText": "15.72",
+      "bestAvgText": "20.59",
+      "isPRSingle": true,
+      "isPRAvg": true,
+      "finalPos": 13,
+      "rounds": [
+        {
+          "name": "First round",
+          "single": "15.72",
+          "avg": "25.67",
+          "pos": 19
+        },
+        {
+          "name": "Second round",
+          "single": "18.83",
+          "avg": "20.59",
+          "pos": 13
+        }
+      ],
+      "roundsCount": 2
+    },
+    {
+      "compId": "BacktoBuchy2025",
+      "compName": "Back to Buchy 2025",
+      "dateEnd": "2025-11-16",
+      "bestSingleCs": 1575,
+      "bestAvgCs": 2067,
+      "bestSingleText": "15.75",
+      "bestAvgText": "20.67",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 8,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "15.75",
+          "avg": "20.67",
+          "pos": 8
+        }
+      ],
+      "roundsCount": 1
+    }
+  ]
+}

@@ -1,0 +1,2936 @@
+{
+  "personId": "2024BERT02",
+  "history": [
+    {
+      "compId": "LongjumOpen2024",
+      "name": "Longjum'Open 2024",
+      "date": "2024-01-27",
+      "endDate": "2024-01-28",
+      "city": "Longjumeau",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "11.30",
+          "bestAvg": "13.69",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "13.10",
+                "13.81",
+                "14.76",
+                "17.67",
+                "22.43"
+              ],
+              "single": "13.10",
+              "avg": "15.41",
+              "pos": 69
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "DNF",
+                "14.71",
+                "13.81",
+                "12.55",
+                "11.83"
+              ],
+              "single": "11.83",
+              "avg": "13.69",
+              "pos": 57
+            },
+            {
+              "name": "Semi Final",
+              "attempts": [
+                "11.30",
+                "17.29",
+                "13.28",
+                "12.51",
+                "18.53"
+              ],
+              "single": "11.30",
+              "avg": "14.36",
+              "pos": 64
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "28.86",
+          "bestAvg": "34.95",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "35.16",
+                "28.86",
+                "39.25",
+                "30.52",
+                "39.16"
+              ],
+              "single": "28.86",
+              "avg": "34.95",
+              "pos": 59
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "55.62",
+          "bestAvg": "57.52",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "55.71",
+                "55.62",
+                "58.46",
+                "59.56",
+                "58.38"
+              ],
+              "single": "55.62",
+              "avg": "57.52",
+              "pos": 51
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "2:06.54",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "2:18.33",
+                "2:08.68"
+              ],
+              "single": "2:08.68",
+              "avg": "-",
+              "pos": 52
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "2:30.30",
+                "2:06.54"
+              ],
+              "single": "2:06.54",
+              "avg": "-",
+              "pos": 50
+            }
+          ]
+        },
+        {
+          "eventId": "666",
+          "bestSingle": "4:17.40",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4:17.40"
+              ],
+              "single": "4:17.40",
+              "avg": "-",
+              "pos": 39
+            }
+          ]
+        },
+        {
+          "eventId": "minx",
+          "bestSingle": "2:05.29",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "2:20.39",
+                "2:05.29"
+              ],
+              "single": "2:05.29",
+              "avg": "-",
+              "pos": 37
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "2.71",
+          "bestAvg": "6.52",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4.48",
+                "3.62",
+                "7.19",
+                "7.90",
+                "59.63"
+              ],
+              "single": "3.62",
+              "avg": "6.52",
+              "pos": 13
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "2.71",
+                "6.30",
+                "9.32",
+                "8.25",
+                "6.59"
+              ],
+              "single": "2.71",
+              "avg": "7.05",
+              "pos": 10
+            }
+          ]
+        },
+        {
+          "eventId": "sq1",
+          "bestSingle": "DNF",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "DNF"
+              ],
+              "single": "DNF",
+              "avg": "-",
+              "pos": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "PolytechniqueOpen2024",
+      "name": "Polytechnique Open 2024",
+      "date": "2024-03-02",
+      "endDate": "2024-03-03",
+      "city": "Palaiseau",
+      "events": [
+        {
+          "eventId": "222",
+          "bestSingle": "3.13",
+          "bestAvg": "3.90",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "3.84",
+                "3.91",
+                "6.28",
+                "3.80",
+                "3.96"
+              ],
+              "single": "3.80",
+              "avg": "3.90",
+              "pos": 17
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "5.27",
+                "4.72",
+                "4.97",
+                "4.12",
+                "3.13"
+              ],
+              "single": "3.13",
+              "avg": "4.60",
+              "pos": 31
+            }
+          ]
+        },
+        {
+          "eventId": "333",
+          "bestSingle": "11.85",
+          "bestAvg": "13.65",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "13.48",
+                "14.06",
+                "11.85",
+                "DNF",
+                "13.41"
+              ],
+              "single": "11.85",
+              "avg": "13.65",
+              "pos": 50
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "13.58",
+                "15.48",
+                "13.30",
+                "14.44",
+                "20.91"
+              ],
+              "single": "13.30",
+              "avg": "14.50",
+              "pos": 58
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "30.10",
+          "bestAvg": "31.68",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "31.18",
+                "31.23",
+                "32.62",
+                "30.10",
+                "38.87"
+              ],
+              "single": "30.10",
+              "avg": "31.68",
+              "pos": 48
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "47.02",
+          "bestAvg": "56.56",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "58.59",
+                "47.02",
+                "1:00.02",
+                "56.03",
+                "55.07"
+              ],
+              "single": "47.02",
+              "avg": "56.56",
+              "pos": 39
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "5.09",
+          "bestAvg": "7.47",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "11.05",
+                "5.09",
+                "6.82",
+                "8.53",
+                "7.06"
+              ],
+              "single": "5.09",
+              "avg": "7.47",
+              "pos": 20
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "8.81",
+          "bestAvg": "12.30",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "16.03",
+                "8.81",
+                "14.94",
+                "13.09",
+                "8.88"
+              ],
+              "single": "8.81",
+              "avg": "12.30",
+              "pos": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "TigeryOpen2024",
+      "name": "Tigery Open 2024",
+      "date": "2024-05-25",
+      "endDate": "2024-05-26",
+      "city": "Tigery",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "11.60",
+          "bestAvg": "13.21",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "14.36",
+                "14.72",
+                "13.15",
+                "12.11",
+                "11.99"
+              ],
+              "single": "11.99",
+              "avg": "13.21",
+              "pos": 44
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "13.40",
+                "11.60",
+                "13.31",
+                "15.36",
+                "DNF"
+              ],
+              "single": "11.60",
+              "avg": "14.02",
+              "pos": 48
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "1:00.18",
+          "bestAvg": "1:01.87",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:00.91",
+                "DNF",
+                "1:02.83",
+                "1:00.18",
+                "1:01.88"
+              ],
+              "single": "1:00.18",
+              "avg": "1:01.87",
+              "pos": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "PalaisOpen2024",
+      "name": "Palais'Open 2024",
+      "date": "2024-09-21",
+      "endDate": "2024-09-22",
+      "city": "Palaiseau",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "9.08",
+          "bestAvg": "11.94",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "9.08",
+                "14.06",
+                "13.83",
+                "DNF",
+                "12.78"
+              ],
+              "single": "9.08",
+              "avg": "13.56",
+              "pos": 47
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "11.32",
+                "11.47",
+                "11.92",
+                "13.01",
+                "12.43"
+              ],
+              "single": "11.32",
+              "avg": "11.94",
+              "pos": 37
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "52.52",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "52.52",
+                "DNF",
+                "56.10",
+                "DNF",
+                "58.14"
+              ],
+              "single": "52.52",
+              "avg": "-",
+              "pos": 72
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:47.83",
+          "bestAvg": "2:10.07",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:54.13",
+                "1:47.83",
+                "2:05.80",
+                "DNF",
+                "2:30.29"
+              ],
+              "single": "1:47.83",
+              "avg": "2:10.07",
+              "pos": 50
+            }
+          ]
+        },
+        {
+          "eventId": "666",
+          "bestSingle": "4:16.14",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4:16.14"
+              ],
+              "single": "4:16.14",
+              "avg": "-",
+              "pos": 30
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "14.62",
+          "bestAvg": "17.50",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "20.56",
+                "14.62",
+                "14.90",
+                "17.04"
+              ],
+              "single": "14.62",
+              "avg": "17.50",
+              "pos": 40
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "DNF",
+                "DNF"
+              ],
+              "single": "DNF",
+              "avg": "-",
+              "pos": 45
+            }
+          ]
+        },
+        {
+          "eventId": "minx",
+          "bestSingle": "2:20.08",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "2:37.94",
+                "2:20.08"
+              ],
+              "single": "2:20.08",
+              "avg": "-",
+              "pos": 38
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "3.95",
+          "bestAvg": "6.63",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "7.08",
+                "6.11",
+                "7.71",
+                "6.71",
+                "3.95"
+              ],
+              "single": "3.95",
+              "avg": "6.63",
+              "pos": 19
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "9.29",
+          "bestAvg": "13.11",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "12.77",
+                "DNF",
+                "9.29",
+                "13.75",
+                "12.80"
+              ],
+              "single": "9.29",
+              "avg": "13.11",
+              "pos": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "ChevryOpen2024",
+      "name": "Chevry Open 2024",
+      "date": "2024-10-05",
+      "endDate": "2024-10-06",
+      "city": "Chevry-Cossigny",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "9.81",
+          "bestAvg": "12.44",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "11.54",
+                "DNF",
+                "10.73",
+                "11.07",
+                "14.70"
+              ],
+              "single": "10.73",
+              "avg": "12.44",
+              "pos": 21
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "13.89",
+                "9.81",
+                "9.95",
+                "13.82",
+                "13.69"
+              ],
+              "single": "9.81",
+              "avg": "12.49",
+              "pos": 25
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "46.52",
+          "bestAvg": "57.26",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "59.19",
+                "58.84",
+                "53.75",
+                "1:00.10",
+                "46.52"
+              ],
+              "single": "46.52",
+              "avg": "57.26",
+              "pos": 26
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:39.05",
+          "bestAvg": "1:55.39",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "2:13.49",
+                "1:39.05",
+                "1:50.73",
+                "1:57.44",
+                "1:58.01"
+              ],
+              "single": "1:39.05",
+              "avg": "1:55.39",
+              "pos": 26
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "12.68",
+          "bestAvg": "20.75",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "14.00",
+                "32.97",
+                "15.27",
+                "12.68",
+                "DNF"
+              ],
+              "single": "12.68",
+              "avg": "20.75",
+              "pos": 34
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "4.47",
+          "bestAvg": "7.11",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4.86",
+                "8.31",
+                "5.75",
+                "DNF",
+                "7.76"
+              ],
+              "single": "4.86",
+              "avg": "7.27",
+              "pos": 14
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "DNF",
+                "6.57",
+                "6.74",
+                "4.47",
+                "8.01"
+              ],
+              "single": "4.47",
+              "avg": "7.11",
+              "pos": 12
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "7.14",
+          "bestAvg": "11.04",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "10.06",
+                "7.14",
+                "12.65",
+                "10.48",
+                "12.59"
+              ],
+              "single": "7.14",
+              "avg": "11.04",
+              "pos": 27
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "10.54",
+                "23.60",
+                "14.22",
+                "11.23",
+                "14.85"
+              ],
+              "single": "10.54",
+              "avg": "13.43",
+              "pos": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "ReauOpen2024",
+      "name": "R\u00e9au Open 2024",
+      "date": "2024-11-23",
+      "endDate": "2024-11-24",
+      "city": "R\u00e9au",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "9.85",
+          "bestAvg": "11.38",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "10.22",
+                "12.02",
+                "12.93",
+                "12.94",
+                "10.54"
+              ],
+              "single": "10.22",
+              "avg": "11.83",
+              "pos": 19
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "9.85",
+                "10.97",
+                "11.45",
+                "11.72",
+                "12.28"
+              ],
+              "single": "9.85",
+              "avg": "11.38",
+              "pos": 17
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "20.20",
+          "bestAvg": "22.74",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "28.29",
+                "48.56",
+                "21.69",
+                "29.44",
+                "22.41"
+              ],
+              "single": "21.69",
+              "avg": "26.71",
+              "pos": 19
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "24.76",
+                "21.79",
+                "20.20",
+                "21.66",
+                "27.67"
+              ],
+              "single": "20.20",
+              "avg": "22.74",
+              "pos": 13
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "37.82",
+                "25.30",
+                "30.35",
+                "24.82",
+                "39.14"
+              ],
+              "single": "24.82",
+              "avg": "31.16",
+              "pos": 13
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "47.39",
+          "bestAvg": "51.15",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "47.39",
+                "49.96",
+                "1:03.33",
+                "50.64",
+                "52.86"
+              ],
+              "single": "47.39",
+              "avg": "51.15",
+              "pos": 22
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:45.08",
+          "bestAvg": "2:06.43",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "2:15.28",
+                "2:04.75",
+                "2:05.10",
+                "2:09.44",
+                "1:45.08"
+              ],
+              "single": "1:45.08",
+              "avg": "2:06.43",
+              "pos": 23
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "2.79",
+          "bestAvg": "5.51",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4.65",
+                "7.01",
+                "2.79",
+                "8.40",
+                "5.64"
+              ],
+              "single": "2.79",
+              "avg": "5.77",
+              "pos": 8
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "5.89",
+                "5.40",
+                "5.23",
+                "5.93",
+                "5.17"
+              ],
+              "single": "5.17",
+              "avg": "5.51",
+              "pos": 5
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "7.95",
+                "6.38",
+                "9.53",
+                "4.76",
+                "7.18"
+              ],
+              "single": "4.76",
+              "avg": "7.17",
+              "pos": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "name": "Chanteloup Open 2025",
+      "date": "2025-01-11",
+      "endDate": "2025-01-12",
+      "city": "Chanteloup en Brie ",
+      "events": [
+        {
+          "eventId": "222",
+          "bestSingle": "1.60",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "3.12",
+                "DNF",
+                "6.02",
+                "1.60",
+                "DNF"
+              ],
+              "single": "1.60",
+              "avg": "-",
+              "pos": 57
+            }
+          ]
+        },
+        {
+          "eventId": "333",
+          "bestSingle": "9.41",
+          "bestAvg": "10.56",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "9.72",
+                "11.82",
+                "9.51",
+                "10.15"
+              ],
+              "single": "9.51",
+              "avg": "10.56",
+              "pos": 10
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "10.25",
+                "DNF",
+                "11.79",
+                "10.61",
+                "9.41"
+              ],
+              "single": "9.41",
+              "avg": "10.88",
+              "pos": 12
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "12.32",
+                "12.22",
+                "10.28",
+                "12.29",
+                "13.39"
+              ],
+              "single": "10.28",
+              "avg": "12.28",
+              "pos": 12
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "18.90",
+          "bestAvg": "20.92",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "19.19",
+                "18.90",
+                "24.63",
+                "18.94",
+                "DNF"
+              ],
+              "single": "18.90",
+              "avg": "20.92",
+              "pos": 8
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "24.12",
+                "22.74",
+                "21.32",
+                "24.25",
+                "24.63"
+              ],
+              "single": "21.32",
+              "avg": "23.70",
+              "pos": 9
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "41.84",
+          "bestAvg": "49.22",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "41.84",
+                "43.72",
+                "57.06",
+                "46.88"
+              ],
+              "single": "41.84",
+              "avg": "49.22",
+              "pos": 16
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:28.17",
+          "bestAvg": "1:38.17",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "1:36.59",
+                "1:28.17",
+                "1:36.81",
+                "1:41.11",
+                "1:44.30"
+              ],
+              "single": "1:28.17",
+              "avg": "1:38.17",
+              "pos": 15
+            }
+          ]
+        },
+        {
+          "eventId": "minx",
+          "bestSingle": "1:52.76",
+          "bestAvg": "2:12.36",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "2:30.12",
+                "1:52.76",
+                "DNF",
+                "2:10.27",
+                "1:56.70"
+              ],
+              "single": "1:52.76",
+              "avg": "2:12.36",
+              "pos": 12
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "5.82",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "7.50",
+                "DNF",
+                "5.82",
+                "6.21"
+              ],
+              "single": "5.82",
+              "avg": "-",
+              "pos": 38
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "8.36",
+          "bestAvg": "13.18",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "12.64",
+                "15.14",
+                "17.79",
+                "8.36",
+                "11.76"
+              ],
+              "single": "8.36",
+              "avg": "13.18",
+              "pos": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "BayonneAtoutcubesOpen2025",
+      "name": "Bayonne Atoutcubes Open 2025",
+      "date": "2025-03-01",
+      "endDate": "2025-03-02",
+      "city": "Bayonne",
+      "events": [
+        {
+          "eventId": "222",
+          "bestSingle": "3.46",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "3.75",
+                "DNF",
+                "7.46",
+                "3.46"
+              ],
+              "single": "3.46",
+              "avg": "-",
+              "pos": 83
+            }
+          ]
+        },
+        {
+          "eventId": "333",
+          "bestSingle": "8.77",
+          "bestAvg": "11.44",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "12.32",
+                "11.62",
+                "10.23",
+                "12.58",
+                "15.57"
+              ],
+              "single": "10.23",
+              "avg": "12.17",
+              "pos": 15
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "DNF",
+                "11.36",
+                "9.86",
+                "13.13",
+                "12.36"
+              ],
+              "single": "9.86",
+              "avg": "12.28",
+              "pos": 18
+            },
+            {
+              "name": "Semi Final",
+              "attempts": [
+                "8.77",
+                "12.77",
+                "13.32",
+                "11.39",
+                "10.16"
+              ],
+              "single": "8.77",
+              "avg": "11.44",
+              "pos": 11
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "20.33",
+          "bestAvg": "23.02",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "30.88",
+                "25.49",
+                "21.39",
+                "20.33",
+                "22.18"
+              ],
+              "single": "20.33",
+              "avg": "23.02",
+              "pos": 13
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "12.75",
+          "bestAvg": "13.47",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "13.25",
+                "13.47",
+                "13.69",
+                "12.75",
+                "21.94"
+              ],
+              "single": "12.75",
+              "avg": "13.47",
+              "pos": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "name": "Tigery Open 2025",
+      "date": "2025-03-22",
+      "endDate": "2025-03-23",
+      "city": "Tigery",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "10.28",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "12.08",
+                "DNF",
+                "10.28",
+                "DNF"
+              ],
+              "single": "10.28",
+              "avg": "-",
+              "pos": 90
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "21.45",
+          "bestAvg": "27.29",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "23.67",
+                "21.45",
+                "31.26",
+                "26.93",
+                "DNF"
+              ],
+              "single": "21.45",
+              "avg": "27.29",
+              "pos": 26
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "43.92",
+          "bestAvg": "48.34",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "46.13",
+                "43.92",
+                "51.74",
+                "50.31",
+                "48.59"
+              ],
+              "single": "43.92",
+              "avg": "48.34",
+              "pos": 25
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:31.30",
+          "bestAvg": "1:45.22",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:31.30",
+                "1:59.14",
+                "1:42.92",
+                "1:42.08",
+                "1:50.65"
+              ],
+              "single": "1:31.30",
+              "avg": "1:45.22",
+              "pos": 32
+            }
+          ]
+        },
+        {
+          "eventId": "666",
+          "bestSingle": "DNF",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF"
+              ],
+              "single": "DNF",
+              "avg": "-",
+              "pos": 24
+            }
+          ]
+        },
+        {
+          "eventId": "777",
+          "bestSingle": "6:16.91",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "6:16.91"
+              ],
+              "single": "6:16.91",
+              "avg": "-",
+              "pos": 20
+            }
+          ]
+        },
+        {
+          "eventId": "minx",
+          "bestSingle": "2:01.86",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "2:59.89",
+                "2:01.86"
+              ],
+              "single": "2:01.86",
+              "avg": "-",
+              "pos": 25
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "6.42",
+          "bestAvg": "8.29",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "6.42",
+                "7.96",
+                "DNF",
+                "6.69",
+                "10.22"
+              ],
+              "single": "6.42",
+              "avg": "8.29",
+              "pos": 26
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "6.22",
+          "bestAvg": "10.07",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "7.81",
+                "22.76",
+                "6.22",
+                "13.47",
+                "8.93"
+              ],
+              "single": "6.22",
+              "avg": "10.07",
+              "pos": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "name": "French Championship 2025",
+      "date": "2025-04-19",
+      "endDate": "2025-04-21",
+      "city": "Douvrin",
+      "events": [
+        {
+          "eventId": "222",
+          "bestSingle": "2.39",
+          "bestAvg": "3.53",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "7.26",
+                "3.56",
+                "3.37",
+                "3.30",
+                "3.66"
+              ],
+              "single": "3.30",
+              "avg": "3.53",
+              "pos": 49
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "3.82",
+                "4.54",
+                "7.08",
+                "28.39",
+                "2.39"
+              ],
+              "single": "2.39",
+              "avg": "5.15",
+              "pos": 77
+            }
+          ]
+        },
+        {
+          "eventId": "333",
+          "bestSingle": "9.53",
+          "bestAvg": "11.56",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "12.88",
+                "10.58",
+                "9.57",
+                "11.23",
+                "28.61"
+              ],
+              "single": "9.57",
+              "avg": "11.56",
+              "pos": 101
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "13.01",
+                "9.53",
+                "14.58",
+                "12.34",
+                "14.91"
+              ],
+              "single": "9.53",
+              "avg": "13.31",
+              "pos": 111
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "21.86",
+          "bestAvg": "24.69",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "21.86",
+                "24.98",
+                "27.17",
+                "25.61",
+                "23.47"
+              ],
+              "single": "21.86",
+              "avg": "24.69",
+              "pos": 101
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "40.44",
+          "bestAvg": "48.20",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "49.73",
+                "57.56",
+                "40.44",
+                "44.73",
+                "50.14"
+              ],
+              "single": "40.44",
+              "avg": "48.20",
+              "pos": 102
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:32.71",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:32.71",
+                "1:53.63"
+              ],
+              "single": "1:32.71",
+              "avg": "-",
+              "pos": 82
+            }
+          ]
+        },
+        {
+          "eventId": "minx",
+          "bestSingle": "1:52.11",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:52.11",
+                "2:04.36"
+              ],
+              "single": "1:52.11",
+              "avg": "-",
+              "pos": 104
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "4.06",
+          "bestAvg": "4.78",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4.88",
+                "4.57",
+                "4.06",
+                "4.88",
+                "7.07"
+              ],
+              "single": "4.06",
+              "avg": "4.78",
+              "pos": 29
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "4.81",
+                "5.09",
+                "DNF",
+                "4.09",
+                "6.53"
+              ],
+              "single": "4.09",
+              "avg": "5.48",
+              "pos": 41
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "8.02",
+          "bestAvg": "11.68",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "10.09",
+                "13.14",
+                "13.51",
+                "11.82",
+                "8.02"
+              ],
+              "single": "8.02",
+              "avg": "11.68",
+              "pos": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "name": "Longjum'Open 2025",
+      "date": "2025-05-03",
+      "endDate": "2025-05-04",
+      "city": "Longjumeau",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "9.72",
+          "bestAvg": "10.16",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "10.92",
+                "12.57",
+                "13.03",
+                "11.59",
+                "10.24"
+              ],
+              "single": "10.24",
+              "avg": "11.69",
+              "pos": 27
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "9.72",
+                "10.13",
+                "9.81",
+                "10.55",
+                "13.24"
+              ],
+              "single": "9.72",
+              "avg": "10.16",
+              "pos": 15
+            },
+            {
+              "name": "Semi Final",
+              "attempts": [
+                "11.08",
+                "10.03",
+                "10.53",
+                "9.92",
+                "12.03"
+              ],
+              "single": "9.92",
+              "avg": "10.55",
+              "pos": 21
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "42.43",
+          "bestAvg": "46.24",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "49.13",
+                "50.84",
+                "42.43",
+                "42.68",
+                "46.92"
+              ],
+              "single": "42.43",
+              "avg": "46.24",
+              "pos": 29
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "50.45",
+                "51.59",
+                "54.60",
+                "50.69",
+                "DNF"
+              ],
+              "single": "50.45",
+              "avg": "52.29",
+              "pos": 37
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:27.83",
+          "bestAvg": "1:37.69",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:38.06",
+                "1:38.61",
+                "1:46.30",
+                "1:33.44",
+                "1:36.39"
+              ],
+              "single": "1:33.44",
+              "avg": "1:37.69",
+              "pos": 29
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "1:27.83",
+                "1:41.72",
+                "1:46.20",
+                "1:37.37",
+                "1:38.92"
+              ],
+              "single": "1:27.83",
+              "avg": "1:39.34",
+              "pos": 31
+            }
+          ]
+        },
+        {
+          "eventId": "666",
+          "bestSingle": "3:30.33",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "3:30.33"
+              ],
+              "single": "3:30.33",
+              "avg": "-",
+              "pos": 28
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "10.69",
+          "bestAvg": "12.07",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "16.72"
+              ],
+              "single": "16.72",
+              "avg": "-",
+              "pos": 50
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "12.69",
+                "DNF",
+                "11.75",
+                "10.69",
+                "11.77"
+              ],
+              "single": "10.69",
+              "avg": "12.07",
+              "pos": 28
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "10.96",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "11.84",
+                "10.96",
+                "DNF",
+                "DNF",
+                "13.95"
+              ],
+              "single": "10.96",
+              "avg": "-",
+              "pos": 62
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "NanterreOpen2025",
+      "name": "Nanterre Open 2025",
+      "date": "2025-05-17",
+      "endDate": "2025-05-18",
+      "city": "Nanterre",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "7.06",
+          "bestAvg": "9.09",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "DNF",
+                "11.69",
+                "9.86",
+                "9.31",
+                "11.65"
+              ],
+              "single": "9.31",
+              "avg": "11.07",
+              "pos": 17
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "10.58",
+                "9.27",
+                "9.84",
+                "8.17",
+                "7.06"
+              ],
+              "single": "7.06",
+              "avg": "9.09",
+              "pos": 7
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "10.05",
+                "12.64",
+                "9.36",
+                "10.33",
+                "10.17"
+              ],
+              "single": "9.36",
+              "avg": "10.18",
+              "pos": 8
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "40.89",
+          "bestAvg": "46.89",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "40.89",
+                "44.23",
+                "45.39",
+                "1:03.58",
+                "53.76"
+              ],
+              "single": "40.89",
+              "avg": "47.79",
+              "pos": 20
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "49.08",
+                "44.75",
+                "46.83",
+                "DNF",
+                "44.07"
+              ],
+              "single": "44.07",
+              "avg": "46.89",
+              "pos": 18
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:29.00",
+          "bestAvg": "1:33.08",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:37.11",
+                "1:33.63",
+                "1:50.53",
+                "1:36.90",
+                "1:45.75"
+              ],
+              "single": "1:33.63",
+              "avg": "1:39.92",
+              "pos": 20
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "1:30.84",
+                "1:33.33",
+                "1:29.00",
+                "1:35.08",
+                "1:38.77"
+              ],
+              "single": "1:29.00",
+              "avg": "1:33.08",
+              "pos": 18
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "11.27",
+          "bestAvg": "12.07",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "11.81",
+                "11.27",
+                "15.92",
+                "11.73",
+                "DNF"
+              ],
+              "single": "11.27",
+              "avg": "13.15",
+              "pos": 22
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "19.36",
+                "11.71",
+                "12.19",
+                "11.53",
+                "12.32"
+              ],
+              "single": "11.53",
+              "avg": "12.07",
+              "pos": 16
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "6.77",
+          "bestAvg": "11.94",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "15.71",
+                "14.65",
+                "7.69",
+                "7.97",
+                "13.19"
+              ],
+              "single": "7.69",
+              "avg": "11.94",
+              "pos": 29
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "6.77",
+                "19.81",
+                "9.78",
+                "14.45",
+                "13.69"
+              ],
+              "single": "6.77",
+              "avg": "12.64",
+              "pos": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "name": "Champagne Open 2025",
+      "date": "2025-09-06",
+      "endDate": "2025-09-07",
+      "city": "Reims",
+      "events": [
+        {
+          "eventId": "222",
+          "bestSingle": "1.88",
+          "bestAvg": "3.42",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "2.95",
+                "3.70",
+                "16.44",
+                "3.84",
+                "3.17"
+              ],
+              "single": "2.95",
+              "avg": "3.57",
+              "pos": 18
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "5.84",
+                "3.77",
+                "1.88",
+                "3.32",
+                "3.17"
+              ],
+              "single": "1.88",
+              "avg": "3.42",
+              "pos": 14
+            }
+          ]
+        },
+        {
+          "eventId": "333",
+          "bestSingle": "8.69",
+          "bestAvg": "10.25",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "11.49",
+                "9.18",
+                "9.82",
+                "10.74",
+                "10.19"
+              ],
+              "single": "9.18",
+              "avg": "10.25",
+              "pos": 23
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "10.78",
+                "12.07",
+                "13.68",
+                "12.74",
+                "8.69"
+              ],
+              "single": "8.69",
+              "avg": "11.86",
+              "pos": 36
+            }
+          ]
+        },
+        {
+          "eventId": "333oh",
+          "bestSingle": "18.86",
+          "bestAvg": "22.65",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "21.29",
+                "28.47",
+                "24.52",
+                "21.46",
+                "21.96"
+              ],
+              "single": "21.29",
+              "avg": "22.65",
+              "pos": 21
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "26.50",
+                "21.55",
+                "43.68",
+                "21.06",
+                "18.86"
+              ],
+              "single": "18.86",
+              "avg": "23.04",
+              "pos": 21
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "39.11",
+          "bestAvg": "44.90",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "44.74",
+                "47.94",
+                "39.11",
+                "44.34",
+                "45.63"
+              ],
+              "single": "39.11",
+              "avg": "44.90",
+              "pos": 32
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:28.53",
+          "bestAvg": "1:34.17",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "1:28.53",
+                "1:31.69",
+                "1:29.98",
+                "1:40.84",
+                "1:46.64"
+              ],
+              "single": "1:28.53",
+              "avg": "1:34.17",
+              "pos": 32
+            }
+          ]
+        },
+        {
+          "eventId": "666",
+          "bestSingle": "3:15.12",
+          "bestAvg": "3:42.57",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "3:29.09",
+                "3:15.12",
+                "4:23.50"
+              ],
+              "single": "3:15.12",
+              "avg": "3:42.57",
+              "pos": 32
+            }
+          ]
+        },
+        {
+          "eventId": "777",
+          "bestSingle": "5:54.16",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "5:54.16"
+              ],
+              "single": "5:54.16",
+              "avg": "-",
+              "pos": 28
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "10.83",
+          "bestAvg": "13.18",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "10.83",
+                "DNF",
+                "15.68",
+                "12.78",
+                "11.08"
+              ],
+              "single": "10.83",
+              "avg": "13.18",
+              "pos": 22
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "3.44",
+          "bestAvg": "3.92",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "3.62",
+                "4.68",
+                "10.56",
+                "3.46",
+                "3.44"
+              ],
+              "single": "3.44",
+              "avg": "3.92",
+              "pos": 6
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "4.30",
+                "5.57",
+                "4.69",
+                "4.58",
+                "6.54"
+              ],
+              "single": "4.30",
+              "avg": "4.95",
+              "pos": 6
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "8.08",
+          "bestAvg": "10.98",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "11.44",
+                "8.08",
+                "12.24",
+                "11.78",
+                "9.71"
+              ],
+              "single": "8.08",
+              "avg": "10.98",
+              "pos": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "name": "LexOpen France 2025",
+      "date": "2025-09-27",
+      "endDate": "2025-09-28",
+      "city": "Lisieux",
+      "events": [
+        {
+          "eventId": "222",
+          "bestSingle": "3.69",
+          "bestAvg": "4.85",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4.44",
+                "4.50",
+                "DNF",
+                "3.69",
+                "5.61"
+              ],
+              "single": "3.69",
+              "avg": "4.85",
+              "pos": 14
+            }
+          ]
+        },
+        {
+          "eventId": "333",
+          "bestSingle": "8.46",
+          "bestAvg": "9.55",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "9.62",
+                "9.12",
+                "9.77",
+                "11.81",
+                "10.31"
+              ],
+              "single": "9.12",
+              "avg": "9.90",
+              "pos": 4
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "8.50",
+                "13.39",
+                "10.57",
+                "9.59",
+                "8.46"
+              ],
+              "single": "8.46",
+              "avg": "9.55",
+              "pos": 5
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "10.92",
+                "9.41",
+                "8.68",
+                "9.60",
+                "10.48"
+              ],
+              "single": "8.68",
+              "avg": "9.83",
+              "pos": 5
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "40.54",
+          "bestAvg": "48.15",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "43.80",
+                "56.91",
+                "49.45",
+                "45.09",
+                "50.30"
+              ],
+              "single": "43.80",
+              "avg": "48.28",
+              "pos": 12
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "40.54",
+                "46.41",
+                "50.53",
+                "1:05.96",
+                "47.50"
+              ],
+              "single": "40.54",
+              "avg": "48.15",
+              "pos": 10
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:26.25",
+          "bestAvg": "1:30.98",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "1:31.30",
+                "1:30.52",
+                "1:31.13",
+                "DNF",
+                "1:26.25"
+              ],
+              "single": "1:26.25",
+              "avg": "1:30.98",
+              "pos": 8
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "9.47",
+          "bestAvg": "12.81",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "10.71",
+                "21.97",
+                "20.60",
+                "18.58",
+                "9.77"
+              ],
+              "single": "9.77",
+              "avg": "16.63",
+              "pos": 20
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "13.75",
+                "24.91",
+                "11.24",
+                "13.45",
+                "9.47"
+              ],
+              "single": "9.47",
+              "avg": "12.81",
+              "pos": 19
+            }
+          ]
+        },
+        {
+          "eventId": "minx",
+          "bestSingle": "1:30.67",
+          "bestAvg": "1:36.79",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:38.11",
+                "1:46.94",
+                "1:31.36",
+                "1:30.67",
+                "1:40.91"
+              ],
+              "single": "1:30.67",
+              "avg": "1:36.79",
+              "pos": 14
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "3.53",
+          "bestAvg": "4.01",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4.15",
+                "4.54",
+                "3.54",
+                "3.72",
+                "4.68"
+              ],
+              "single": "3.54",
+              "avg": "4.14",
+              "pos": 3
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "3.98",
+                "DNF",
+                "4.40",
+                "3.66",
+                "3.53"
+              ],
+              "single": "3.53",
+              "avg": "4.01",
+              "pos": 5
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "9.58",
+          "bestAvg": "12.72",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "14.39",
+                "13.91",
+                "9.87",
+                "DNF",
+                "9.58"
+              ],
+              "single": "9.58",
+              "avg": "12.72",
+              "pos": 25
+            }
+          ]
+        },
+        {
+          "eventId": "sq1",
+          "bestSingle": "56.46",
+          "bestAvg": "1:15.28",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:27.94",
+                "56.46",
+                "1:22.80",
+                "1:11.99",
+                "1:11.05"
+              ],
+              "single": "56.46",
+              "avg": "1:15.28",
+              "pos": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "name": "Chevry Miel 2025",
+      "date": "2025-10-25",
+      "endDate": "2025-10-26",
+      "city": "Chevry-Cossigny",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "9.42",
+          "bestAvg": "10.62",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "10.62",
+                "11.13",
+                "12.48",
+                "9.42",
+                "10.12"
+              ],
+              "single": "9.42",
+              "avg": "10.62",
+              "pos": 22
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "12.15",
+                "9.90",
+                "11.84",
+                "10.54",
+                "11.64"
+              ],
+              "single": "9.90",
+              "avg": "11.34",
+              "pos": 23
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "40.11",
+          "bestAvg": "42.29",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "53.26",
+                "40.11",
+                "43.38",
+                "40.19",
+                "43.30"
+              ],
+              "single": "40.11",
+              "avg": "42.29",
+              "pos": 20
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:22.20",
+          "bestAvg": "1:26.45",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:22.20",
+                "1:25.70",
+                "1:38.43",
+                "1:22.28",
+                "1:31.36"
+              ],
+              "single": "1:22.20",
+              "avg": "1:26.45",
+              "pos": 18
+            }
+          ]
+        },
+        {
+          "eventId": "666",
+          "bestSingle": "2:46.97",
+          "bestAvg": "2:55.88",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "2:49.74",
+                "3:10.92",
+                "2:46.97"
+              ],
+              "single": "2:46.97",
+              "avg": "2:55.88",
+              "pos": 16
+            }
+          ]
+        },
+        {
+          "eventId": "777",
+          "bestSingle": "4:42.23",
+          "bestAvg": "5:58.38",
+          "rounds": [
+            {
+              "name": "Final",
+              "attempts": [
+                "4:42.23",
+                "7:52.12",
+                "5:20.80"
+              ],
+              "single": "4:42.23",
+              "avg": "5:58.38",
+              "pos": 22
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "9.68",
+          "bestAvg": "13.90",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "9.68",
+                "DNF",
+                "19.72",
+                "10.14",
+                "11.84"
+              ],
+              "single": "9.68",
+              "avg": "13.90",
+              "pos": 23
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "3.00",
+          "bestAvg": "3.90",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "4.63",
+                "4.34",
+                "5.05",
+                "5.18",
+                "4.28"
+              ],
+              "single": "4.28",
+              "avg": "4.67",
+              "pos": 6
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "3.00",
+                "5.66",
+                "3.26",
+                "4.07",
+                "4.36"
+              ],
+              "single": "3.00",
+              "avg": "3.90",
+              "pos": 5
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "7.29",
+          "bestAvg": "10.38",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "11.63",
+                "10.75",
+                "11.94",
+                "10.57",
+                "11.03"
+              ],
+              "single": "10.57",
+              "avg": "11.14",
+              "pos": 24
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "7.29",
+                "11.51",
+                "14.45",
+                "10.10",
+                "9.52"
+              ],
+              "single": "7.29",
+              "avg": "10.38",
+              "pos": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "compId": "Palais10Open2025",
+      "name": "Palais'10Open 2025",
+      "date": "2025-11-08",
+      "endDate": "2025-11-09",
+      "city": "Palaiseau",
+      "events": [
+        {
+          "eventId": "333",
+          "bestSingle": "9.50",
+          "bestAvg": "10.14",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "9.56",
+                "9.50",
+                "11.16",
+                "11.90",
+                "9.70"
+              ],
+              "single": "9.50",
+              "avg": "10.14",
+              "pos": 20
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "12.30",
+                "9.98",
+                "11.96",
+                "10.36",
+                "9.66"
+              ],
+              "single": "9.66",
+              "avg": "10.77",
+              "pos": 30
+            }
+          ]
+        },
+        {
+          "eventId": "444",
+          "bestSingle": "39.97",
+          "bestAvg": "45.18",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "43.30",
+                "52.11",
+                "47.77",
+                "44.73",
+                "41.96"
+              ],
+              "single": "41.96",
+              "avg": "45.27",
+              "pos": 31
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "45.11",
+                "43.58",
+                "48.05",
+                "39.97",
+                "46.86"
+              ],
+              "single": "39.97",
+              "avg": "45.18",
+              "pos": 33
+            }
+          ]
+        },
+        {
+          "eventId": "555",
+          "bestSingle": "1:28.32",
+          "bestAvg": "1:31.09",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "1:28.67",
+                "1:39.24",
+                "1:28.32",
+                "1:29.92",
+                "1:34.68"
+              ],
+              "single": "1:28.32",
+              "avg": "1:31.09",
+              "pos": 35
+            }
+          ]
+        },
+        {
+          "eventId": "clock",
+          "bestSingle": "12.06",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "19.49",
+                "12.06"
+              ],
+              "single": "12.06",
+              "avg": "-",
+              "pos": 37
+            }
+          ]
+        },
+        {
+          "eventId": "pyram",
+          "bestSingle": "1.79",
+          "bestAvg": "4.12",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "6.52",
+                "1.79",
+                "3.20",
+                "5.00",
+                "4.17"
+              ],
+              "single": "1.79",
+              "avg": "4.12",
+              "pos": 6
+            },
+            {
+              "name": "Final",
+              "attempts": [
+                "3.36",
+                "7.96",
+                "4.10",
+                "DNF",
+                "3.74"
+              ],
+              "single": "3.36",
+              "avg": "5.27",
+              "pos": 10
+            }
+          ]
+        },
+        {
+          "eventId": "skewb",
+          "bestSingle": "8.76",
+          "bestAvg": "12.06",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "8.76",
+                "8.91",
+                "17.55",
+                "9.73",
+                "18.27"
+              ],
+              "single": "8.76",
+              "avg": "12.06",
+              "pos": 43
+            }
+          ]
+        },
+        {
+          "eventId": "sq1",
+          "bestSingle": "35.78",
+          "bestAvg": "-",
+          "rounds": [
+            {
+              "name": "First round",
+              "attempts": [
+                "35.78",
+                "53.50"
+              ],
+              "single": "35.78",
+              "avg": "-",
+              "pos": 33
+            },
+            {
+              "name": "Second round",
+              "attempts": [
+                "1:30.70",
+                "47.84"
+              ],
+              "single": "47.84",
+              "avg": "-",
+              "pos": 31
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

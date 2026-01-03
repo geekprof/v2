@@ -1,0 +1,507 @@
+{
+  "personId": "2024DORO01",
+  "eventId": "555",
+  "rounds": [
+    {
+      "compId": "PalaisOpen2024",
+      "compName": "Palais'Open 2024",
+      "date": "2024-09-22",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 55,
+      "attemptsCs": [
+        -1,
+        15114
+      ],
+      "attemptsText": [
+        "DNF",
+        "2:31.14"
+      ],
+      "bestCs": 15114,
+      "avgCs": 0,
+      "bestText": "2:31.14",
+      "avgText": ""
+    },
+    {
+      "compId": "ChevryOpen2024",
+      "compName": "Chevry Open 2024",
+      "date": "2024-10-06",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 34,
+      "attemptsCs": [
+        14306,
+        16877
+      ],
+      "attemptsText": [
+        "2:23.06",
+        "2:48.77"
+      ],
+      "bestCs": 14306,
+      "avgCs": 0,
+      "bestText": "2:23.06",
+      "avgText": ""
+    },
+    {
+      "compId": "BrestOpen2024",
+      "compName": "Brest Open 2024",
+      "date": "2024-10-20",
+      "roundTypeId": "f",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 10,
+      "attemptsCs": [
+        12968,
+        -1,
+        13740,
+        15447,
+        12971
+      ],
+      "attemptsText": [
+        "2:09.68",
+        "DNF",
+        "2:17.40",
+        "2:34.47",
+        "2:09.71"
+      ],
+      "bestCs": 12968,
+      "avgCs": 14053,
+      "bestText": "2:09.68",
+      "avgText": "2:20.53"
+    },
+    {
+      "compId": "ReauOpen2024",
+      "compName": "R\u00e9au Open 2024",
+      "date": "2024-11-24",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 29,
+      "attemptsCs": [
+        14582,
+        14543
+      ],
+      "attemptsText": [
+        "2:25.82",
+        "2:25.43"
+      ],
+      "bestCs": 14543,
+      "avgCs": 0,
+      "bestText": "2:25.43",
+      "avgText": ""
+    },
+    {
+      "compId": "ChanteloupOpen2025",
+      "compName": "Chanteloup Open 2025",
+      "date": "2025-01-12",
+      "roundTypeId": "c",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 23,
+      "attemptsCs": [
+        10629,
+        12036,
+        12652,
+        12240,
+        12035
+      ],
+      "attemptsText": [
+        "1:46.29",
+        "2:00.36",
+        "2:06.52",
+        "2:02.40",
+        "2:00.35"
+      ],
+      "bestCs": 10629,
+      "avgCs": 12104,
+      "bestText": "1:46.29",
+      "avgText": "2:01.04"
+    },
+    {
+      "compId": "JustJudgeJura2025",
+      "compName": "Just Judge Jura 2025",
+      "date": "2025-01-19",
+      "roundTypeId": "c",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 23,
+      "attemptsCs": [
+        11841,
+        11078
+      ],
+      "attemptsText": [
+        "1:58.41",
+        "1:50.78"
+      ],
+      "bestCs": 11078,
+      "avgCs": 0,
+      "bestText": "1:50.78",
+      "avgText": ""
+    },
+    {
+      "compId": "ChellesOpen2025",
+      "compName": "Chelles Open 2025",
+      "date": "2025-02-16",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 28,
+      "attemptsCs": [
+        11661,
+        11695
+      ],
+      "attemptsText": [
+        "1:56.61",
+        "1:56.95"
+      ],
+      "bestCs": 11661,
+      "avgCs": 0,
+      "bestText": "1:56.61",
+      "avgText": ""
+    },
+    {
+      "compId": "EaubonneOpen2025",
+      "compName": "Eaubonne Open 2025",
+      "date": "2025-03-02",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 25,
+      "attemptsCs": [
+        12486,
+        18714
+      ],
+      "attemptsText": [
+        "2:04.86",
+        "3:07.14"
+      ],
+      "bestCs": 12486,
+      "avgCs": 0,
+      "bestText": "2:04.86",
+      "avgText": ""
+    },
+    {
+      "compId": "TigeryOpen2025",
+      "compName": "Tigery Open 2025",
+      "date": "2025-03-23",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 33,
+      "attemptsCs": [
+        10152,
+        10499,
+        10714,
+        11052,
+        11197
+      ],
+      "attemptsText": [
+        "1:41.52",
+        "1:44.99",
+        "1:47.14",
+        "1:50.52",
+        "1:51.97"
+      ],
+      "bestCs": 10152,
+      "avgCs": 10755,
+      "bestText": "1:41.52",
+      "avgText": "1:47.55"
+    },
+    {
+      "compId": "CarquefOpen2025",
+      "compName": "Carquef'Open 2025",
+      "date": "2025-04-06",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 30,
+      "attemptsCs": [
+        11102,
+        10075,
+        11369,
+        11051,
+        11308
+      ],
+      "attemptsText": [
+        "1:51.02",
+        "1:40.75",
+        "1:53.69",
+        "1:50.51",
+        "1:53.08"
+      ],
+      "bestCs": 10075,
+      "avgCs": 11154,
+      "bestText": "1:40.75",
+      "avgText": "1:51.54"
+    },
+    {
+      "compId": "FrenchChampionship2025",
+      "compName": "French Championship 2025",
+      "date": "2025-04-21",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 111,
+      "attemptsCs": [
+        11022,
+        11788
+      ],
+      "attemptsText": [
+        "1:50.22",
+        "1:57.88"
+      ],
+      "bestCs": 11022,
+      "avgCs": 0,
+      "bestText": "1:50.22",
+      "avgText": ""
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "date": "2025-05-04",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 44,
+      "attemptsCs": [
+        12974,
+        10719
+      ],
+      "attemptsText": [
+        "2:09.74",
+        "1:47.19"
+      ],
+      "bestCs": 10719,
+      "avgCs": 0,
+      "bestText": "1:47.19",
+      "avgText": ""
+    },
+    {
+      "compId": "LongjumOpen2025",
+      "compName": "Longjum'Open 2025",
+      "date": "2025-05-04",
+      "roundTypeId": "e",
+      "roundName": "Second round",
+      "formatId": "a",
+      "pos": 41,
+      "attemptsCs": [
+        10327,
+        10761,
+        10947,
+        13772,
+        10405
+      ],
+      "attemptsText": [
+        "1:43.27",
+        "1:47.61",
+        "1:49.47",
+        "2:17.72",
+        "1:44.05"
+      ],
+      "bestCs": 10327,
+      "avgCs": 10704,
+      "bestText": "1:43.27",
+      "avgText": "1:47.04"
+    },
+    {
+      "compId": "OpenthePotDijon2025",
+      "compName": "Open the Pot Dijon 2025",
+      "date": "2025-05-25",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 23,
+      "attemptsCs": [
+        12293,
+        9943
+      ],
+      "attemptsText": [
+        "2:02.93",
+        "1:39.43"
+      ],
+      "bestCs": 9943,
+      "avgCs": 0,
+      "bestText": "1:39.43",
+      "avgText": ""
+    },
+    {
+      "compId": "OpenthePotDijon2025",
+      "compName": "Open the Pot Dijon 2025",
+      "date": "2025-05-25",
+      "roundTypeId": "e",
+      "roundName": "Second round",
+      "formatId": "a",
+      "pos": 25,
+      "attemptsCs": [
+        12199,
+        10438
+      ],
+      "attemptsText": [
+        "2:01.99",
+        "1:44.38"
+      ],
+      "bestCs": 10438,
+      "avgCs": 0,
+      "bestText": "1:44.38",
+      "avgText": ""
+    },
+    {
+      "compId": "CouffouleuxOpen2025",
+      "compName": "Couffouleux Open 2025",
+      "date": "2025-08-17",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 25,
+      "attemptsCs": [
+        11509,
+        11069,
+        12164,
+        11340,
+        10756
+      ],
+      "attemptsText": [
+        "1:55.09",
+        "1:50.69",
+        "2:01.64",
+        "1:53.40",
+        "1:47.56"
+      ],
+      "bestCs": 10756,
+      "avgCs": 11306,
+      "bestText": "1:47.56",
+      "avgText": "1:53.06"
+    },
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "date": "2025-09-07",
+      "roundTypeId": "c",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 43,
+      "attemptsCs": [
+        10694,
+        10804
+      ],
+      "attemptsText": [
+        "1:46.94",
+        "1:48.04"
+      ],
+      "bestCs": 10694,
+      "avgCs": 0,
+      "bestText": "1:46.94",
+      "avgText": ""
+    },
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "c",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 18,
+      "attemptsCs": [
+        10541,
+        10144,
+        11022,
+        11702,
+        10336
+      ],
+      "attemptsText": [
+        "1:45.41",
+        "1:41.44",
+        "1:50.22",
+        "1:57.02",
+        "1:43.36"
+      ],
+      "bestCs": 10144,
+      "avgCs": 10633,
+      "bestText": "1:41.44",
+      "avgText": "1:46.33"
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "date": "2025-10-26",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 29,
+      "attemptsCs": [
+        9358,
+        12568,
+        10612,
+        10071,
+        11210
+      ],
+      "attemptsText": [
+        "1:33.58",
+        "2:05.68",
+        "1:46.12",
+        "1:40.71",
+        "1:52.10"
+      ],
+      "bestCs": 9358,
+      "avgCs": 10631,
+      "bestText": "1:33.58",
+      "avgText": "1:46.31"
+    },
+    {
+      "compId": "Palais10Open2025",
+      "compName": "Palais'10Open 2025",
+      "date": "2025-11-09",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 46,
+      "attemptsCs": [
+        10433,
+        10286,
+        10319,
+        10295,
+        10868
+      ],
+      "attemptsText": [
+        "1:44.33",
+        "1:42.86",
+        "1:43.19",
+        "1:42.95",
+        "1:48.68"
+      ],
+      "bestCs": 10286,
+      "avgCs": 10349,
+      "bestText": "1:42.86",
+      "avgText": "1:43.49"
+    },
+    {
+      "compId": "BacktoBuchy2025",
+      "compName": "Back to Buchy 2025",
+      "date": "2025-11-16",
+      "roundTypeId": "c",
+      "roundName": "Final",
+      "formatId": "a",
+      "pos": 19,
+      "attemptsCs": [
+        11076,
+        9266,
+        11938,
+        11067,
+        9974
+      ],
+      "attemptsText": [
+        "1:50.76",
+        "1:32.66",
+        "1:59.38",
+        "1:50.67",
+        "1:39.74"
+      ],
+      "bestCs": 9266,
+      "avgCs": 10706,
+      "bestText": "1:32.66",
+      "avgText": "1:47.06"
+    }
+  ]
+}

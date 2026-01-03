@@ -1,0 +1,27 @@
+{
+  "personId": "2025GELY01",
+  "eventId": "minx",
+  "rounds": [
+    {
+      "compId": "LexOpenFrance2025",
+      "compName": "LexOpen France 2025",
+      "date": "2025-09-28",
+      "roundTypeId": "d",
+      "roundName": "First round",
+      "formatId": "a",
+      "pos": 17,
+      "attemptsCs": [
+        16325,
+        13014
+      ],
+      "attemptsText": [
+        "2:43.25",
+        "2:10.14"
+      ],
+      "bestCs": 13014,
+      "avgCs": 0,
+      "bestText": "2:10.14",
+      "avgText": ""
+    }
+  ]
+}

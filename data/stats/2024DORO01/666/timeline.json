@@ -1,0 +1,48 @@
+{
+  "personId": "2024DORO01",
+  "eventId": "666",
+  "points": [
+    {
+      "compId": "ChampagneOpen2025",
+      "compName": "Champagne Open 2025",
+      "dateEnd": "2025-09-07",
+      "bestSingleCs": 30686,
+      "bestAvgCs": null,
+      "bestSingleText": "5:06.86",
+      "bestAvgText": "-",
+      "isPRSingle": true,
+      "isPRAvg": false,
+      "finalPos": 37,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "5:06.86",
+          "avg": "-",
+          "pos": 37
+        }
+      ],
+      "roundsCount": 1
+    },
+    {
+      "compId": "ChevryMiel2025",
+      "compName": "Chevry Miel 2025",
+      "dateEnd": "2025-10-26",
+      "bestSingleCs": 36181,
+      "bestAvgCs": null,
+      "bestSingleText": "6:01.81",
+      "bestAvgText": "-",
+      "isPRSingle": false,
+      "isPRAvg": false,
+      "finalPos": 33,
+      "rounds": [
+        {
+          "name": "Final",
+          "single": "6:01.81",
+          "avg": "-",
+          "pos": 33
+        }
+      ],
+      "roundsCount": 1
+    }
+  ]
+}
