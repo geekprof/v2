@@ -2,6 +2,7 @@ const DATA_BASE_URL = './data';
 
 let state = {
     personId: null,
+    personName: null,
     eventId: '333',
     view: 'timeline', // timeline, rounds, map
     chartInstance: null,
@@ -60,8 +61,9 @@ async function init() {
     // UI Event Listeners
     document.getElementById('user-select').addEventListener('change', (e) => {
         state.personId = e.target.value;
-        // Update event dropdown for this person
         const selectedOption = e.target.options[e.target.selectedIndex];
+        state.personName = selectedOption.textContent.split(' (')[0]; // Extract name from "Name (ID)"
+        // Update event dropdown for this person
         const events = JSON.parse(selectedOption.dataset.events || '[]');
         updateEventDropdown(events);
         refreshView();
@@ -103,6 +105,7 @@ async function loadPersonIndex() {
 
         if (persons.length > 0) {
             state.personId = persons[0].personId;
+            state.personName = persons[0].name;
             userSelect.value = state.personId;
             updateEventDropdown(persons[0].events);
             refreshView();
@@ -533,13 +536,27 @@ function initMap() {
 }
 
 async function loadMapData() {
+    if (!state.personName || !state.personId) return;
+
     try {
+        // Fetch full history to get individual results for each comp
+        const historyRes = await fetch(`${DATA_BASE_URL}/stats/${state.personId}/full.json`);
+        const historyData = await historyRes.json();
+        const compResults = {};
+        historyData.history.forEach(c => {
+            compResults[c.name] = c.events;
+        });
+
         const res = await fetch(`${DATA_BASE_URL}/map_competitions.geojson`);
         const geojson = await res.json();
 
         if (state.mapLayer) state.mapInstance.removeLayer(state.mapLayer);
 
         state.mapLayer = L.geoJSON(geojson, {
+            filter: (feature) => {
+                // Only show competitions where the selected person participated
+                return feature.properties.participants.includes(state.personName);
+            },
             pointToLayer: (feature, latlng) => {
                 return L.circleMarker(latlng, {
                     radius: 8,
@@ -552,21 +569,77 @@ async function loadMapData() {
             },
             onEachFeature: (feature, layer) => {
                 const p = feature.properties;
+
+                // Format Date: YYYY-MM-DD to DD MM YYYY
+                const dateParts = p.dateEnd.split('-');
+                const formattedDate = dateParts.length === 3 ? `${dateParts[2]} ${dateParts[1]} ${dateParts[0]}` : p.dateEnd;
+
+                // Selected Player Results
+                const userEvents = compResults[p.name] || [];
+                let resultsHtml = `<div style="margin-top: 8px; border-top: 1px solid #444; padding-top: 5px;">
+                                    <span style="color: #64b5f6; font-size: 0.85rem; font-weight: bold;">Best single, best AVG</span><br>`;
+
+                if (userEvents.length > 0) {
+                    userEvents.forEach(ev => {
+                        const eventName = eventNames[ev.eventId] || ev.eventId;
+                        resultsHtml += `<div style="font-size: 0.85rem; margin-bottom: 1px;">
+                                            ${eventName} : ${ev.bestSingle}, ${ev.bestAvg}
+                                        </div>`;
+                    });
+                } else {
+                    resultsHtml += `<i style="color: #888;">Données non trouvées</i>`;
+                }
+                resultsHtml += `</div>`;
+
+                // Other Participants
+                const otherParticipants = p.participants.filter(name => name !== state.personName);
+                let participantsHtml = '';
+                if (otherParticipants.length > 0) {
+                    participantsHtml = `<div style="margin-top: 5px; color: #888; font-size: 0.85rem;">
+                                            <b>Autres participants :</b> ${otherParticipants.join(', ')}
+                                        </div>`;
+                }
+
                 layer.bindPopup(`
-                    <b>${p.name}</b><br>
-                    ${p.city}<br>
-                    ${p.dateEnd}<br>
-                    Participants: ${p.participants.join(', ')}
+                    <div style="font-family: inherit; min-width: 250px;">
+                        <b style="font-size: 1.25rem; color: #fff;">${p.name}</b><br>
+                        <span style="color: #64b5f6; font-size: 0.85rem; font-weight: bold;">${formattedDate} - ${p.name}</span>
+                        ${resultsHtml}
+                        ${participantsHtml}
+                    </div>
                 `);
             }
         }).addTo(state.mapInstance);
 
-        // Fit bounds
-        state.mapInstance.fitBounds(state.mapLayer.getBounds());
+        // Fit bounds if layer has features
+        const bounds = state.mapLayer.getBounds();
+        if (bounds.isValid()) {
+            state.mapInstance.fitBounds(bounds, { padding: [50, 50] });
+        }
     } catch (e) {
         console.error("Map data error", e);
     }
 }
+
+const eventNames = {
+    '333': '3x3x3 Cube',
+    '222': '2x2x2 Cube',
+    '444': '4x4x4 Cube',
+    '555': '5x5x5 Cube',
+    '666': '6x6x6 Cube',
+    '777': '7x7x7 Cube',
+    '333bf': '3x3 Blindfolded',
+    '333fm': '3x3 Fewest Moves',
+    '333oh': '3x3 One-Handed',
+    'clock': 'Clock',
+    'minx': 'Megaminx',
+    'pyram': 'Pyraminx',
+    'skewb': 'Skewb',
+    'sq1': 'Square-1',
+    '444bf': '4x4 Blindfolded',
+    '555bf': '5x5 Blindfolded',
+    '333mbf': '3x3 Multiple Blindfolded'
+};
 
 
 
