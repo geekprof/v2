@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # Tous les jours à 04:00 (Heure de Paris / 03:00 UTC)
-    - cron: '0 3 * * *'
+    # Tous les jours à 02:00 (Heure de Paris en hiver / 01:00 UTC)
+    - cron: '0 1 * * *'
   workflow_dispatch:
     # Permet de lancer manuellement depuis l'interface GitHub
 
