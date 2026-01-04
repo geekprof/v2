@@ -11,6 +11,31 @@ let state = {
     competitionsIndex: null
 };
 
+// --- UTILS ---
+
+function formatTime(seconds, eventId) {
+    if (seconds === null || seconds === undefined || seconds < 0) return "";
+
+    // FMC is measured in moves, but stored in "centiseconds" in WCA DB 
+    // Usually it's just the integer.
+    if (eventId === '333fm') return Math.round(seconds).toString();
+
+    // Multi-blind is a special format (encoded), we'll keep as-is if encountered here
+    // but usually points are in seconds for normal timed events.
+    if (eventId === '333mbf') return seconds.toString();
+
+    const min = Math.floor(seconds / 60);
+    const sec = seconds % 60;
+
+    if (min > 0) {
+        // Pad seconds with leading zero if needed (e.g. 1:05.12)
+        const s = sec.toFixed(2).padStart(5, '0');
+        return `${min}:${s}`;
+    } else {
+        return sec.toFixed(2);
+    }
+}
+
 // --- INIT ---
 
 async function init() {
@@ -353,7 +378,10 @@ function renderTimeline(data) {
             type: 'value',
             axisLine: { lineStyle: { color: '#444' } },
             splitLine: { lineStyle: { color: '#333' } },
-            axisLabel: { color: '#888' },
+            axisLabel: {
+                color: '#888',
+                formatter: (val) => formatTime(val, state.eventId)
+            },
             scale: true
         },
         series: [
@@ -421,7 +449,7 @@ function renderRounds(data) {
                 if (params.seriesName === 'Attempts') {
                     const data = params.data;
                     const r = rounds[data.roundIndex];
-                    const time = params.value[1].toFixed(2);
+                    const time = formatTime(params.value[1], state.eventId);
                     return `<b>${r.compName}</b><br/>
                             ${r.roundName}<br/>
                             Solve n°${data.attemptIndex + 1}: <b>${time}</b>`
@@ -429,9 +457,10 @@ function renderRounds(data) {
                     const rIdx = params.data[0];
                     const r = rounds[rIdx];
                     if (!r) return '';
+                    const time = formatTime(params.value[1], state.eventId);
                     return `<b>${r.compName}</b><br/>
                             ${r.roundName}<br/>
-                            AVG: <b>${params.value[1].toFixed(2)}</b><br/>
+                            AVG: <b>${time}</b><br/>
                             Rank: <b>${r.pos}</b>`;
                 }
             }
@@ -454,7 +483,11 @@ function renderRounds(data) {
         yAxis: {
             type: 'value',
             scale: true,
-            splitLine: { lineStyle: { color: '#333' } }
+            splitLine: { lineStyle: { color: '#333' } },
+            axisLabel: {
+                color: '#888',
+                formatter: (val) => formatTime(val, state.eventId)
+            }
         },
         series: [
             {
