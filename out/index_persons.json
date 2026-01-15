@@ -20,6 +20,22 @@
     ]
   },
   {
+    "personId": "2025GELY01",
+    "name": "Alexandre G\u00e9ly",
+    "countryId": "France",
+    "events": [
+      "222",
+      "333",
+      "333oh",
+      "444",
+      "clock",
+      "minx",
+      "pyram",
+      "skewb",
+      "sq1"
+    ]
+  },
+  {
     "personId": "2024BERT02",
     "name": "Tom Bertin-Supatto",
     "countryId": "France",
@@ -50,22 +66,6 @@
       "555",
       "666",
       "777",
-      "clock",
-      "minx",
-      "pyram",
-      "skewb",
-      "sq1"
-    ]
-  },
-  {
-    "personId": "2025GELY01",
-    "name": "Alexandre G\u00e9ly",
-    "countryId": "France",
-    "events": [
-      "222",
-      "333",
-      "333oh",
-      "444",
       "clock",
       "minx",
       "pyram",

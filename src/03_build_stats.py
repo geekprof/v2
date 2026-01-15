@@ -63,6 +63,14 @@ def build_person_index(results, persons_df):
             "events": sorted(person_events)  # Sort for consistency
         })
         
+    def sort_key_person(p):
+        pid = p['personId']
+        if pid == "2024GELY01": return (0, pid)
+        if pid == "2025GELY01": return (1, pid)
+        return (2, pid)
+            
+    index_list.sort(key=sort_key_person)
+        
     out_file = OUT_DIR / "index_persons.json"
     with open(out_file, "w") as f:
         json.dump(index_list, f, indent=2)
@@ -239,7 +247,7 @@ def build_stats(results, attempts, comps, round_types):
         # Group by competition, but we want it sorted by DATE
         # We'll get unique comp IDs and their dates first
         comp_info = person_group[['competition_id', 'start_date', 'end_date', 'name', 'city_name']].drop_duplicates('competition_id')
-        comp_info = comp_info.sort_values('start_date')
+        comp_info = comp_info.sort_values('start_date', ascending=False)
 
         for _, c_row in comp_info.iterrows():
             cid = c_row['competition_id']
