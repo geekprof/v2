@@ -6,7 +6,12 @@ TARGET_WCA_IDS = [
     "2025GELY01",
     "2024BERT02",
     "2024DORO01",
-    "2023MFOU01"
+    "2023MFOU01",
+    "2022RODE02", 
+    "2025ZEMM01",
+    "2025DESJ02",
+    "2024CAPE02"
+    
 ]
 
 # Paths
