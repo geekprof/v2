@@ -1,6 +1,6 @@
 # WCA Analytics Dashboard 📊
 
-Ce projet permet de visualiser les résultats de compétiteurs WCA via une interface interactive (Timeline, Historique complet, Carte).
+Ce projet permet de visualiser les résultats de compétiteurs WCA via une interface interactive (timeline, historique complet, carte).
 
 ## 🚀 Routine de mise à jour des données !!
 
