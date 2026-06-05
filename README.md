@@ -54,4 +54,4 @@ Ouvrez ensuite [http://localhost:8000](http://localhost:8000) dans votre navigat
 ---
 
 ## ⚙️ Configuration
-Pour ajouter des joueurs, modifiez la liste `TARGET_WCA_IDS` dans le fichier [src/config.py](file:///c:/Users/fabri/OneDrive%20-%20ac-versailles.fr/IA-IPR/Programmes/Python/VS%20code/WCA/v2/src/config.py).
+Pour ajouter des joueurs, modifiez la liste `TARGET_WCA_IDS` dans le fichier [src/config.py](file:///c:/Users/fabri_/OneDrive%20-%20ac-versailles.fr/IA-IPR/Programmes/Python/VS%20code/WCA/v2/src/config.py).
