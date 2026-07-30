@@ -2,7 +2,7 @@
 
 Ce projet permet de visualiser les résultats de compétiteurs WCA via une interface interactive (timeline, historique complet, carte).
 
-## 🚀 Routine de mise à jour des données !!
+## 🚀 Routine de mise à jour des données !
 
 Pour mettre à jour le dashboard avec les derniers résultats officiels de la WCA, exécutez les commandes suivantes dans l'ordre, depuis la racine du projet :
 
